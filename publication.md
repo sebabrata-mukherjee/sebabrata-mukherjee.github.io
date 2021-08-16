@@ -1,7 +1,5 @@
 ## Publications
-
-
-
+<br/>
 # 2021
 M. Jürgensen, Sebabrata Mukherjee, M. C. Rechtsman "Quantized nonlinear Thouless pumping," [Nature **596**, 63-67 (2021)](https://doi.org/10.1038/s41586-021-03688-9).
 
