@@ -58,8 +58,8 @@ header_pages:
 - home.md
 - publication.md
 - research.md
-- colleagues.md
 - contact.md
+- colleagues.md
 - openpositions.md
 
 number_sections: true
