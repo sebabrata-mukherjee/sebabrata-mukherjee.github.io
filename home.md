@@ -2,7 +2,6 @@
 
 <img src="me.jpeg" width="180" />
 
-
 Sebabrata Mukherjee was awarded the B.Sc. in Physics from the University of Calcutta in 2010 and the M.Sc. in Physics from the Indian Institute of Technology Delhi in 2012. Prior to his doctoral research, he worked as a Project Associate at IIT Delhi. He undertook his Ph.D. at Heriot-Watt University, Edinburgh in the area of experimental simulation of solid-state phenomena in photonic structures and was subsequently awarded “[The 2016 MacFarlane Prize](https://www.hw.ac.uk/uk/students/doc/macfarlane-fund-poster.pdf)” for the most outstanding contribution to the research at the University. He worked as a Research Associate at Heriot-Watt University and postdoctoral scholar at the Pennsylvania State University, USA. He will join IISc Bangalore as an Assistant Professor in September 2021. <br />
 
 Sebabrata’s research interests include photonics and condensed matter physics, Femtosecond laser writing, localization, photonic band engineering, optical nonlinearity, periodic modulation (Floquet engineering) in waveguide structures and photonic topological insulators. 
