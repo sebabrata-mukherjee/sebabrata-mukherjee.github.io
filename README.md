@@ -1,9 +1,11 @@
 <br/><br/>
 
+<figure class="image">
+<img src="images/SolitonEvolution_GIF_new.gif" width="450" />
+ <figcaption>Animation showing a Floquet soliton rotating anticlockwise</figcaption>
+</figure>
 
-![Alt Text](.gif)
-
-
+<br/><br/>
 
 
 
