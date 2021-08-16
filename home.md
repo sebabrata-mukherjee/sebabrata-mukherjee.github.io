@@ -1,17 +1,25 @@
 ### Sebabrata Mukherjee
 
-<img src="images/me.jpeg" width="180" />
+<table>
+ <tr>
+    <td> <img src="images/me.jpeg" width="200" /> </td>   
+    <td>
+      
+- **Education** 
+  - Ph.D. Physics, Heriot-Watt University, Edinburgh, UK (2016) 
+  - M.Sc. Physics, IIT Delhi, New Delhi, India (2012) 
+  - B.Sc. Physics (Hons), University of Calcutta, India (2010)
 
-**Education** 
-- Ph.D. Physics, Heriot-Watt University, Edinburgh, UK (2016) 
-- M.Sc. Physics, IIT Delhi, New Delhi, India (2012) 
-- B.Sc. Physics (Hons), University of Calcutta, India (2010)
+- **Employment** 
+  - Assistant Professor: IISc Bangalore, India; starting on 09/2021
+  - Postdoctoral Scholar: Penn State University, PA, USA; 11/2018 to 08/2021.
+  - Research Associate: Heriot-Watt University, Edinburgh, UK; 10/2016 to 10/2018
+  - Project Associate: Indian Institute of Technology Delhi, India; 11/2012 to 08/2013
+</td>
+ </tr>
+</table>
 
-**Employment** 
-- Assistant Professor: Indian Institute of Science Bangalore, India; starting on 09/2021
-- Postdoctoral Scholar: Penn State University, University Park, PA, USA; 11/2018 to 08/2021.
-- Research Associate: Heriot-Watt University, Edinburgh, UK; 10/2016 to 10/2018.
-- Project Associate: Indian Institute of Technology Delhi, India; 11/2012 to 08/2013
+Sebabrata’s research interests include photonics and condensed matter physics, Femtosecond laser writing, localization, photonic band engineering, optical nonlinearity, periodic modulation (Floquet engineering) in waveguide structures and photonic topological insulators. <br />
 
 See Sebabrata Mukherjee’s [google scholar](https://scholar.google.co.uk/citations?hl=en&user=M29JjtAAAAAJ) profile <br />
 See Sebabrata Mukherjee’s [ORCID](https://orcid.org/0000-0003-1942-2521) page. <br />
