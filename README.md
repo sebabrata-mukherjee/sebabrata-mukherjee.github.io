@@ -17,11 +17,4 @@
 
 
 
-<p float="left">
-  <img src="images/SolitonEvolution_GIF_new.gif" width="150"  />
-  <img src="images/PRLcover.png" width="350" /> 
-</p>
-
-
-
 <br/><br/>
