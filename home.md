@@ -2,6 +2,16 @@
 
 <img src="images/me.jpeg" width="180" />
 
+**Education** 
+- Ph.D. Physics, Heriot-Watt University, Edinburgh, UK (2016) 
+- M.Sc. Physics, IIT Delhi, New Delhi, India (2012) 
+- B.Sc. Physics (Hons), University of Calcutta, India (2010)
+
+**Employment** 
+- Assistant Professor: Indian Institute of Science Bangalore, India; starting on 09/2021
+- Postdoctoral Scholar: Pennsylvania State University, University Park, PA, USA; 11/2018 to 08/2021.
+- Research Associate: Heriot-Watt University, Edinburgh, UK; 10/2016 to 10/2018.
+- Project Associate: Indian Institute of Technology Delhi, India; 11/2012 to 08/2013
 
 Sebabrata Mukherjee was awarded the B.Sc. in Physics from the University of Calcutta in 2010 and the M.Sc. in Physics from the Indian Institute of Technology Delhi in 2012. Prior to his doctoral research, he worked as a Project Associate at IIT Delhi. He undertook his Ph.D. at Heriot-Watt University, Edinburgh in the area of experimental simulation of solid-state phenomena in photonic structures and was subsequently awarded “[The 2016 MacFarlane Prize](https://www.hw.ac.uk/uk/students/doc/macfarlane-fund-poster.pdf)” for the most outstanding contribution to the research at the University. He worked as a Research Associate at Heriot-Watt University and postdoctoral scholar at the Pennsylvania State University, USA. He will join IISc Bangalore as an Assistant Professor in September 2021. <br />
 
