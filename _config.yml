@@ -49,8 +49,6 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
 - publication.md
-
-header_pages:
 - research.md
 
 # Build settings
