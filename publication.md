@@ -1,11 +1,12 @@
-## Publications
+title: Publications
+## Journal Publications
 <br/>
 # 2021
-M. Jürgensen, Sebabrata Mukherjee, M. C. Rechtsman "Quantized nonlinear Thouless pumping," [Nature **596**, 63-67 (2021)](https://doi.org/10.1038/s41586-021-03688-9).
+M. Jürgensen, Sebabrata Mukherjee, Mikael C. Rechtsman "Quantized nonlinear Thouless pumping," [Nature **596**, 63-67 (2021)](https://doi.org/10.1038/s41586-021-03688-9).
 
 
 # 2020
-Sebabrata Mukherjee and M. C. Rechtsman, "Observation of Floquet Solitons in a Topological Band Gap," [Science **368**, 856 (2020)](https://doi.org/10.1126/science.aba8725). <br /> Perspective by [Ablowitz and Cole, Science **368**, 821 (2020)](https://science.sciencemag.org/content/368/6493/821). Press release: [Penn State News](https://news.psu.edu/story/621552/2020/05/28/research/geometry-intricately-fabricated-glass-makes-light-trap-itself), [Phys.org](https://phys.org/news/2020-06-geometry-intricately-fabricated-glass.html).
+Sebabrata Mukherjee and Mikael C. Rechtsman, "Observation of Floquet Solitons in a Topological Band Gap," [Science **368**, 856 (2020)](https://doi.org/10.1126/science.aba8725). <br /> Perspective by [Ablowitz and Cole, Science **368**, 821 (2020)](https://science.sciencemag.org/content/368/6493/821). Press release: [Penn State News](https://news.psu.edu/story/621552/2020/05/28/research/geometry-intricately-fabricated-glass-makes-light-trap-itself), [Phys.org](https://phys.org/news/2020-06-geometry-intricately-fabricated-glass.html).
 
 
 # 2019
@@ -22,11 +23,17 @@ Sebabrata Mukherjee et al., "Experimental observation of anomalous topological e
 # 2015
 S. Mukherjee et al., "Observation of a localized flat-band state in a photonic Lieb lattice," [Physical Review Letters **114**, 245504 (2015)](https://doi.org/10.1103/PhysRevLett.114.245504). Featured in Physics & Editors' Suggestion. Viewpoint in Physical Review Letters [doi:10.1103/Physics.8.55](https://physics.aps.org/articles/v8/55). <br /> News & Views in Nature Materials [doi:10.1038/nmat4378](https://doi.org/10.1038/nmat4378).
 
+Sebabrata Mukherjee and Robert R. Thomson, "Observation of localized flat-band modes in a
+quasi-one-dimensional photonic rhombic lattice," [Optics Letters **40** (23), 5443-5446 (2015)](https://doi.org/10.1364/OL.40.005443).
+
+Sebabrata Mukherjee, Alexander Spracklen, Debaditya Choudhury, Nathan Goldman, Patrik
+\"Ohberg, Erika Andersson, and Robert R. Thomson, "Modulation-assisted tunneling in laserfabricated
+photonic Wannier-Stark ladders," [New Journal of Physics **17**, 115002 (2015)](https://doi.org/10.1088/1367-2630/17/11/115002).
 
 # 2014
-Alexander Arriola, Sebabrata Mukherjee, Debaditya Choudhury, Lucas Labadie, and Robert R. Thomson, 
+1. Alexander Arriola, Sebabrata Mukherjee, Debaditya Choudhury, Lucas Labadie, and Robert R. Thomson, 
 "Ultrafast laser inscription of mid-IR directional couplers for stellar interferometry,"
-Optics Letters **39** (16), 4820-4822 (2014).
+[Optics Letters **39** (16), 4820-4822 (2014)](https://doi.org/10.1364/OL.39.004820).
 
 
 
