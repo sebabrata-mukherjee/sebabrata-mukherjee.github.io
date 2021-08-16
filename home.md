@@ -1,4 +1,4 @@
-**Dr. Sebabrata Mukherjee**
+# Dr. Sebabrata Mukherjee
 </br>
 
 <img src="me.jpeg" width="180" />
