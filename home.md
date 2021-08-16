@@ -1,5 +1,4 @@
 # Sebabrata Mukherjee
-</br>
 
 <img src="me.jpeg" width="180" />
 
