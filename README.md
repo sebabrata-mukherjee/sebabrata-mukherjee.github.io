@@ -6,21 +6,14 @@ Sebabrata Mukherjee was awarded the B.Sc. in Physics from the University of Calc
 Sebabrata’s research interests include photonics and condensed matter physics, Femtosecond laser writing, localization, photonic band engineering, optical nonlinearity, periodic modulation (Floquet engineering) in waveguide structures and photonic topological insulators. 
 
 
+See Sebabrata Mukherjee’s [google scholar](https://scholar.google.co.uk/citations?hl=en&user=M29JjtAAAAAJ) profile <br />
+See Sebabrata Mukherjee’s [ORCID](https://orcid.org/0000-0003-1942-2521) page. <br />
+
+
 ## Contact details:
 Department of Physics,104 Davey Lab, Box 40 <br />
 The Pennsylvania State University, State College, PA 16801, USA <br />
 Email: mukherjeesebabrata@gmail.com
-
-
-## Publications:
-See Sebabrata Mukherjee’s [google scholar](https://scholar.google.co.uk/citations?hl=en&user=M29JjtAAAAAJ) profile <br />
-See Sebabrata Mukherjee’s [ORCID](https://orcid.org/0000-0003-1942-2521) page
-
-
-
-## Research:
-Our goal is to apply photonic technologies to discover new physics and find their applications, going beyond the traditional scope of optics and condensed matter physics. We study how optical states propagate along intricately designed waveguide networks that are created inside glass slabs using femtosecond laser pulses. 
-
 
 
 ### Selected articles:
