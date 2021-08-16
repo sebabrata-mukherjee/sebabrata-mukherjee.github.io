@@ -2,7 +2,7 @@ title: Sebabrata Mukherjee's homepage
 author: 
   name: Sebabrata Mukherjee
   email: mukherjeesebabrata@gmail.com
-description: false > # this means to ignore newlines until "show_excerpts:"
+description: #false > # this means to ignore newlines until "show_excerpts:"
   #Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 
 show_excerpts: false # set to true to show excerpts on the homepage
@@ -50,6 +50,8 @@ minima:
 header_pages:
 - publication.md
 - research.md
+- contact.md
+#- openpositions.md
 
 # Build settings
 theme: minima
