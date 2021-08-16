@@ -1,5 +1,3 @@
-# Journal Publications
-<br/>
 
 # 2021
 M. Jürgensen, Sebabrata Mukherjee, Mikael C. Rechtsman "Quantized nonlinear Thouless pumping," [Nature **596**, 63-67 (2021)](https://doi.org/10.1038/s41586-021-03688-9).
@@ -19,6 +17,12 @@ Sebabrata Mukherjee et al., "State-recycling and time-resolved imaging in topolo
 
 # 2017
 Sebabrata Mukherjee et al., "Experimental observation of anomalous topological edge modes in a slowly driven photonic lattice," [Nature Communications **8**, 13918 (2017)](https://doi.org/10.1038/ncomms13918).
+
+# 2016
+Sebabrata Mukherjee, Manuel Valiente, Nathan Goldman, Alexander Spracklen, Erika
+Andersson, Patrik \"Ohberg, and Robert R. Thomson, "Observation of pair tunneling and
+coherent destruction of tunneling in arrays of optical waveguides," [Physical Review A 94 (5),
+053853 (2016)]().
 
 # 2015
 S. Mukherjee et al., "Observation of a localized flat-band state in a photonic Lieb lattice," [Physical Review Letters **114**, 245504 (2015)](https://doi.org/10.1103/PhysRevLett.114.245504). Featured in Physics & Editors' Suggestion. Viewpoint in Physical Review Letters [doi:10.1103/Physics.8.55](https://physics.aps.org/articles/v8/55). <br /> News & Views in Nature Materials [doi:10.1038/nmat4378](https://doi.org/10.1038/nmat4378).
