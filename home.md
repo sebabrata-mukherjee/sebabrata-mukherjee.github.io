@@ -1,12 +1,12 @@
 ### Sebabrata Mukherjee
  
- <img src="images/me.jpeg" width="140" /> </td>
+ <img src="images/me.jpeg" width="140" /> 
   
 - **Education** 
   - Ph.D. Physics, Heriot-Watt University, Edinburgh, UK (2016) 
   - M.Sc. Physics, IIT Delhi, New Delhi, India (2012) 
   - B.Sc. Physics (Hons), University of Calcutta, India (2010)
-  - 
+  
 - **Employment** 
   - Assistant Professor: IISc Bangalore, India; starting on 09/2021
   - Postdoctoral Scholar: Penn State University, PA, USA; 11/2018 to 08/2021.
