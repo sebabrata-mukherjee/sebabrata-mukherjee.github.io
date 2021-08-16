@@ -7,6 +7,9 @@
    
 <br/>   
 
+# Preprint
+19. Sebabrata Mukherjee and Mikael C. Rechtsman, "Observation of unidirectional soliton-like edge states in nonlinear Floquet topological insulators," arXiv preprint [arXiv:2010.11359](https://arxiv.org/abs/2010.11359).
+
 # 2021
 18. Marius. Jürgensen, Sebabrata Mukherjee, Mikael C. Rechtsman "Quantized nonlinear Thouless pumping," [Nature **596**, 63-67 (2021)](https://doi.org/10.1038/s41586-021-03688-9).
 
