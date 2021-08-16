@@ -1,7 +1,6 @@
 
 # Publications
 
-
    [**Google Scholar**](https://scholar.google.co.uk/citations?hl=en&user=M29JjtAAAAAJ) <br/>
    [**Researchgate**](https://www.researchgate.net/profile/Sebabrata-Mukherjee)
    
