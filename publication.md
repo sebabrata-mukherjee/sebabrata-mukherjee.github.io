@@ -5,15 +5,15 @@
    [**Researchgate**](https://www.researchgate.net/profile/Sebabrata-Mukherjee)
    
 
-## Preprint
+**Preprint** <br/>
 - Sebabrata Mukherjee and Mikael C. Rechtsman, "Observation of unidirectional soliton-like edge states in nonlinear Floquet topological insulators," arXiv preprint [arXiv:2010.11359](https://arxiv.org/abs/2010.11359).
 
-## 2021
+
+**2021** <br/>
 - Marius. Jürgensen, Sebabrata Mukherjee, Mikael C. Rechtsman "Quantized nonlinear Thouless pumping," [Nature **596**, 63-67 (2021)](https://doi.org/10.1038/s41586-021-03688-9).
 
 
-
-## 2020
+**2020** <br/>
 - Sebabrata Mukherjee and Mikael C. Rechtsman, "Observation of Floquet Solitons in a Topological Band Gap," [Science **368**, 856 (2020)](https://doi.org/10.1126/science.aba8725). <br /> Perspective by [Ablowitz and Cole, Science **368**, 821 (2020)](https://science.sciencemag.org/content/368/6493/821). Press release: [Penn State News](https://news.psu.edu/story/621552/2020/05/28/research/geometry-intricately-fabricated-glass-makes-light-trap-itself), [Phys.org](https://phys.org/news/2020-06-geometry-intricately-fabricated-glass.html).
 
 - Alexander Cerjan, Marius Jürgensen, Wladimir A Benalcazar, Sebabrata Mukherjee, and
@@ -21,13 +21,12 @@ Mikael C. Rechtsman, "Observation of a higher-order topological bound state in t
 continuum", [Physical Review Letters **125**, 213901 (2020)](https://doi.org/10.1103/PhysRevLett.125.213901). Editors' Suggestion
 
 - Harikumar K Chandrasekharan, Katjana Ehrlich, Michael G Tanner, Dionne M Haynes,
-Sebabrata Mukherjee, Tim A Birks, and Robert R Thomson, \Observing mode-dependent
+Sebabrata Mukherjee, Tim A Birks, and Robert R Thomson, "Observing mode-dependent
 wavelength-to-time mapping in few-mode fibers using a single-photon detector array," [APL
 Photonics 5, 061303 (2020)](https://doi.org/10.1063/5.0006983).
 
 
-
-## 2019
+**2019** <br/>
 - Marco Di Liberto, Sebabrata Mukherjee and Nathan Goldman, "Nonlinear dynamics of
 Aharonov-Bohm cages," [Physical Review A 100, 043829 (2019)](https://doi.org/10.1103/PhysRevA.100.043829).
 
@@ -37,18 +36,20 @@ of the probabilistic quantum optical state comparison amplifer," [Optics Express
 31726 (2019)](https://doi.org/10.1364/OE.27.031713)
 
 
+**2018** <br/>
+- Sebabrata Mukherjee, Marco Di Liberto, Patrik \"Ohberg, Robert R. Thomson, and Nathan
+Goldman, "Experimental Observation of Aharonov-Bohm Cages in Photonic Lattices," [Physical Review Letters **121**, 075502 (2018)](https://doi.org/10.1103/PhysRevLett.121.075502). Highlighted on the cover page of [Physical Review Letters **121** (7)](https://journals.aps.org/prl/issues/121/7).
 
-## 2018
-- Sebabrata Mukherjee et al., "Experimental Observation of Aharonov-Bohm Cages in Photonic Lattices," [Physical Review Letters **121**, 075502 (2018)](https://doi.org/10.1103/PhysRevLett.121.075502). Highlighted on the cover page of [Physical Review Letters **121** (7)](https://journals.aps.org/prl/issues/121/7).
-
-- Sebabrata Mukherjee et al., "State-recycling and time-resolved imaging in topological photonic lattices," [Nature Communications **9**, 4209 (2018)](https://doi.org/10.1038/s41467-018-06723-y). Press release: [BBC News](https://www.bbc.com/news/uk-scotland-46070122?SThisFB&fbclid=IwAR3Ln2qR31mAFf4uhu81kmCbJ13mMbOYWxq6Sm19EIHwQQM-ISZu1ALAscA).
+- Sebabrata Mukherjee, Harikumar K. Chandrasekharan, Patrik \"Ohberg, Nathan Goldman and
+Robert R. Thomson, "State-recycling and time-resolved imaging in topological photonic lattices," [Nature Communications **9**, 4209 (2018)](https://doi.org/10.1038/s41467-018-06723-y). Press release: [BBC News](https://www.bbc.com/news/uk-scotland-46070122?SThisFB&fbclid=IwAR3Ln2qR31mAFf4uhu81kmCbJ13mMbOYWxq6Sm19EIHwQQM-ISZu1ALAscA).
 
 - Camilo Cantillano, Sebabrata Mukherjee, Luis Morales-Inostroza, Bastian Real, Gabriel Caceres-
 Aravena, Carla Hermann-Avigliano, Robert R. Thomson, and Rodrigo A. Vicencio, "Observation
 of Ground and Excited Flat Band States in Graphene Photonic Ribbons," [New Journal of Physics
 **20**, 033028 (2018)](https://doi.org/10.1088/1367-2630/aab483).
 
-## 2017
+
+**2017** <br/>
 - Sebabrata Mukherjee, Alexander Spracklen, Manuel Valiente, Erika Andersson, Patrik Ohberg,
 Nathan Goldman, and Robert R. Thomson, "Experimental observation of anomalous topological edge modes in a slowly driven photonic lattice," [Nature Communications **8**, 13918 (2017)](https://doi.org/10.1038/ncomms13918).
 
@@ -61,7 +62,7 @@ driven photonic rhombic lattices," [Optics Letters **42** (12) 2243-2246 (2017)]
 
 
 
-## 2016
+**2016** <br/>
 - Sebabrata Mukherjee, Manuel Valiente, Nathan Goldman, Alexander Spracklen, Erika
 Andersson, Patrik \"Ohberg, and Robert R. Thomson, "Observation of pair tunneling and
 coherent destruction of tunneling in arrays of optical waveguides," [Physical Review A 94 (5),
@@ -73,7 +74,7 @@ fused silica via femtosecond laser irradiation," [Optica 3 (12), 1285-1293 (2016
 
 
 
-## 2015
+**2015** <br/>
 - Sebabrata Mukherjee, Alexander Spracklen, Debaditya Choudhury, Nathan Goldman, Patrik \"Ohberg, Erika Andersson and Robert R. Thomson,, "Observation of a localized flat-band state in a photonic Lieb lattice," [Physical Review Letters **114**, 245504 (2015)](https://doi.org/10.1103/PhysRevLett.114.245504). Featured in Physics & Editors' Suggestion. Viewpoint in Physical Review Letters [doi:10.1103/Physics.8.55](https://physics.aps.org/articles/v8/55). <br /> News & Views in Nature Materials [doi:10.1038/nmat4378](https://doi.org/10.1038/nmat4378).
 
 - Sebabrata Mukherjee and Robert R. Thomson, "Observation of localized flat-band modes in a
@@ -85,7 +86,7 @@ photonic Wannier-Stark ladders," [New Journal of Physics **17**, 115002 (2015)](
 
 
 
-## 2014
+**2014** <br/>
 - Alexander Arriola, Sebabrata Mukherjee, Debaditya Choudhury, Lucas Labadie, and Robert R. Thomson, 
 "Ultrafast laser inscription of mid-IR directional couplers for stellar interferometry,"
 [Optics Letters **39** (16), 4820-4822 (2014)](https://doi.org/10.1364/OL.39.004820).
