@@ -9,18 +9,17 @@
 
 **Employment** 
 - Assistant Professor: Indian Institute of Science Bangalore, India; starting on 09/2021
-- Postdoctoral Scholar: Pennsylvania State University, University Park, PA, USA; 11/2018 to 08/2021.
+- Postdoctoral Scholar: Penn State University, University Park, PA, USA; 11/2018 to 08/2021.
 - Research Associate: Heriot-Watt University, Edinburgh, UK; 10/2016 to 10/2018.
 - Project Associate: Indian Institute of Technology Delhi, India; 11/2012 to 08/2013
 
 Sebabrata Mukherjee was awarded the B.Sc. in Physics from the University of Calcutta in 2010 and the M.Sc. in Physics from the Indian Institute of Technology Delhi in 2012. Prior to his doctoral research, he worked as a Project Associate at IIT Delhi. He undertook his Ph.D. at Heriot-Watt University, Edinburgh in the area of experimental simulation of solid-state phenomena in photonic structures and was subsequently awarded “[The 2016 MacFarlane Prize](https://www.hw.ac.uk/uk/students/doc/macfarlane-fund-poster.pdf)” for the most outstanding contribution to the research at the University. He worked as a Research Associate at Heriot-Watt University and postdoctoral scholar at the Pennsylvania State University, USA. He will join IISc Bangalore as an Assistant Professor in September 2021. <br />
 
-Sebabrata’s research interests include photonics and condensed matter physics, Femtosecond laser writing, localization, photonic band engineering, optical nonlinearity, periodic modulation (Floquet engineering) in waveguide structures and photonic topological insulators. 
+Sebabrata’s research interests include photonics and condensed matter physics, Femtosecond laser writing, localization, photonic band engineering, optical nonlinearity, periodic modulation (Floquet engineering) in waveguide structures and photonic topological insulators. <br />
 
 
 See Sebabrata Mukherjee’s [google scholar](https://scholar.google.co.uk/citations?hl=en&user=M29JjtAAAAAJ) profile <br />
 See Sebabrata Mukherjee’s [ORCID](https://orcid.org/0000-0003-1942-2521) page. <br />
-
 
 **Selected articles:**
 1. M. Jürgensen, S. Mukherjee, M. C. Rechtsman "Quantized nonlinear Thouless pumping," [Nature **596**, 63-67 (2021)](https://doi.org/10.1038/s41586-021-03688-9).
