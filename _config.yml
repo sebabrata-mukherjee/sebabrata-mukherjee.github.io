@@ -7,6 +7,13 @@ author:
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
+
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: true
+
+
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
