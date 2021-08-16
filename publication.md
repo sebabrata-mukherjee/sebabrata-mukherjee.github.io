@@ -2,6 +2,11 @@
 ## Publications
 <br/>
 
+   # [**Google Scholar**](https://scholar.google.co.uk/citations?hl=en&user=M29JjtAAAAAJ) <br/>
+   # [**Researchgate**](https://www.researchgate.net/profile/Sebabrata-Mukherjee)
+   
+<br/>   
+
 # 2021
 18. Marius. Jürgensen, Sebabrata Mukherjee, Mikael C. Rechtsman "Quantized nonlinear Thouless pumping," [Nature **596**, 63-67 (2021)](https://doi.org/10.1038/s41586-021-03688-9).
 
