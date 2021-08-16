@@ -1,4 +1,4 @@
-# Research** 
+# Research
 </br>
 
 Our goal is to apply photonic technologies to discover new physics and find their applications, going beyond the traditional scope of 
