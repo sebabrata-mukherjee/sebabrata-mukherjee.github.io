@@ -51,7 +51,7 @@ header_pages:
 - publication.md
 - research.md
 - contact.md
-#- openpositions.md
+- openpositions.md
 
 # Build settings
 theme: minima
