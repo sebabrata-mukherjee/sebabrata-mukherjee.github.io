@@ -24,7 +24,7 @@ Under certain conditions, focused sub-picosecond laser pulses can drive nonlinea
 Because of the nonlinear nature of the interaction, such refractive index modifications occur only near the focal volume of the laser beam. Hence, by translating the substrate, we can inscribe (or directly write) three-dimensional structures that can act as optical waveguides. To fabricate each optical waveguide, a glass substrate is mounted on high precision x-y-z stages and then translated through the focus of the laser beam. Using these high precision stages, the inter-waveguide spacing can be controlled on the scale of a few tens of nanometers - enabling precise control of the evanescent coupling strength, which determines the tunneling of optical waves to the nearest waveguides. The analogous on-site energy (i.e., refractive index modification) can be controlled either by varying pulse energy or translation speed of fabrication.
 
 <p align="center">
-<img src="imageN/FLW.png" width="500"/>
+<img src="imageN/FLW2.png" width="500"/>
 </p>
 
 <p align="center">
