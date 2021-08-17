@@ -1,5 +1,5 @@
 <p align="center">
-<img src="images/SolitonEvolution_GIF_new.gif" width="350" />
+<img src="imageN/SolitonEvolution_GIF_2.gif" width="350"/>
 </p>
 
 <p align="center">
