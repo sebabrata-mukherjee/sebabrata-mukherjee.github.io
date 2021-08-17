@@ -5,10 +5,6 @@ td, th {
 </style>
 
 <table>
-  <tr>
-    <td><b style="font-size:15px"></b></td>
-    <td><b style="font-size:15px"></b></td>
- </tr>
 <th align="center">Femtosecond laser writing </th>
 <th align="center">State-recycling </th>
 <th align="center">Floquet soliton </th>
