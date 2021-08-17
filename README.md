@@ -5,15 +5,15 @@ td, th {
 </style>
 
 <table>
+<p align="center">   
 <th align="center">Femtosecond laser writing </th>
 <th align="center">State-recycling </th>
-<th align="center">Floquet soliton </th>
  <tr>
   <td><img src="imageN/FLW.png" width="350" /> </td>   
   <td><img src="imageN/StateRecycling.png" width="360" /> </td> 
-  <td><img src="imageN/SolitonEvolution_GIF_2.gif" width="300" />
 </td>
 </tr>
+</p>
 </table>
 
 
