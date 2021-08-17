@@ -24,7 +24,7 @@ Coming soon... <br />
 </p>
 
 <p align="center">
-Schematic of femtosecond laser writing (left). Micrograph of a single mode waveguide (cross-section) at 1030 nm and the guided mode (right).
+Schematic of femtosecond laser writing (left). Micrograph of a single mode waveguide (cross-section) at 1030 nm and the guided mode (right). [Reference](https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.712754)
 </p>
 
 **Femtosecond laser writing** <br />
