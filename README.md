@@ -13,9 +13,9 @@ td, th {
 <th> State-recycling </th>
 <th> Floquet soliton </th>
  <tr>
-  <td> <img src="imageN/FLW.png" width="350" /> </td>   
-  <td> <img src="imageN/StateRecycling.png" width="350" /> </td> 
-  <td> <img src="imageN/SolitonEvolution_GIF_2.gif" width="350" /> </td> 
+  <td><img src="imageN/FLW.png" width="350" /> </td>   
+  <td><img src="imageN/StateRecycling.png" width="350" /> </td> 
+  <td><img src="imageN/SolitonEvolution_GIF_2.gif" width="350" />
 </td>
 </tr>
 </table>
