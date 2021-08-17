@@ -56,13 +56,13 @@ minima:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
-  - home.md
-  - publication.md
-  - research.md
-  - contact.md
-  - colleagues.md
-  - openpositions.md
-  - README3.md
+- home.md
+- publication.md
+- research.md
+- contact.md
+- colleagues.md
+- 1. openpositions.md
+  2. README3.md
 
 number_sections: true
 
