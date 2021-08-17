@@ -37,10 +37,10 @@ of the probabilistic quantum optical state comparison amplifer," [Optics Express
 
 
 **2018** <br/>
-- Sebabrata Mukherjee, Marco Di Liberto, Patrik \"Ohberg, Robert R. Thomson, and Nathan
+- Sebabrata Mukherjee, Marco Di Liberto, Patrik Öhberg, Robert R. Thomson, and Nathan
 Goldman, "Experimental Observation of Aharonov-Bohm Cages in Photonic Lattices," [Physical Review Letters **121**, 075502 (2018)](https://doi.org/10.1103/PhysRevLett.121.075502). Highlighted on the cover page of [Physical Review Letters **121** (7)](https://journals.aps.org/prl/issues/121/7).
 
-- Sebabrata Mukherjee, Harikumar K. Chandrasekharan, Patrik \"Ohberg, Nathan Goldman and
+- Sebabrata Mukherjee, Harikumar K. Chandrasekharan, Patrik Öhberg, Nathan Goldman and
 Robert R. Thomson, "State-recycling and time-resolved imaging in topological photonic lattices," [Nature Communications **9**, 4209 (2018)](https://doi.org/10.1038/s41467-018-06723-y). Press release: [BBC News](https://www.bbc.com/news/uk-scotland-46070122?SThisFB&fbclid=IwAR3Ln2qR31mAFf4uhu81kmCbJ13mMbOYWxq6Sm19EIHwQQM-ISZu1ALAscA).
 
 - Camilo Cantillano, Sebabrata Mukherjee, Luis Morales-Inostroza, Bastian Real, Gabriel Caceres-
@@ -50,7 +50,7 @@ of Ground and Excited Flat Band States in Graphene Photonic Ribbons," [New Journ
 
 
 **2017** <br/>
-- Sebabrata Mukherjee, Alexander Spracklen, Manuel Valiente, Erika Andersson, Patrik Ohberg,
+- Sebabrata Mukherjee, Alexander Spracklen, Manuel Valiente, Erika Andersson, Patrik Öhberg,
 Nathan Goldman, and Robert R. Thomson, "Experimental observation of anomalous topological edge modes in a slowly driven photonic lattice," [Nature Communications **8**, 13918 (2017)](https://doi.org/10.1038/ncomms13918).
 
 - Sebabrata Mukherjee, Dmitri Mogilevtsev, Gregory Ya Slepyan, Thomas H. Doherty, Robert
@@ -64,7 +64,7 @@ driven photonic rhombic lattices," [Optics Letters **42** (12) 2243-2246 (2017)]
 
 **2016** <br/>
 - Sebabrata Mukherjee, Manuel Valiente, Nathan Goldman, Alexander Spracklen, Erika
-Andersson, Patrik \"Ohberg, and Robert R. Thomson, "Observation of pair tunneling and
+Andersson, Patrik Öhberg, and Robert R. Thomson, "Observation of pair tunneling and
 coherent destruction of tunneling in arrays of optical waveguides," [Physical Review A 94 (5),
 053853 (2016)](https://doi.org/10.1103/PhysRevA.94.053853).
 
@@ -75,13 +75,13 @@ fused silica via femtosecond laser irradiation," [Optica 3 (12), 1285-1293 (2016
 
 
 **2015** <br/>
-- Sebabrata Mukherjee, Alexander Spracklen, Debaditya Choudhury, Nathan Goldman, Patrik \"Ohberg, Erika Andersson and Robert R. Thomson,, "Observation of a localized flat-band state in a photonic Lieb lattice," [Physical Review Letters **114**, 245504 (2015)](https://doi.org/10.1103/PhysRevLett.114.245504). Featured in Physics & Editors' Suggestion. Viewpoint in Physical Review Letters [doi:10.1103/Physics.8.55](https://physics.aps.org/articles/v8/55). <br /> News & Views in Nature Materials [doi:10.1038/nmat4378](https://doi.org/10.1038/nmat4378).
+- Sebabrata Mukherjee, Alexander Spracklen, Debaditya Choudhury, Nathan Goldman, Patrik Öhberg, Erika Andersson and Robert R. Thomson,, "Observation of a localized flat-band state in a photonic Lieb lattice," [Physical Review Letters **114**, 245504 (2015)](https://doi.org/10.1103/PhysRevLett.114.245504). Featured in Physics & Editors' Suggestion. Viewpoint in Physical Review Letters [doi:10.1103/Physics.8.55](https://physics.aps.org/articles/v8/55). <br /> News & Views in Nature Materials [doi:10.1038/nmat4378](https://doi.org/10.1038/nmat4378).
 
 - Sebabrata Mukherjee and Robert R. Thomson, "Observation of localized flat-band modes in a
 quasi-one-dimensional photonic rhombic lattice," [Optics Letters **40** (23), 5443-5446 (2015)](https://doi.org/10.1364/OL.40.005443).
 
 - Sebabrata Mukherjee, Alexander Spracklen, Debaditya Choudhury, Nathan Goldman, Patrik
-\"Ohberg, Erika Andersson, and Robert R. Thomson, "Modulation-assisted tunneling in laserfabricated
+Öhberg, Erika Andersson, and Robert R. Thomson, "Modulation-assisted tunneling in laserfabricated
 photonic Wannier-Stark ladders," [New Journal of Physics **17**, 115002 (2015)](https://doi.org/10.1088/1367-2630/17/11/115002).
 
 
