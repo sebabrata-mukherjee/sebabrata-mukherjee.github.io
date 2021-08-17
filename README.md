@@ -9,9 +9,9 @@ td, th {
     <td><b style="font-size:15px"></b></td>
     <td><b style="font-size:15px"></b></td>
  </tr>
-<th> Femtosecond laser writing </th>
-<th> State-recycling </th>
-<th> Floquet soliton </th>
+<th align="center">Femtosecond laser writing </th>
+<th align="center">State-recycling </th>
+<th align="center">Floquet soliton </th>
  <tr>
   <td><img src="imageN/FLW.png" width="350" /> </td>   
   <td><img src="imageN/StateRecycling.png" width="350" /> </td> 
