@@ -1,4 +1,11 @@
 ## test
+
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 <table>
   <tr>
     <td><b style="font-size:15px"></b></td>
