@@ -18,18 +18,5 @@ Coming soon... <br />
 **Nonlinear/interacting topological photonics** <br />
 Coming soon... <br />
 
-
-<p align="center">
-<img src="imageN/FLW2.png" width="500"/>
-</p>
-
-<p align="center">
-Schematic of femtosecond laser writing (left) . Micrograph of a single mode waveguide (cross-section) at 1030 nm and the guided mode (right).
-</p>
-
 **Femtosecond laser writing** <br />
-Under certain conditions, focused sub-picosecond laser pulses can drive nonlinear absorption processes inside transparent dielectric materials. These nonlinear processes can cause various types of permanent structural modifications that are strongly influenced by the exposure conditions and material properties. For glass substrates such as fused silica and borosilicate, it is possible to achieve a permanent positive refractive index modification of the order of 0.0001. <br />
-
-Because of the nonlinear nature of the interaction, such refractive index modifications occur only near the focal volume of the laser beam. Hence, by translating the substrate, we can inscribe (or directly write) three-dimensional structures that can act as optical waveguides. To fabricate each optical waveguide, a glass substrate is mounted on high precision x-y-z stages and then translated through the focus of the laser beam. Using these high precision stages, the inter-waveguide spacing can be controlled on the scale of a few tens of nanometers - enabling precise control of the evanescent coupling strength, which determines the tunneling of optical waves to the nearest waveguides. The analogous on-site energy (i.e., refractive index modification) can be controlled either by varying pulse energy or translation speed of fabrication. 
-
-Related references [[1](https://doi.org/10.1038/nphoton.2008.47)], [[2](https://doi.org/10.1088/0953-4075/43/16/163001)], [[3](https://ethos.bl.uk/OrderDetails.do?uin=uk.bl.ethos.712754)].
+Coming soon... <br />
