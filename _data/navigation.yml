@@ -1,0 +1,19 @@
+# main links links
+main:
+  - title: "People"
+    url: /publications/
+    
+  - title: "Publications"
+    url: /publications/
+    
+  - title: "Research"
+    url: /Research/
+        
+  - title: "Contact"
+    url: /year-archive/
+    
+  - title: "Collaborators"
+    url: /cv/
+    
+  - title: "Open positions"
+    url: /markdown/
