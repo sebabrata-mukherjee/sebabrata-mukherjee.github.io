@@ -1,5 +1,8 @@
 ## test
 <table>
+<th> Femtosecond laser writing </th>
+<th> State-recycling and time-resolved imageing </th>
+<th> Cyclotron-like motion of a Floquet soliton </th>
  <tr>
   <td> <img src="imageN/FLW.png" width="250" /> </td>   
   <td> <img src="imageN/StateRecycling.png" width="250" /> </td> 
