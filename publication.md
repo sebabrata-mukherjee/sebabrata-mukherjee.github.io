@@ -16,12 +16,12 @@
 **2020** <br/>
 - Sebabrata Mukherjee and Mikael C. Rechtsman, "Observation of Floquet Solitons in a Topological Band Gap," [Science **368**, 856 (2020)](https://doi.org/10.1126/science.aba8725). <br /> Perspective by [Ablowitz and Cole, Science **368**, 821 (2020)](https://science.sciencemag.org/content/368/6493/821). Press release: [Penn State News](https://news.psu.edu/story/621552/2020/05/28/research/geometry-intricately-fabricated-glass-makes-light-trap-itself), [Phys.org](https://phys.org/news/2020-06-geometry-intricately-fabricated-glass.html).
 
-- Alexander Cerjan, Marius Jürgensen, Wladimir A Benalcazar, Sebabrata Mukherjee, and
+- Alexander Cerjan, Marius Jürgensen, Wladimir A. Benalcazar, Sebabrata Mukherjee, and
 Mikael C. Rechtsman, "Observation of a higher-order topological bound state in the
 continuum", [Physical Review Letters **125**, 213901 (2020)](https://doi.org/10.1103/PhysRevLett.125.213901). Editors' Suggestion
 
-- Harikumar K Chandrasekharan, Katjana Ehrlich, Michael G Tanner, Dionne M Haynes,
-Sebabrata Mukherjee, Tim A Birks, and Robert R Thomson, "Observing mode-dependent
+- Harikumar K Chandrasekharan, Katjana Ehrlich, Michael G. Tanner, Dionne M. Haynes,
+Sebabrata Mukherjee, Tim A. Birks, and Robert R. Thomson, "Observing mode-dependent
 wavelength-to-time mapping in few-mode fibers using a single-photon detector array," [APL
 Photonics 5, 061303 (2020)](https://doi.org/10.1063/5.0006983).
 
@@ -30,8 +30,8 @@ Photonics 5, 061303 (2020)](https://doi.org/10.1063/5.0006983).
 - Marco Di Liberto, Sebabrata Mukherjee and Nathan Goldman, "Nonlinear dynamics of
 Aharonov-Bohm cages," [Physical Review A 100, 043829 (2019)](https://doi.org/10.1103/PhysRevA.100.043829).
 
-- David W Canning, Ross J Donaldson, Sebabrata Mukherjee, Ross J Collings, Luca Mazzarella,
-Ugo Zanforlin, John Jeers, Robert R Thomson, and Gerald S Buller, "On-chip implementation
+- David W. Canning, Ross J. Donaldson, Sebabrata Mukherjee, Ross J. Collings, Luca Mazzarella,
+Ugo Zanforlin, John Jeers, Robert R. Thomson, and Gerald S. Buller, "On-chip implementation
 of the probabilistic quantum optical state comparison amplifer," [Optics Express **27** (22), 31713-
 31726 (2019)](https://doi.org/10.1364/OE.27.031713)
 
