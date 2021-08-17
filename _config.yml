@@ -60,7 +60,6 @@ header_pages:
 - publication.md
 - research.md
 - contact.md
-- colleagues.md
 - openpositions.md 
 
 number_sections: true
