@@ -25,13 +25,25 @@ td, th {
 
 
 
+<style>
+th {
+   border: none!important;
+   text-align: center;
+   background: red;
+}
+</style>
 
-
-
-
-
-
-
+<p align="center">
+<table>
+<th>Femtosecond laser writing </th>
+<th>State-recycling </th>
+ <tr>
+  <td align="center"><img src="imageN/FLW.png" width="350" /> </td>   
+  <td align="center"><img src="imageN/StateRecycling.png" width="360" /> </td> 
+</td>
+</tr>
+</table>
+</p>
 
 
 
