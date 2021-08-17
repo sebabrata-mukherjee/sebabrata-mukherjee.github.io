@@ -4,8 +4,8 @@ td, th {
 }
 </style>
 
+
 <table>
-<p align="center">   
 <th align="center">Femtosecond laser writing </th>
 <th align="center">State-recycling </th>
  <tr>
@@ -13,7 +13,6 @@ td, th {
   <td><img src="imageN/StateRecycling.png" width="360" /> </td> 
 </td>
 </tr>
-</p>
 </table>
 
 
