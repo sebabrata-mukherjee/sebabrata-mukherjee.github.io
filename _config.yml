@@ -61,8 +61,7 @@ header_pages:
 - research.md
 - contact.md
 - colleagues.md
-- 1. openpositions.md
-  2. README3.md
+- openpositions.md README3.md
 
 number_sections: true
 
