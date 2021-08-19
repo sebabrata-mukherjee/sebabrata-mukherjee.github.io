@@ -16,6 +16,3 @@ See Sebabrata Mukherjee’s [ORCID](https://orcid.org/0000-0003-1942-2521) page.
 4. S. Mukherjee et al., "State-recycling and time-resolved imaging in topological photonic lattices," [Nature Communications **9**, 4209 (2018)](https://doi.org/10.1038/s41467-018-06723-y). Press release: [BBC News](https://www.bbc.com/news/uk-scotland-46070122?SThisFB&fbclid=IwAR3Ln2qR31mAFf4uhu81kmCbJ13mMbOYWxq6Sm19EIHwQQM-ISZu1ALAscA).
 5. S. Mukherjee et al., "Experimental observation of anomalous topological edge modes in a slowly driven photonic lattice," [Nature Communications **8**, 13918 (2017)](https://doi.org/10.1038/ncomms13918).
 6. S. Mukherjee et al., "Observation of a localized flat-band state in a photonic Lieb lattice," [Physical Review Letters **114**, 245504 (2015)](https://doi.org/10.1103/PhysRevLett.114.245504). Featured in Physics & Editors' Suggestion. Viewpoint in Physical Review Letters [doi:10.1103/Physics.8.55](https://physics.aps.org/articles/v8/55). <br /> News & Views in Nature Materials [doi:10.1038/nmat4378](https://doi.org/10.1038/nmat4378).
-
-
-<!--- <img src="images/me.jpeg" width="140" /> ---!>
