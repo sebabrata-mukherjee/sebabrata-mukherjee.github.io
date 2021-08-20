@@ -1,6 +1,6 @@
 ### Sebabrata Mukherjee
  
-<img align="right" src="images/me.jpeg" width="220"/>
+<img align="right" src="images/me.jpeg" width="210"/>
 
 - *Education* 
   - Ph.D. Physics, Heriot-Watt University, Edinburgh, UK (2016) 
