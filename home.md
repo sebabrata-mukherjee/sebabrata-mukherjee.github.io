@@ -5,7 +5,7 @@
 - *Education* 
   - Ph.D. Physics, Heriot-Watt University, Edinburgh, UK (2016) 
   - M.Sc. Physics, IIT Delhi, New Delhi, India (2012) 
-  - B.Sc. Physics (Hons), University of Calcutta, India (2010) </br>
+  - B.Sc. Physics (Hons), University of Calcutta, India (2010) 
 - *Employment* 
   - Assistant Professor: IISc Bangalore, India
   - Postdoctoral Scholar: Penn State University, PA, USA
