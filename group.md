@@ -1,5 +1,6 @@
-##People
+### People
 
-header_pages:
-- home.md
-- phdStudents.md
+[Sebabrata Mukherjee](home.md)
+
+[phdstudents](phd.md)
+
