@@ -1,3 +1,3 @@
-### Phd Students
+### Ph.D. Students
 
 Coming soon...
