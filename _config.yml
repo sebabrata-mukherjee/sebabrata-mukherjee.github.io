@@ -58,6 +58,7 @@ minima:
 # this and add the path to the pages in order as they should show up
 header_pages:
 - home.md
+- group.md
 - publication.md
 - research.md
 - contact.md
