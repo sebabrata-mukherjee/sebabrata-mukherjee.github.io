@@ -2,5 +2,5 @@
 
 [Sebabrata Mukherjee](home.md)
 
-[phdstudents](phd.md)
+[Phd Students](phd.md)
 
