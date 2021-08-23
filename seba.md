@@ -1,4 +1,4 @@
-### PI: Sebabrata Mukherjee
+### Sebabrata Mukherjee
  
 <img align="right" src="images/me.jpeg" width="200"/>
 
