@@ -1,7 +1,8 @@
-### People
+### Members
 
-[Sebabrata Mukherjee](seba.md)
-<img align="right" src="images/me.jpeg" width="120"/>
+<img src="images/me.jpeg" width="120"/>
+
+[PI: Sebabrata Mukherjee](seba.md) </br>
 
 
 [Phd Students](phd.md)
