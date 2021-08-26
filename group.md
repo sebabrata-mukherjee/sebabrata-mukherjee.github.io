@@ -1,8 +1,8 @@
 ### Members
 
-<img src="images/me.jpeg" width="180"/>
+<img src="images/me.jpeg" width="220"/>
 
-[PI: Sebabrata Mukherjee](seba.md) 
+PI: Sebabrata Mukherjee [(brief CV)](seba.md) 
 
 
 [Phd Students](phd.md)
