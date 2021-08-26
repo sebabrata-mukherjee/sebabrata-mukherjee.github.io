@@ -1,4 +1,5 @@
-### Sebabrata Mukherjee
+**Dr. Sebabrata Mukherjee**<br />
+Assistant Professor, Physics, IISc Bangalore, India <br />
  
 <img align="right" src="images/me.jpeg" width="200"/>
 
