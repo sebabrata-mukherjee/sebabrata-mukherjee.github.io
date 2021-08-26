@@ -5,5 +5,5 @@
 PI: Sebabrata Mukherjee [(brief CV)](seba.md) 
 
 
-[Phd Students](phd.md)
+Gayathry R (Phd Students)
 
