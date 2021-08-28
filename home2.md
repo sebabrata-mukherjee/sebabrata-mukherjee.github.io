@@ -3,7 +3,8 @@
 </p>
 
 <p align="center">
-Unidirectional robust edge modes in a photonic Floquet topological insulator
+Unidirectional robust edge modes in a photonic Floquet topological insulator. <br/>
+  Red sites indicate defects.
 </p>
 
 [Next](home3.md)
