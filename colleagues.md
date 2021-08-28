@@ -1,3 +1,0 @@
-### Collaborators
-
-Coming soon...
