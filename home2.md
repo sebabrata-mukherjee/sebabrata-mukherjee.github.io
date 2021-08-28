@@ -1,5 +1,5 @@
 <p align="center">
-<img src="imageN/Edgepropagation_GIF_F.gif" width="380"/>
+<img src="imageN/Edgepropagation_GIF_F.gif" width="375"/>
 </p>
 
 <p align="center">
