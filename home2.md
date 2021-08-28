@@ -1,10 +1,9 @@
 <p align="center">
-<img src="imageN/Edgepropagation_GIF_F.gif" width="370"/>
+<img src="imageN/SolitonEvolution_GIF_2.gif" width="350"/>
 </p>
 
 <p align="center">
-Unidirectional robust edge modes in a photonic Floquet topological insulator. <br/>
-  Red sites indicate defects.
+Cyclotron-like motion of a Floquet soliton in a topological bandgap
 </p>
 
 [Next](home3.md)
