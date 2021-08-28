@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-Cyclotron-like motion of a Floquet soliton in a topological bandgap
+Unidirectional robust edge modes in a photonic Floquet topological insulator
 </p>
 
 [Next](home3.md)
