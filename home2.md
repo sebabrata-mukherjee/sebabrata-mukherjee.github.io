@@ -1,5 +1,5 @@
 <p align="center">
-<img src="imageN/SolitonEvolution_GIF_2.gif" width="350"/>
+<img src="imageN/Edgepropagation_GIF_F.gif" width="380"/>
 </p>
 
 <p align="center">
