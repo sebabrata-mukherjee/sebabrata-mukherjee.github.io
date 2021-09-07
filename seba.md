@@ -30,7 +30,7 @@ See Sebabrata Mukherjee’s [ORCID](https://orcid.org/0000-0003-1942-2521) page.
 5. S. Mukherjee et al., "Experimental observation of anomalous topological edge modes in a slowly driven photonic lattice," [Nature Communications **8**, 13918 (2017)](https://doi.org/10.1038/ncomms13918).
 6. S. Mukherjee et al., "Observation of a localized flat-band state in a photonic Lieb lattice," [Physical Review Letters **114**, 245504 (2015)](https://doi.org/10.1103/PhysRevLett.114.245504). Featured in Physics & Editors' Suggestion. Viewpoint in Physical Review Letters [doi:10.1103/Physics.8.55](https://physics.aps.org/articles/v8/55). <br /> News & Views in Nature Materials [doi:10.1038/nmat4378](https://doi.org/10.1038/nmat4378).
 
-**Selected Conference and seminar presentations:**
+**Selected conference and seminar presentations:**
 1. *Observation of Topological Band Gap Solitons,* CLEO 2020, 13 May 2020, USA (held virtually)
 2. *Experimental observation of Aharonov-Bohm cages in photonic lattices,* SPIE PhotonicsWest, 04 February, 2019, San Francisco, California, USA
 3. *State-recycling and time-resolved imaging in topological photonic lattices,* The 10th International Conference on Information Optics and Photonics (CIOP), 2018, Beijing, China (Invited)
