@@ -36,4 +36,4 @@ See Sebabrata Mukherjee’s [ORCID](https://orcid.org/0000-0003-1942-2521) page.
 3. *State-recycling and time-resolved imaging in topological photonic lattices,* The 10th International Conference on Information Optics and Photonics (CIOP), 2018, Beijing, China (Invited)
 4. *Photonic flat-band lattices,* International Workshop, Flatband Networks in Condensed Matter and Photonics, 2017, Center for Theoretical Physics of Complex Systems, Daejeon, South Korea
 5. *Experimental observation of anomalous topological edge modes in a slowly-driven photonic lattice,* International Workshop on Discrete, Nonlinear and Disordered Optics, 08-12 May 2017, Max Planck Institute for the Physics of Complex Systems, Dresden, Germany
-6. *Experimental simulation of solid-state phenomena using Photonic Lattices,* research seminar at University of Chile, Santiago, 02 November, 2016
+6. *Experimental simulation of solid-state phenomena using Photonic Lattices,* research seminar, University of Chile, Santiago, 02 November, 2016
