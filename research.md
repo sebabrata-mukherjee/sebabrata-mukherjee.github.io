@@ -6,11 +6,11 @@ created inside a few cm long glass substrates using femtosecond laser pulses. <b
 
 Our current research topics include <br />
 
-    - Manipulating light transport in evanescently coupled waveguide arrays,
-    - Micro-optic device fabrication using femtosecond laser pulses, 
-    - Periodically modulated (Floquet) photonic structures,
-    - Photonic topological insulators,
-    - Optical Kerr nonlinearity 
+   - Manipulating light transport in evanescently coupled waveguide arrays,
+   - Micro-optic device fabrication using femtosecond laser pulses, 
+   - Periodically modulated (Floquet) photonic structures,
+   - Photonic topological insulators,
+   - Optical Kerr nonlinearity 
     
 **Floquet engineering & Photonic topological insulators** <br />
 Coming soon... <br />
