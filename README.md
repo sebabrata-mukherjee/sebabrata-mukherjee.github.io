@@ -1,5 +1,5 @@
 <p align="center">
-<img src="imageN/IIScBangalore.jpeg" width="600"/>
+<img src="imageN/IIScBangalore.jpeg" width="650"/>
 </p>
 
 <p align="center">
