@@ -8,7 +8,7 @@ optics and condensed matter physics. We study how optical states propagate along
 created inside a few cm long glass substrates using femtosecond laser pulses. <br />
 
 Our current research topics include <br />
-[<img align="right" src="imageN/PRL_cover2.png " width="200"/>](https://journals.aps.org/prl/issues/121/7)
+[<img align="right" src="imageN/PRL_cover2.png " width="240"/>](https://journals.aps.org/prl/issues/121/7)
 
    - Manipulating light transport in evanescently coupled waveguide arrays,
    - Micro-optic device fabrication using femtosecond laser pulses, 
