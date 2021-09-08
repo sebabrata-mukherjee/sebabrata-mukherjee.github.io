@@ -15,7 +15,7 @@ Our current research topics include <br />
    - Photonic topological insulators,
    - Optical Kerr nonlinearity 
     
-<img align="right" src="imageN/FLW2.png  " width="420"/> <br />
+<img align="right" src="imageN/FLW2.png  " width="450"/> <br />
 
 **Femtosecond laser writing** <br />
 We use intense femtosecond laser pulses to modify optical properties (e.g., refractive index) of transparent dielectric materials. This is a unique and powerful technique for creating complex three-dimensional light-guiding structures. Femtosecond laser-written devices remain highly robust and functional at room temperature, integrating hundreds of photonic degrees of freedom on a few cm long chip. We study fundamental physical phenomena employing such devices that can have potential applications in quantum optics, telecommunication, sensing and medical science. <br />
