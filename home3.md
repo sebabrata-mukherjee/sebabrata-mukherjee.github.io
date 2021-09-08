@@ -1,10 +1,9 @@
 <p align="center">
-<img src="imageN/Edgepropagation_GIF_F.gif" width="370"/>
+<img src="imageN/IIScBangalore.jpeg" width="650"/>
 </p>
 
 <p align="center">
-Unidirectional robust edge modes in a photonic Floquet topological insulator. <br/>
-  Red sites indicate defects.
+source: google image, IISc Bangalore
 </p>
 
 [Next](home1.md)
