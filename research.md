@@ -25,7 +25,7 @@ See our articles on [Anomalous Floquet topological insulator](https://doi.org/10
 **Nonlinear/interacting topological photonics** <br />
 Photonic lattices -- periodic arrays of optical waveguides -- are a natural platform for exploring mean-field-type interactions arising from the optical Kerr effect (i.e., a variation of the refractive index in proportion to the local intensity of light). At high intensity, photons can *effectively* interact, mediated by the ambient medium. In experiments, we temporally shape laser pulses such that the dynamics of light through the engineered waveguide arrays are governed by the discrete nonlinear Schrödinger equation (DNSE). The DNSE is mathematically equivalent to the Gross-Pitaevskii equation, which describes bosonic interactions in a Bose-Einstein condensate in the mean-field limit. Our goal is to understand the role of interactions/nonlinearity in topologically nontrivial systems. <br />
 
-See our articles on [Floquet solitons in a topological bandgap](https://doi.org/10.1126/science.aba8725)
+See our article on [Floquet solitons in a topological bandgap](https://doi.org/10.1126/science.aba8725)
 
 **Femtosecond laser writing** <br />
 <img align="right" src="imageN/FLW3.png  " width="380"/> 
