@@ -16,11 +16,6 @@ Our current research topics include <br />
    - Optical Kerr nonlinearity 
     
 
-**Femtosecond laser writing** <br />
-<img align="right" src="imageN/FLW2.png  " width="380"/> 
-We use intense femtosecond laser pulses to modify optical properties (e.g., refractive index) of transparent dielectric materials. This is a unique and powerful technique for creating complex three-dimensional light-guiding structures. Femtosecond laser-written devices remain highly robust and functional at room temperature, integrating hundreds of photonic degrees of freedom on a few cm long chip. We study fundamental physical phenomena employing such devices that can have potential applications in quantum optics, telecommunication, sensing and medical science. <br />
-
-See also [News: Microsoft Project Silica](https://news.microsoft.com/innovation-stories/ignite-project-silica-superman/); further reading on [femtosecond laser writing](https://doi.org/10.1038/nphoton.2008.47) <br />
 
 
 **Floquet engineering & Photonic topological insulators** <br />
@@ -35,3 +30,9 @@ See our previous works on [Anomalous Floquet topological insulator](https://doi.
 Photonic lattices -- periodic arrays of optical waveguides -- are a natural platform for exploring mean-field-type interactions arising from the optical Kerr effect (i.e., a variation of the refractive index in proportion to the local intensity of light). At high intensity, photons can effectively interact, mediated by the ambient medium. In experiments, we temporally shape intense laser pulses such that the dynamics of light through the engineered waveguide arrays are governed by the discrete nonlinear Schrödinger equation (DNSE). The DNSE is mathematically equivalent to the Gross-Pitaevskii equation, which describes bosonic interactions in a Bose-Einstein condensate in the mean-field limit. Our goal is to understand the role of interactions/nonlinearity in topologically nontrivial systems. <br />
 
 See our previous work on [Floquet solitons in a topological bandgap](https://doi.org/10.1126/science.aba8725)
+
+**Femtosecond laser writing** <br />
+<img align="right" src="imageN/FLW2.png  " width="380"/> 
+We use intense femtosecond laser pulses to modify optical properties (e.g., refractive index) of transparent dielectric materials. This is a unique and powerful technique for creating complex three-dimensional light-guiding structures. Femtosecond laser-written devices remain highly robust and functional at room temperature, integrating hundreds of photonic degrees of freedom on a few cm long chip. We study fundamental physical phenomena employing such devices that can have potential applications in quantum optics, telecommunication, sensing and medical science. <br />
+
+See also [News: Microsoft Project Silica](https://news.microsoft.com/innovation-stories/ignite-project-silica-superman/); further reading on [femtosecond laser writing](https://doi.org/10.1038/nphoton.2008.47) <br />
