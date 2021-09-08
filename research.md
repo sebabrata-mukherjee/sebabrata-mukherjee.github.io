@@ -17,7 +17,7 @@ Our current research topics include <br />
     
 
 **Femtosecond laser writing** <br />
-<img align="right" src="imageN/FLW2.png  " width="450"/> 
+<img align="right" src="imageN/FLW2.png  " width="380"/> 
 We use intense femtosecond laser pulses to modify optical properties (e.g., refractive index) of transparent dielectric materials. This is a unique and powerful technique for creating complex three-dimensional light-guiding structures. Femtosecond laser-written devices remain highly robust and functional at room temperature, integrating hundreds of photonic degrees of freedom on a few cm long chip. We study fundamental physical phenomena employing such devices that can have potential applications in quantum optics, telecommunication, sensing and medical science. <br />
 
 See also [News: Microsoft Project Silica](https://news.microsoft.com/innovation-stories/ignite-project-silica-superman/); further reading on [femtosecond laser writing](https://doi.org/10.1038/nphoton.2008.47) <br />
