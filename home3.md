@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-source: google image, IISc Bangalore
+IISc main building (source: google image)
 </p>
 
 ### [Next &#8594;](home1.md)
