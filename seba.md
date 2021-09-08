@@ -1,5 +1,8 @@
 **Dr. Sebabrata Mukherjee**<br />
 Assistant Professor, Physics, IISc Bangalore, India <br />
+Email: mukherjeesebabrata@gmail.com
+
+
  
 <img align="right" src="images/me.jpeg" width="200"/>
 
