@@ -6,4 +6,4 @@
 source: google image, IISc Bangalore
 </p>
 
-[Next](home1.md)
+### [Next &#8594;](home1.md)
