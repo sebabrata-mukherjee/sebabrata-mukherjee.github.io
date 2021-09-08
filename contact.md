@@ -17,9 +17,14 @@ IISc Main Campus <br />
 C V Raman Avenue, Bangalore <br />
 Karnataka, 560012 India 
 
-[**Website**](https://iisc.ac.in/)
+### Quick Links
+
+[**IISc Homepage**](https://iisc.ac.in/)
+
+[**Department of Physics**](http://www.physics.iisc.ac.in/)
 
 [**How to reach IISc**](https://iisc.ac.in/about/general-information/how-to-reach-iisc/) <br />
+
 
 Map<br />
 [<img src="imageN/map2.png" width="750"/>](https://www.google.co.in/maps/place/Indian+Institute+of+Science/@13.0218597,77.5649536,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae17d757d11bfb:0x3fc1cd64d345c13f!8m2!3d13.0218597!4d77.5671423?hl=en-GB)
