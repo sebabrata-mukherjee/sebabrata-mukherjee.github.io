@@ -6,5 +6,5 @@
 IISc main building (source: google image)
 </p>
 
-## [Next &#8594;](home1.md) 
+### [Next &#8594;](home1.md) 
 
