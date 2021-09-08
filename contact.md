@@ -19,9 +19,9 @@ Karnataka, 560012 India
 
 ### Quick Links
 
-[**IISc Homepage**](https://iisc.ac.in/)
+[**IISc Homepage**](https://iisc.ac.in/) <br />
 
-[**Department of Physics**](http://www.physics.iisc.ac.in/)
+[**Department of Physics**](http://www.physics.iisc.ac.in/) <br />
 
 [**How to reach IISc**](https://iisc.ac.in/about/general-information/how-to-reach-iisc/) <br />
 
