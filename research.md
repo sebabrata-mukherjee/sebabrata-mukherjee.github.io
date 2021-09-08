@@ -8,6 +8,7 @@ optics and condensed matter physics. We study how optical states propagate along
 created inside a few cm long glass substrates using femtosecond laser pulses. <br />
 
 Our current research topics include <br />
+[<img align="right" src="imageN/PRL_cover2.png " width="300"/>](https://journals.aps.org/prl/issues/121/7)
 
    - Manipulating light transport in evanescently coupled waveguide arrays,
    - Micro-optic device fabrication using femtosecond laser pulses, 
@@ -19,7 +20,6 @@ Our current research topics include <br />
 
 
 **Floquet engineering & Photonic topological insulators** <br />
-<img align="left" src="imageN/PRL_cover.png " width="380"/> 
 Floquet engineering (i.e., applying a 'time'-periodic driving to a static system) is a convenient way of creating novel Hamiltonians, realizing synthetic gauge fields and topologically non-trivial energy bands. 
 We aim to implement various periodic driving protocols by modulating waveguide paths and/or the instantaneous refractive index (i.e., the on-site energy). A suitable periodic modulation effectively breaks time-reversal symmetry and creates topologically non-trivial photonic bands.
 
