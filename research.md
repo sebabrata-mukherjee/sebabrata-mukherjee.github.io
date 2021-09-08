@@ -19,13 +19,13 @@ Our current research topics include <br />
 **Floquet engineering & Photonic topological insulators** <br />
 Floquet engineering (i.e., applying a 'time'-periodic driving to a static system) is a convenient way of creating novel Hamiltonians, realizing synthetic gauge fields and topologically non-trivial energy bands. Using engineered waveguide networks, we can implement various driving protocols and realize Floquet topological materials for light waves. Topologically robust back-scatter immune optical states can propagate unidirectionally through such waveguide circuits.
 
-See our previous works on [Anomalous Floquet topological insulator](https://doi.org/10.1038/ncomms13918), [Aharonov-Bohm caging](https://doi.org/10.1103/PhysRevLett.121.075502), [Modulation assisted tunneling](https://doi.org/10.1088/1367-2630/17/11/115002)<br />
+See our articles on [Anomalous Floquet topological insulator](https://doi.org/10.1038/ncomms13918), [Aharonov-Bohm caging](https://doi.org/10.1103/PhysRevLett.121.075502), [Modulation assisted tunneling](https://doi.org/10.1088/1367-2630/17/11/115002)<br />
 
 
 **Nonlinear/interacting topological photonics** <br />
 Photonic lattices -- periodic arrays of optical waveguides -- are a natural platform for exploring mean-field-type interactions arising from the optical Kerr effect (i.e., a variation of the refractive index in proportion to the local intensity of light). At high intensity, photons can *effectively* interact, mediated by the ambient medium. In experiments, we temporally shape intense laser pulses such that the dynamics of light through the engineered waveguide arrays are governed by the discrete nonlinear Schrödinger equation (DNSE). The DNSE is mathematically equivalent to the Gross-Pitaevskii equation, which describes bosonic interactions in a Bose-Einstein condensate in the mean-field limit. Our goal is to understand the role of interactions/nonlinearity in topologically nontrivial systems. <br />
 
-See our previous work on [Floquet solitons in a topological bandgap](https://doi.org/10.1126/science.aba8725)
+See our articles on [Floquet solitons in a topological bandgap](https://doi.org/10.1126/science.aba8725)
 
 **Femtosecond laser writing** <br />
 <img align="right" src="imageN/FLW3.png  " width="380"/> 
