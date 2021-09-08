@@ -1,6 +1,6 @@
 ### Research
 
-**Keywords:** Optics & condensed matter physics, femtosecond laser-writing, photonic lattices,
+**Keywords:** Optics & condensed matter physics, femtosecond laser writing, photonic lattices,
 periodically modulated (Floquet) waveguide arrays, linear & nonlinear topological photonics, spatial solitons.
 
 Our goal is to apply photonic technologies to discover new physics and find their applications, going beyond the traditional scope of 
@@ -15,9 +15,9 @@ Our current research topics include <br />
    - Photonic topological insulators,
    - Optical Kerr nonlinearity 
 
-**Floquet engineering & Photonic topological insulators** <br />
-[<img align="right" src="imageN/PRL_cover2.png " width="240"/>](https://journals.aps.org/prl/issues/121/7)
-Floquet engineering (i.e., applying a 'time'-periodic driving to a static system) is a convenient way of creating novel Hamiltonians, realizing synthetic gauge fields and topologically non-trivial energy bands. Using engineered waveguide networks, we can implement various driving protocols and realize Floquet topological materials for light waves. Topologically robust back-scatter immune optical states can propagate unidirectionally through such waveguide circuits.
+**Floquet engineering & photonic topological insulators** <br />
+[<img align="right" src="imageN/PRL_cover2.png " width="260"/>](https://journals.aps.org/prl/issues/121/7)
+Floquet engineering (i.e., applying a 'time'-periodic driving to a static system) is a convenient way of creating novel Hamiltonians, realizing synthetic gauge fields and topologically non-trivial energy bands. Using engineered waveguide networks, we can implement various driving protocols and investigate a wide variety of phenomena that might not be accessible in a static system. One such example is the realization of Floquet topological materials where back-scatter immune optical states propagate unidirectionally along the edge of the device. <br />
 
 See our articles on [Anomalous Floquet topological insulator](https://doi.org/10.1038/ncomms13918), [Aharonov-Bohm caging](https://doi.org/10.1103/PhysRevLett.121.075502), [Modulation assisted tunneling](https://doi.org/10.1088/1367-2630/17/11/115002)<br />
 
