@@ -15,9 +15,6 @@ Our current research topics include <br />
    - Periodically modulated (Floquet) photonic structures,
    - Photonic topological insulators,
    - Optical Kerr nonlinearity 
-    
-
-
 
 **Floquet engineering & Photonic topological insulators** <br />
 Floquet engineering (i.e., applying a 'time'-periodic driving to a static system) is a convenient way of creating novel Hamiltonians, realizing synthetic gauge fields and topologically non-trivial energy bands. 
