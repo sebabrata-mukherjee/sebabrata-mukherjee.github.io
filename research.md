@@ -22,9 +22,9 @@ We use intense femtosecond laser pulses to modify optical properties (e.g., refr
 
 See also [News: Microsoft Project Silica](https://news.microsoft.com/innovation-stories/ignite-project-silica-superman/); further reading on [femtosecond laser writing](https://doi.org/10.1038/nphoton.2008.47) <br />
 
-<img align="left" src="imageN/StateRecycling.png " width="450"/> <br />
 
 **Floquet engineering & Photonic topological insulators** <br />
+<img align="left" src="imageN/StateRecycling.png " width="420"/> 
 Floquet engineering (i.e., applying a 'time'-periodic driving to a static system) is a convenient way of creating novel Hamiltonians, realizing synthetic gauge fields and topologically non-trivial energy bands. We aim to implement various periodic driving protocols by modulating waveguide paths and/or the instantaneous refractive index (i.e., the on-site energy). A suitable periodic modulation effectively breaks time-reversal symmetry and creates topologically non-trivial photonic bands.
 
 See our previous works on [Anomalous Floquet topological insulator](https://doi.org/10.1038/ncomms13918), [Aharonov-Bohm caging](https://doi.org/10.1103/PhysRevLett.121.075502), [Modulation assisted tunneling](https://doi.org/10.1088/1367-2630/17/11/115002)<br />
