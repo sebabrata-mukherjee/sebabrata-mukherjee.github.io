@@ -11,7 +11,7 @@ Bangalore, 560012 India <br />
 Email: mukherjeesebabrata@gmail.com <br />
 
 
-### IISc Bangalore address:
+### IISc Bangalore address
 
 IISc Main Campus <br />
 C V Raman Avenue, Bangalore <br />
