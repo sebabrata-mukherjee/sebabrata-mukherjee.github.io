@@ -1,6 +1,6 @@
 ### Contacts
 
-[<img align="right" src="imageN/iisc-logo.png" width="220"/>](http://www.physics.iisc.ernet.in)
+[<img align="right" src="imageN/IISc_Seal_Master_logo_Reverse.png" width="220"/>](http://www.physics.iisc.ernet.in)
 
 ### Office address
 
