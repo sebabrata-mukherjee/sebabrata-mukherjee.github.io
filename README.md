@@ -4,7 +4,8 @@
 
 
 ## Recent News
-  - 14/09/2021: Sebabrata joined IISc 
+  - Undergraduate student Sanjay S is joining our group. Welcome Sanjay!
+  - Ph.D. student Gayathry R is joining our group. Welcome Gayathry!
 
 <br/><br/>
 
