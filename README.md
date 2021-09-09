@@ -1,5 +1,6 @@
 **Welcome to our research group. We are part of the Department of Physics at IISc Bangalore, India. 
 Our goal is to apply photonic technologies to discover new physics and find their applications, going beyond the traditional scope of optics and condensed matter physics. More details can be found on the above tabs. Contact us if you have interest pursuing cutting edge reseacrch in photonics, condensed matter physics, quantum physics, and nonlinear dynamics.** <br/><br/>
+<br/><br/>
 
 
 ## Recent News
