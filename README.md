@@ -1,9 +1,18 @@
-Welcome to our research group. We are a part of the Department of Physics at IISc Bangalore, India. 
+**Welcome to our research group. We are part of the Department of Physics at IISc Bangalore, India. 
+We try to explore fundamental physics problems with potential device applications. 
+Please contact us if you have interest in optics, condensed matter physics, quantum physics, and nonlinear dynamics.**
 
+
+
+## News
+  - 14/09/2021: Sebabrata joined IISc 
+
+
+## Photo - IISc main building
 <p align="center">
-<img src="imageN/IIScBangalore.jpeg" width="650"/>
+<img src="imageN/IIScBangalore.jpeg" width="670"/>
 </p>
 
 <p align="center">
-IISc main building (source: google image)
+(source: google image)
 </p>
