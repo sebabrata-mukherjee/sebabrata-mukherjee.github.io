@@ -1,6 +1,5 @@
 **Welcome to our research group. We are part of the Department of Physics at IISc Bangalore, India. 
-We try to explore fundamental physics problems with potential device applications. Details about our group can be found on the above tabs.
-Please contact us if you have interest in optics, condensed matter physics, quantum physics, and nonlinear dynamics.**
+Our goal is to apply photonic technologies to discover new physics and find their applications, going beyond the traditional scope of optics and condensed matter physics. We study how optical states propagate along intricately designed waveguide networks that are created inside a few cm long glass substrates using femtosecond laser pulses. Details about our group can be found on the above tabs. Contact us if you have interest pursuing cutting edge reseacrch in photonics, condensed matter physics, quantum physics, and nonlinear dynamics.**
 
 
 ## Recent News
