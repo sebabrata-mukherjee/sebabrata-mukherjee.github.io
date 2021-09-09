@@ -14,5 +14,5 @@
 </p>
 
 <p align="center">
-(source: google image)
+(source: google images)
 </p>
