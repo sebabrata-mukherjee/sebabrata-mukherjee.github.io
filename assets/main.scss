@@ -13,7 +13,7 @@ $grey-color-dark: #FFFFFF; /* such as the site title in the header, visited */
 a:link {
     font-weight: bold;
     text-decoration: underline;
-    color: #00bccc;
+    color: #00bccc; !important;
 }
 
 @import "{{ site.theme }}";
