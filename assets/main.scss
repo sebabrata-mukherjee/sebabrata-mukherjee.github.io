@@ -5,15 +5,14 @@
  * the dashed lines above are required
  */
 
+a:link {
+    text-decoration: underline;
+    color: #00bccc; 
+}
+
 $background-color: #111111; /* a dark, off-black for the bg */
 $text-color: #FFFFFF; /* an off-white for the text */
 $grey-color-light: #565656; /* for the border-top separators */
 $grey-color-dark: #FFFFFF; /* such as the site title in the header, visited */
-
-a:link {
-    font-weight: bold;
-    text-decoration: underline;
-    color: #00bccc; !important;
-}
 
 @import "{{ site.theme }}";
