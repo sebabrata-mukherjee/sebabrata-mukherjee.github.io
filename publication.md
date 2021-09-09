@@ -2,8 +2,8 @@
 ### Publications
 
 
-[<img src="imageN/GoogleScholar.png" width="210"/>](https://scholar.google.co.uk/citations?hl=en&user=M29JjtAAAAAJ)
-[<img  src="imageN/ORCID.png" width="215"/>](https://orcid.org/0000-0003-1942-2521)
+[<img src="imageN/GoogleScholar.png" width="225"/>](https://scholar.google.co.uk/citations?hl=en&user=M29JjtAAAAAJ)
+[<img  src="imageN/ORCID.png" width="210"/>](https://orcid.org/0000-0003-1942-2521)
 [<img  src="imageN/ResearchGate1.png" width="210"/>](https://www.researchgate.net/profile/Sebabrata-Mukherjee)
 
    
