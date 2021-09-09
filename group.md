@@ -1,10 +1,24 @@
 ### Members
 
-<img src="images/me.jpeg" width="220"/>
+<img align="left" src="images/me.jpeg" width="220"/>
 
-PI: Sebabrata Mukherjee [(brief CV)](seba.md) 
+PI: Sebabrata Mukherjee [(brief CV)](seba.md) <br />
+Email: mukherjeesebabrata@gmail.com <br />
+Phone: <br />
 
-<img src="imageN/noimage.png" width="220"/>
+<br></br>
+<br></br>
+<br></br>
 
-Gayathry R (Ph.D. Students)
+<img align="left" src="imageN/noimage.png" width="220"/>
+
+Gayathry R (Ph.D. Students) <br />
+Email:  <br />
+Phone: <br />
+
+<br></br>
+<br></br>
+<br></br>
+
+
 
