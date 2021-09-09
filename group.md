@@ -13,7 +13,7 @@ Phone: <br />
 <img align="left" src="imageN/noimage.png" width="220"/>
 
 Gayathry R (Ph.D. Students) <br />
-Email:  <br />
+Email: gayathryr@iisc.ac.in <br />
 Phone: <br />
 
 <br></br>
