@@ -13,7 +13,7 @@ Our current research topics include <br />
    - Photonic topological insulators,
    - Optical Kerr nonlinearity 
 
-### Floquet engineering & photonic topological insulators
+### Floquet engineering
 [<img align="right" src="imageN/PRL_cover2.png " width="280"/>](https://journals.aps.org/prl/issues/121/7)
 Floquet engineering (i.e., applying a 'time'-periodic driving to a static system) is a convenient way of creating novel Hamiltonians, realizing synthetic gauge fields and topologically non-trivial energy bands. Using engineered waveguide networks, we can implement various driving protocols to investigate a wide variety of phenomena known from quantum physics and condensed matter physics. One such example is the realization of topologically nontrivial materials where back-scatter immune optical states propagate unidirectionally along the edge of the device. <br />
 
