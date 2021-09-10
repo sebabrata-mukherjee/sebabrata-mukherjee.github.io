@@ -5,8 +5,6 @@
 PI: Sebabrata Mukherjee [(brief CV)](seba.md) <br/>
 Assistant Professor <br/>
 Email: mukherjeesebabrata@gmail.com <br/>
-Phone: <br />
-
 
 <img src="imageN/noimage.png" width="220"/> <br/>
 
