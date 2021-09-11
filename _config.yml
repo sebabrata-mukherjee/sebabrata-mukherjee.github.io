@@ -58,6 +58,7 @@ minima:
 header_pages:
 - research.md
 - publication.md
+- talks.md
 - group.md
 - contact.md
 - openpositions.md 
