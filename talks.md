@@ -3,9 +3,13 @@
 **2021** <br/>
 - “Photonic topological insulators” International webinar organized by R K Mission V C College, Rahara, India, 31 March 2021 (Invited). 
 
+- “Unidirectional Soliton-Like Edge Modes in Nonlinear Floquet Topological Insulators,” in Conference on Lasers and Electro-Optics, paper ATh4H.6, 13 May 2021, USA 
+
 - “Realization of Unidirectional Soliton-like Edge States in Nonlinear Floquet Topological Insulators,” APS March Meeting 2021 (Virtual), 19 March 2021. 
 
 **2020** <br/>
+- “Observation of Topological Band Gap Solitons,” in Conference on Lasers and Electro-Optics, OSA Technical Digest (OSA, 2020), paper FW4A.8, 13 May 2020, USA doi.org/10.1364/CLEO QELS.2020.FW4A.8 
+- 
 - “Linear and nonlinear topological photonics,” research seminar at Presidency University, Kolkata, India, 14 February 2020. 
 
 **2019** <br/>
@@ -34,6 +38,8 @@
 **2016** <br/>
 - “Photonic simulation of solid-state phenomena,” research seminar at IIT Delhi, India, 14 December 2016. 
 
+- “Determining the effective mode index in laser fabricated optical waveguides using Bragg gratings,” in 13th International Conference on Fiber Optics and Photonics, OSA Technical Digest (OSA, 2016), paper Tu3F.3, December 2016, IIT Kanpur, India doi.org/10.1364/PHOTONICS.2016.Tu3F.3 
+
 - “Experimental simulation of solid-state phenomena using Photonic Lattices,” research seminar at University of Chile, Santiago, 2 November 2016. 
 
 - “Photonic lattices,” IPaQS colloquium, Heriot-Watt University, 5 October 2016. 
@@ -42,3 +48,6 @@
 - “Photonic lattices” research seminar organized by OSA student chapter, IIT Kharagpur, India, 30 December 2015. 
 
 - “Observation of a localized flat-band state in a photonic Lieb lattice,” Topolight 2015-8th Optoelectronics and Photonics Winter School, Trento, Italy. 
+
+**2014** <br/>
+- “Development of mode-multiplexing/de-multiplexing device based on integrated photonic lanterns,” in 12th International Conference on Fiber Optics and Photonics, OSA Technical Digest (OSA, 2014), paper T2B.7, December 2014, IIT Kharagpur, India doi.org/10.1364/PHOTONICS.2014.T2B.7 
