@@ -2,14 +2,14 @@
 
 **Contact [Sebabrata Mukherjee](seba.md) if you have interests in pursuing cutting-edge research in photonics, condensed matter physics, quantum physics, and nonlinear dynamics.** 
 
-<br/><br/>
+<br/>
 
 
 ## Recent News
 - Undergraduate student Sanjay S is joining our group. Welcome Sanjay!
 - Ph.D. student Gayathry R is joining our group. Welcome Gayathry!
 
-<br/><br/>
+<br/>
 
 ## Photo - IISc main building
 <p align="center">
