@@ -31,3 +31,14 @@ See our article on [Floquet solitons in a topological bandgap](https://doi.org/1
 We use intense femtosecond laser pulses to modify optical properties (e.g., refractive index) of transparent dielectric materials. This is a unique and powerful technique for creating complex three-dimensional light-guiding structures. Femtosecond laser-written devices remain highly robust and functional at room temperature, integrating hundreds of photonic degrees of freedom on a few cm long chip. We study fundamental physical phenomena employing such devices that can have potential applications in quantum optics, telecommunication, sensing and medical science. 
 
 See also [News: Microsoft Project Silica;](https://news.microsoft.com/innovation-stories/ignite-project-silica-superman/) further reading on [femtosecond laser writing](https://doi.org/10.1038/nphoton.2008.47)
+
+<br/><br/>
+
+<p align="center">
+<img src="imageN/Edgepropagation_GIF_F.gif" width="370"/>
+</p>
+
+<p align="center">
+Unidirectional robust edge modes in a photonic Floquet topological insulator. <br/>
+Red sites indicate defects.
+</p>
