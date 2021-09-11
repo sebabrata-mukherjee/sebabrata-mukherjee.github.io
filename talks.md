@@ -1,1 +1,44 @@
+### Talks
 
+**2021** <br/>
+- “Photonic topological insulators” International webinar organized by R K Mission V C College, Rahara, India, 31 March 2021 (Invited). 
+
+- “Realization of Unidirectional Soliton-like Edge States in Nonlinear Floquet Topological Insulators,” APS March Meeting 2021 (Virtual), 19 March 2021. 
+
+**2020** <br/>
+- “Linear and nonlinear topological photonics,” research seminar at Presidency University, Kolkata, India, 14 February 2020. 
+
+**2019** <br/>
+- “Experimental observation of Aharonov-Bohm cages in photonic lattices,” SPIE Photonics West, 04 February 2019, San Francisco, California, USA. 
+
+- “State-recycling and time-resolved imaging in topological photonic lattices”, SPIE Photonics West, 04 February 2019, San Francisco, California, USA. 
+
+**2018** <br/>
+- “State-recycling and time-resolved imaging in topological photonic lattices,” The 10th International Conference on Information Optics and Photonics (CIOP), 08-11 July 2018, Beijing, China (Invited). 
+
+- “Aharonov-Bohm caging in photonic lattices” research seminar at University of Warwick, UK, 08 June 2018. 
+
+- “Laser inscription and artificial crystals of optical waveguides” research seminar at Universit ́e Libre de Bruxelles, Belgium, 24 April 2018. 
+
+- “Synthetic electric and magnetic fields in photonic structures,” research seminar at University of Kalyani, India, 15 February 2018.
+
+**2017** <br/>
+- “Photonic realization of an anomalous topological insulator in a slowly driven lattice,” International Conference on Quantum, Atomic, Molecular and Plasma Physics, 04-07 September 2017, Glasgow, UK. 
+
+- “Photonic flat-band lattices,” International Workshop Flatband Networks in Condensed Matter and Photonics, 28 August – 1 September 2017, Center for Theoretical Physics of Complex Systems, Daejeon, South Korea. 
+
+- “Experimental observation of anomalous topological edge modes in a slowly-driven photonic lattice,” International Workshop 08-12 May 2017, Discrete, Nonlinear and Disordered Optics, Max Planck Institute for the Physics of Complex Systems, Dresden, Germany. 
+
+- “Realising anomalous Floquet topological insulators using photonic lattices,” research seminar at IISc Bangalore, India, 16 January 2017. 
+
+**2016** <br/>
+- “Photonic simulation of solid-state phenomena,” research seminar at IIT Delhi, India, 14 December 2016. 
+
+- “Experimental simulation of solid-state phenomena using Photonic Lattices,” research seminar at University of Chile, Santiago, 2 November 2016. 
+
+- “Photonic lattices,” IPaQS colloquium, Heriot-Watt University, 5 October 2016. 
+
+**2015** <br/>
+- “Photonic lattices” research seminar organized by OSA student chapter, IIT Kharagpur, India, 30 December 2015. 
+
+- “Observation of a localized flat-band state in a photonic Lieb lattice,” Topolight 2015-8th Optoelectronics and Photonics Winter School, Trento, Italy. 
