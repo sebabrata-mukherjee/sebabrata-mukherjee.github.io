@@ -1,10 +1,6 @@
 ### Talks
 
-<br/>
-
-**Conference presentations and research seminars:**
-
-<br/>
+## Conference presentations and research seminars
 
 **2021** <br/>
 - “Photonic topological insulators” International webinar organized by R K Mission V C College, Rahara, India, 31 March 2021 (Invited). 
