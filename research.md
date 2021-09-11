@@ -34,7 +34,7 @@ See also [News: Microsoft Project Silica;](https://news.microsoft.com/innovation
 
 ### Animations
 <p align="center">
-<img src="imageN/Edgepropagation_GIF_F.gif" width="370"/>
+<img src="imageN/Edgepropagation_GIF_N2.gif.gif" width="370"/>
 </p>
 
 <p align="center">
