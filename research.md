@@ -32,7 +32,7 @@ We use intense femtosecond laser pulses to modify optical properties (e.g., refr
 
 See also [News: Microsoft Project Silica;](https://news.microsoft.com/innovation-stories/ignite-project-silica-superman/) further reading on [femtosecond laser writing](https://doi.org/10.1038/nphoton.2008.47)
 
-<br/><br/>
+<br/>
 
 <p align="center">
 <img src="imageN/Edgepropagation_GIF_F.gif" width="370"/>
@@ -41,4 +41,13 @@ See also [News: Microsoft Project Silica;](https://news.microsoft.com/innovation
 <p align="center">
 Unidirectional robust edge modes in a photonic Floquet topological insulator. <br/>
 Red sites indicate defects.
+</p>
+
+
+<p align="center">
+<img src="imageN/SolitonEvolution_GIF_2.gif" width="370"/>
+</p>
+
+<p align="center">
+Cyclotron-like motion of a Floquet soliton in a topological bandgap
 </p>
