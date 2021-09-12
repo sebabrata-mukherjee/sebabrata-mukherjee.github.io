@@ -8,6 +8,12 @@
 
    
 
+<a href="https://scholar.google.co.uk/citations?hl=en&user=M29JjtAAAAAJ" target="_blank"><img src="imageN/GoogleScholar.png" width="210"/></a> 
+<a href="https://orcid.org/0000-0003-1942-2521" target="_blank"><img  src="imageN/ORCID.png" width="210"/>
+<a href="https://www.researchgate.net/profile/Sebabrata-Mukherjee" target="_blank"><img  src="imageN/ResearchGate1.png" width="210"/></a> 
+
+
+
 **Preprint** <br/>
 - Sebabrata Mukherjee and Mikael C. Rechtsman, "Observation of unidirectional soliton-like edge states in nonlinear Floquet topological insulators," arXiv preprint [arXiv:2010.11359](https://arxiv.org/abs/2010.11359).
 
