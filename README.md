@@ -6,8 +6,8 @@
 
 
 ## Recent News
-- Undergraduate student Sanjay S is joining our group. Welcome Sanjay!
-- Ph.D. student Gayathry R is joining our group. Welcome Gayathry!
+- Undergraduate student Sanjay S is joining our group. Welcome, Sanjay!
+- Ph.D. student Gayathry R is joining our group. Welcome, Gayathry!
 
 <br/>
 
