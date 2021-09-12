@@ -7,7 +7,7 @@
 
 - “Unidirectional Soliton-Like Edge Modes in Nonlinear Floquet Topological Insulators,” in Conference on Lasers and Electro-Optics, OSA Technical Digest (OSA, 2021), paper FTh4H.6, 13 May 2021, USA.
 
-- “Realization of Unidirectional Soliton-like Edge States in Nonlinear Floquet Topological Insulators,” APS March Meeting 2021, 19 March 2021. 
+- “Realization of Unidirectional Soliton-like Edge States in Nonlinear Floquet Topological Insulators,” APS March Meeting 2021, 19 March 2021, USA 
 
 **2020** <br/>
 - “Observation of Topological Band Gap Solitons,” in Conference on Lasers and Electro-Optics, OSA Technical Digest (OSA, 2020), paper FW4A.8, 13 May 2020, USA 
