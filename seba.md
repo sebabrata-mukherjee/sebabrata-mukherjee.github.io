@@ -23,8 +23,8 @@ Sebabrata Mukherjee was awarded the B.Sc. in Physics from the University of Calc
 Since September 2021, Sebabrata works as an Assistant Professor in the <a href="http://www.physics.iisc.ernet.in/people-faculty.php" target="_blank">Department of Physics</a> IISc Bangalore.  His research interests include photonics and condensed matter physics. <br />
 
 
-See Sebabrata Mukherjee’s [google scholar](https://scholar.google.co.uk/citations?hl=en&user=M29JjtAAAAAJ) profile <br />
-See Sebabrata Mukherjee’s [ORCID](https://orcid.org/0000-0003-1942-2521) page. <br />
+See Sebabrata Mukherjee’s <a href="https://scholar.google.co.uk/citations?hl=en&user=M29JjtAAAAAJ" target="_blank">google scholar</a> profile <br />
+See Sebabrata Mukherjee’s <a href="https://orcid.org/0000-0003-1942-2521" target="_blank">google scholar</a> page. <br />
 
 **Selected articles:**
 1. M. Jürgensen, S. Mukherjee, M. C. Rechtsman "Quantized nonlinear Thouless pumping," [Nature **596**, 63-67 (2021)](https://doi.org/10.1038/s41586-021-03688-9).
