@@ -1,9 +1,8 @@
 **Welcome to our research group! We are part of the Department of Physics at IISc Bangalore, India. We are interested in how optical states propagate along intricately designed waveguide networks and in creating these devices in our lab to explore novel light-matter interactions. Find more details on the above tabs.**
 
-**Contact [Sebabrata Mukherjee](seba.md) if you have interests in pursuing cutting-edge research in photonics, condensed matter physics, quantum physics, and nonlinear dynamics.** 
+**Contact <a href="https://sebabrata-mukherjee.github.io/seba.html" target="_blank">Sebabrata Mukherjee</a> if you have interests in pursuing cutting-edge research in photonics, condensed matter physics, quantum physics, and nonlinear dynamics.** 
 
 
-<a href="https://sebabrata-mukherjee.github.io/seba.html" target="_blank">Sebabrata Mukherjee</a>
 
 
 <br/>
