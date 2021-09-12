@@ -1,4 +1,4 @@
-### Members[<img align="right" src="imageN/iisc-logo.png" width="60"/>]
+### Members<img align="right" src="imageN/iisc-logo.png" width="60"/>
 
 
 <img src="images/me.jpeg" width="240"/>  <br/>
