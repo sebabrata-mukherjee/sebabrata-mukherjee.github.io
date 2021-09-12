@@ -19,15 +19,9 @@ Karnataka, 560012 India
 
 ### Quick Links
 
-[**IISc Homepage**](https://iisc.ac.in/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**Department of Physics**](http://www.physics.iisc.ac.in/)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**How to reach IISc**](https://iisc.ac.in/about/general-information/how-to-reach-iisc/) <br />
-
-
 <a href="https://iisc.ac.in/" target="_blank">**IISc Homepage**</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="http://www.physics.iisc.ac.in/" target="_blank">**Department of Physics**</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://iisc.ac.in/about/general-information/how-to-reach-iisc/" target="_blank">**How to reach IISc**</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-
-
-
 Map<br />
-[<img src="imageN/map2.png" width="750"/>](https://www.google.co.in/maps/place/Indian+Institute+of+Science/@13.0218597,77.5649536,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae17d757d11bfb:0x3fc1cd64d345c13f!8m2!3d13.0218597!4d77.5671423?hl=en-GB)
+<a href="https://www.google.co.in/maps/place/Indian+Institute+of+Science/@13.0218597,77.5649536,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae17d757d11bfb:0x3fc1cd64d345c13f!8m2!3d13.0218597!4d77.5671423?hl=en-GB" target="_blank"><img src="imageN/map2.png" width="750"/></a>
