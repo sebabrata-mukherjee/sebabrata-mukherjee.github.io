@@ -3,7 +3,7 @@
 **Contact [Sebabrata Mukherjee](seba.md) if you have interests in pursuing cutting-edge research in photonics, condensed matter physics, quantum physics, and nonlinear dynamics.** 
 
 
-<a href="seba.md" target="_blank">Sebabrata Mukherjee</a>
+<a href="https://sebabrata-mukherjee.github.io/seba.html" target="_blank">Sebabrata Mukherjee</a>
 
 
 <br/>
