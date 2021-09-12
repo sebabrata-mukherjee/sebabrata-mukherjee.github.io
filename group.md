@@ -2,9 +2,10 @@
 
 <img src="images/me.jpeg" width="240"/>  <br/>
 
-PI: Sebabrata Mukherjee [(brief CV)](seba.md) <br/>
+PI: Sebabrata Mukherjee <a href="https://sebabrata-mukherjee.github.io/seba.html" target="_blank">(brief CV)</a> 
 Assistant Professor <br/>
 Email: mukherjeesebabrata@gmail.com <br/>
+
 
 <img src="imageN/Gayathry_n.png" width="240"/> <br/>
 
