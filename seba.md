@@ -17,9 +17,10 @@ Email: mukherjeesebabrata@gmail.com
   - Project Associate: Indian Institute of Technology Delhi, India
 
 
-Sebabrata Mukherjee was awarded the B.Sc. in Physics from the University of Calcutta in 2010 and the M.Sc. in Physics from the Indian Institute of Technology Delhi in 2012. Prior to his doctoral research, he worked as a Project Associate at IIT Delhi. He undertook his Ph.D. at Heriot-Watt University, Edinburgh in the area of experimental simulation of solid-state phenomena in photonic structures and was subsequently awarded “[The 2016 MacFarlane Prize](https://www.hw.ac.uk/uk/students/doc/macfarlane-fund-poster.pdf)” for the most outstanding contribution to the research at the University. He worked as a Research Associate at Heriot-Watt University and postdoctoral scholar at the Pennsylvania State University, USA. 
+Sebabrata Mukherjee was awarded the B.Sc. in Physics from the University of Calcutta in 2010 and the M.Sc. in Physics from the Indian Institute of Technology Delhi in 2012. Prior to his doctoral research, he worked as a Project Associate at IIT Delhi. He undertook his Ph.D. at Heriot-Watt University, Edinburgh in the area of experimental simulation of solid-state phenomena in photonic structures and was subsequently awarded 
+<a href="https://www.hw.ac.uk/uk/students/doc/macfarlane-fund-poster.pdf" target="_blank">*The 2016 MacFarlane Prize*</a> for the most outstanding contribution to the research at the University. He worked as a Research Associate at Heriot-Watt University and postdoctoral scholar at the Pennsylvania State University, USA. 
 
-Since September 2021, Sebabrata works as an Assistant Professor in the [Department of Physics](http://www.physics.iisc.ernet.in/people-faculty.php) IISc Bangalore.  His research interests include photonics and condensed matter physics. <br />
+Since September 2021, Sebabrata works as an Assistant Professor in the <a href="http://www.physics.iisc.ernet.in/people-faculty.php" target="_blank">Department of Physics</a> IISc Bangalore.  His research interests include photonics and condensed matter physics. <br />
 
 
 See Sebabrata Mukherjee’s [google scholar](https://scholar.google.co.uk/citations?hl=en&user=M29JjtAAAAAJ) profile <br />
