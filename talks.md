@@ -3,7 +3,7 @@
 ### Conference presentations and research seminars
 
 **2021** <br/>
-- “Photonic topological insulators” International webinar organized by R K Mission V C College, Rahara, India, 31 March 2021 (Invited).
+- “Photonic topological insulators,” webinar organized by R. K. Mission V. C. College, 31 March 2021, Rahara, India (Invited).
 
 - “Unidirectional Soliton-Like Edge Modes in Nonlinear Floquet Topological Insulators,” in Conference on Lasers and Electro-Optics, OSA Technical Digest (OSA, 2021), paper FTh4H.6, 13 May 2021, USA.
 
