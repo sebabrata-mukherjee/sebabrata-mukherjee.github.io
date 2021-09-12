@@ -1,4 +1,4 @@
-### Members [<img align="right" src="imageN/iisc-logo.png" width="80"/>](http://www.physics.iisc.ernet.in)
+### Members[<img align="right" src="imageN/iisc-logo.png" width="60"/>]
 
 
 <img src="images/me.jpeg" width="240"/>  <br/>
