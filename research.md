@@ -38,7 +38,7 @@ See also [News: Microsoft Project Silica;](https://news.microsoft.com/innovation
 </p>
 
 <p align="center">
-Unidirectional robust edge modes in a photonic Floquet topological insulator. <br/>
+Back-scatter immune unidirectional topological edge modes.
 Red sites indicate defects.
 </p>
 
