@@ -24,7 +24,7 @@ Since September 2021, Sebabrata works as an Assistant Professor in the <a href="
 
 
 See Sebabrata Mukherjee’s <a href="https://scholar.google.co.uk/citations?hl=en&user=M29JjtAAAAAJ" target="_blank">google scholar</a> profile <br />
-See Sebabrata Mukherjee’s <a href="https://orcid.org/0000-0003-1942-2521" target="_blank">google scholar</a> page. <br />
+See Sebabrata Mukherjee’s <a href="https://orcid.org/0000-0003-1942-2521" target="_blank">ORCID</a> page. <br />
 
 **Selected articles:**
 1. M. Jürgensen, S. Mukherjee, M. C. Rechtsman "Quantized nonlinear Thouless pumping," [Nature **596**, 63-67 (2021)](https://doi.org/10.1038/s41586-021-03688-9).
