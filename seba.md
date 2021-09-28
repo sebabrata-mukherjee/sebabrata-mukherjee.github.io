@@ -1,5 +1,5 @@
 **Dr. Sebabrata Mukherjee**<br />
-Assistant Professor, Physics, IISc Bangalore, India <br />
+Assistant Professor of Physics, IISc Bangalore, India <br />
 Email: mukherjee@iisc.ac.in ,
 mukherjeesebabrata@gmail.com <br />
 Phone: +91 80 2293 2065 (office)
