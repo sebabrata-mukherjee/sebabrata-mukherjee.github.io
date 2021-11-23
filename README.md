@@ -9,7 +9,7 @@
 
 
 ## Recent News
-- Check out our recent work on <a href="https://journals.aps.org/prx/accepted/4a077K0cRab1930b65a755e1ee2feb1881677f0ba" target="_blank">nonlinear topological edge states,</a> accepted in Physical Review X
+- Check out our recent work on <a href="https://journals.aps.org/prx/accepted/4a077K0cRab1930b65a755e1ee2feb1881677f0ba" target="_blank">nonlinear topological edge states,</a> accepted for publication in Physical Review X
 - Undergraduate student Sanjay S is joining our group. Welcome, Sanjay!
 - Ph.D. student Gayathry R is joining our group. Welcome, Gayathry!
 
