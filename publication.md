@@ -11,11 +11,12 @@
 **2021** <br/>
 - Sebabrata Mukherjee and Mikael C. Rechtsman, "Observation of unidirectional solitonlike edge states in nonlinear Floquet topological insulators," <a href="https://doi.org/10.1103/PhysRevX.11.041057" target="_blank">Physical Review X **11**, 041057 (2021)</a>
   
-- Marius. Jürgensen, Sebabrata Mukherjee, Mikael C. Rechtsman "Quantized nonlinear Thouless pumping," [Nature **596**, 63-67 (2021)](https://doi.org/10.1038/s41586-021-03688-9).
-
+- Marius. Jürgensen, Sebabrata Mukherjee, Mikael C. Rechtsman "Quantized nonlinear Thouless pumping," <a href="https://doi.org/10.1038/s41586-021-03688-9" target="_blank">Nature **596**, 63-67 (2021)</a>
+  
+  
 
 **2020** <br/>
-- Sebabrata Mukherjee and Mikael C. Rechtsman, "Observation of Floquet Solitons in a Topological Band Gap," [Science **368**, 856 (2020)](https://doi.org/10.1126/science.aba8725). <br /> Perspective by [Ablowitz and Cole, Science **368**, 821 (2020)](https://science.sciencemag.org/content/368/6493/821). Press release: [Penn State News](https://news.psu.edu/story/621552/2020/05/28/research/geometry-intricately-fabricated-glass-makes-light-trap-itself), [Phys.org](https://phys.org/news/2020-06-geometry-intricately-fabricated-glass.html).
+- Sebabrata Mukherjee and Mikael C. Rechtsman, "Observation of Floquet Solitons in a Topological Band Gap," [Science **368**, 856 (2020)](https://doi.org/10.1126/science.aba8725). <br /> Perspective by [Ablowitz and Cole, Science **368**, 821 (2020)](https://science.sciencemag.org/content/368/6493/821). Press release: [Penn State News](https://news.psu.edu/story/621552/2020/05/28/research/geometry-intricately-fabricated-glass-makes-light-trap-itself), [Phys.org](https://phys.org/news/2020-06-geometry-intricately-fabricated-glass.html)
 
 - Alexander Cerjan, Marius Jürgensen, Wladimir A. Benalcazar, Sebabrata Mukherjee, and
 Mikael C. Rechtsman, "Observation of a higher-order topological bound state in the
@@ -24,7 +25,7 @@ continuum", [Physical Review Letters **125**, 213901 (2020)](https://doi.org/10.
 - Harikumar K Chandrasekharan, Katjana Ehrlich, Michael G. Tanner, Dionne M. Haynes,
 Sebabrata Mukherjee, Tim A. Birks, and Robert R. Thomson, "Observing mode-dependent
 wavelength-to-time mapping in few-mode fibers using a single-photon detector array," [APL
-Photonics 5, 061303 (2020)](https://doi.org/10.1063/5.0006983).
+Photonics 5, 061303 (2020)](https://doi.org/10.1063/5.0006983)
 
 
 **2019** <br/>
@@ -47,7 +48,7 @@ Robert R. Thomson, "State-recycling and time-resolved imaging in topological pho
 - Camilo Cantillano, Sebabrata Mukherjee, Luis Morales-Inostroza, Bastian Real, Gabriel Caceres-
 Aravena, Carla Hermann-Avigliano, Robert R. Thomson, and Rodrigo A. Vicencio, "Observation
 of Ground and Excited Flat Band States in Graphene Photonic Ribbons," [New Journal of Physics
-**20**, 033028 (2018)](https://doi.org/10.1088/1367-2630/aab483).
+**20**, 033028 (2018)](https://doi.org/10.1088/1367-2630/aab483)
 
 
 **2017** <br/>
@@ -56,10 +57,10 @@ Nathan Goldman, and Robert R. Thomson, "Experimental observation of anomalous to
 
 - Sebabrata Mukherjee, Dmitri Mogilevtsev, Gregory Ya Slepyan, Thomas H. Doherty, Robert
 R. Thomson, and Natalia Korolkova, "Dissipatively coupled waveguide networks for coherent
-diffusive photonics," [Nature Communications **8**, 1909 (2017)](https://doi.org/10.1038/s41467-017-02048-4).
+diffusive photonics," [Nature Communications **8**, 1909 (2017)](https://doi.org/10.1038/s41467-017-02048-4)
 
 - Sebabrata Mukherjee, and Robert R. Thomson, "Observation of robust flat-band localization in 
-driven photonic rhombic lattices," [Optics Letters **42** (12) 2243-2246 (2017)](https://doi.org/10.1364/OL.42.002243).
+driven photonic rhombic lattices," [Optics Letters **42** (12) 2243-2246 (2017)](https://doi.org/10.1364/OL.42.002243)
 
 
 
@@ -67,30 +68,30 @@ driven photonic rhombic lattices," [Optics Letters **42** (12) 2243-2246 (2017)]
 - Sebabrata Mukherjee, Manuel Valiente, Nathan Goldman, Alexander Spracklen, Erika
 Andersson, Patrik Öhberg, and Robert R. Thomson, "Observation of pair tunneling and
 coherent destruction of tunneling in arrays of optical waveguides," [Physical Review A 94 (5),
-053853 (2016)](https://doi.org/10.1103/PhysRevA.94.053853).
+053853 (2016)](https://doi.org/10.1103/PhysRevA.94.053853)
 
 - Yves Bellouard, Audrey Champion, Benjamin McMillen, Sebabrata Mukherjee, Robert
 R. Thomson, Charles Pepin, Philippe Gillet, and Ya Cheng, "Stress-state manipulation in
-fused silica via femtosecond laser irradiation," [Optica 3 (12), 1285-1293 (2016)](https://doi.org/10.1364/OPTICA.3.001285).
+fused silica via femtosecond laser irradiation," [Optica 3 (12), 1285-1293 (2016)](https://doi.org/10.1364/OPTICA.3.001285)
 
 
 
 **2015** <br/>
-- Sebabrata Mukherjee, Alexander Spracklen, Debaditya Choudhury, Nathan Goldman, Patrik Öhberg, Erika Andersson and Robert R. Thomson,, "Observation of a localized flat-band state in a photonic Lieb lattice," [Physical Review Letters **114**, 245504 (2015)](https://doi.org/10.1103/PhysRevLett.114.245504). Featured in Physics & Editors' Suggestion. Viewpoint in Physical Review Letters [doi:10.1103/Physics.8.55](https://physics.aps.org/articles/v8/55). <br /> News & Views in Nature Materials [doi:10.1038/nmat4378](https://doi.org/10.1038/nmat4378).
+- Sebabrata Mukherjee, Alexander Spracklen, Debaditya Choudhury, Nathan Goldman, Patrik Öhberg, Erika Andersson and Robert R. Thomson,, "Observation of a localized flat-band state in a photonic Lieb lattice," [Physical Review Letters **114**, 245504 (2015)](https://doi.org/10.1103/PhysRevLett.114.245504). Featured in Physics & Editors' Suggestion. Viewpoint in Physical Review Letters [doi:10.1103/Physics.8.55](https://physics.aps.org/articles/v8/55). <br /> News & Views in Nature Materials [doi:10.1038/nmat4378](https://doi.org/10.1038/nmat4378)
 
 - Sebabrata Mukherjee and Robert R. Thomson, "Observation of localized flat-band modes in a
-quasi-one-dimensional photonic rhombic lattice," [Optics Letters **40** (23), 5443-5446 (2015)](https://doi.org/10.1364/OL.40.005443).
+quasi-one-dimensional photonic rhombic lattice," [Optics Letters **40** (23), 5443-5446 (2015)](https://doi.org/10.1364/OL.40.005443)
 
 - Sebabrata Mukherjee, Alexander Spracklen, Debaditya Choudhury, Nathan Goldman, Patrik
 Öhberg, Erika Andersson, and Robert R. Thomson, "Modulation-assisted tunneling in laserfabricated
-photonic Wannier-Stark ladders," [New Journal of Physics **17**, 115002 (2015)](https://doi.org/10.1088/1367-2630/17/11/115002).
+photonic Wannier-Stark ladders," [New Journal of Physics **17**, 115002 (2015)](https://doi.org/10.1088/1367-2630/17/11/115002)
 
 
 
 **2014** <br/>
 - Alexander Arriola, Sebabrata Mukherjee, Debaditya Choudhury, Lucas Labadie, and Robert R. Thomson, 
 "Ultrafast laser inscription of mid-IR directional couplers for stellar interferometry,"
-[Optics Letters **39** (16), 4820-4822 (2014)](https://doi.org/10.1364/OL.39.004820).
+[Optics Letters **39** (16), 4820-4822 (2014)](https://doi.org/10.1364/OL.39.004820)
 
 
 
