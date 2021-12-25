@@ -13,14 +13,13 @@
   
 **2021** <br/>
 - [<img align="right" src="imageN/keyimage_F.png" width="130"/>](https://doi.org/10.1103/PhysRevX.11.041057) Sebabrata Mukherjee and Mikael C. Rechtsman, "Observation of unidirectional solitonlike edge states in nonlinear Floquet topological insulators," <a href="https://doi.org/10.1103/PhysRevX.11.041057" target="_blank">Physical Review X **11**, 041057 (2021)</a>   
- 
-  
+   
 - Marius. Jürgensen, Sebabrata Mukherjee, and Mikael C. Rechtsman "Quantized nonlinear Thouless pumping," <a href="https://doi.org/10.1038/s41586-021-03688-9" target="_blank">Nature **596**, 63-67 (2021)</a>
   
 
 **2020** <br/>
-- Sebabrata Mukherjee and Mikael C. Rechtsman, "Observation of Floquet Solitons in a Topological Band Gap," [Science **368**, 856 (2020)](https://doi.org/10.1126/science.aba8725). <br /> Perspective by [Ablowitz and Cole, Science **368**, 821 (2020)](https://science.sciencemag.org/content/368/6493/821). Press release: [Penn State News](https://news.psu.edu/story/621552/2020/05/28/research/geometry-intricately-fabricated-glass-makes-light-trap-itself), [Phys.org](https://phys.org/news/2020-06-geometry-intricately-fabricated-glass.html)
-
+- Sebabrata Mukherjee and Mikael C. Rechtsman, "Observation of Floquet Solitons in a Topological Band Gap," <a href="https://doi.org/10.1126/science.aba8725" target="_blank">Science **368**, 856 (2020).</a> Perspective by <a href="https://science.sciencemag.org/content/368/6493/821" target="_blank">Ablowitz and Cole, Science **368**, 821 (2020).</a>  Press release: <a href="https://news.psu.edu/story/621552/2020/05/28/research/geometry-intricately-fabricated-glass-makes-light-trap-itself" target="_blank">Penn State News,</a> <a href="https://phys.org/news/2020-06-geometry-intricately-fabricated-glass.html" target="_blank">Phys.org</a>   
+  
 - Alexander Cerjan, Marius Jürgensen, Wladimir A. Benalcazar, Sebabrata Mukherjee, and
 Mikael C. Rechtsman, "Observation of a higher-order topological bound state in the
 continuum", [Physical Review Letters **125**, 213901 (2020)](https://doi.org/10.1103/PhysRevLett.125.213901). Editors' Suggestion
