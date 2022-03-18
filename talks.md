@@ -8,7 +8,7 @@
 - “Linear and Nonlinear Photonic Topological Materials," research seminar at CeNSE, IISc Bangalore, India, 22 February, 2022.
 
 **2021** <br/>
-- “Nonlinear Topological Photonics: Observation of Solitons in Floquet systems," Virtual Online Workshop - Light-Matter Interactions in Low Dimensional and Topological Photonic Materials, 31 January, 2022 (Invited)
+- “Nonlinear Topological Photonics: Observation of Solitons in Floquet systems," Virtual Online Workshop - Light-Matter Interactions in Low Dimensional and Topological Photonic Materials, 31 January, 2022 (Invited).
 
 - “Photonic topological insulators,” webinar organized by R. K. Mission V. C. College, Rahara, India, 31 March 2021 (Invited).
 
