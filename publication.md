@@ -9,7 +9,7 @@
  <br/><br/>
   
 **2022** <br/>
-- Marius Jürgensen, Sebabrata Mukherjee, Christina Jörg, M C Rechtsman `'Quantized Fractional Thouless Pumping of Solitons," arXiv preprint [arXiv:2201.08258 (2022)](https://arxiv.org/abs/2201.08258)
+- Marius Jürgensen, Sebabrata Mukherjee, Christina Jörg and M C Rechtsman "Quantized Fractional Thouless Pumping of Solitons," arXiv preprint [arXiv:2201.08258 (2022)](https://arxiv.org/abs/2201.08258)
 
   
 **2021** <br/> [<img align="right" src="imageN/keyimage_F.png" width="140"/>](https://doi.org/10.1103/PhysRevX.11.041057)
