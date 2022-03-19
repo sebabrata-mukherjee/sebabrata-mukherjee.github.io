@@ -13,6 +13,13 @@ Gayathry R (Ph.D. Student) <br/>
 Email: gayathryr@iisc.ac.in <br/>
 
 
+<img src="imageN/RishavImage.jpg" width="240"/> <br/>
+
+Rishav Hui (Ph.D. Student) <br/>
+Email: rishavhui@iisc.ac.in <br/>
+
+
+
 <img src="imageN/Sanjay_n.png" width="240"/> <br/>
 
 Sanjay S (Undergraduate Student) <br/>
