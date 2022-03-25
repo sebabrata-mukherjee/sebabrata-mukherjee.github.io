@@ -7,12 +7,12 @@
 
 - “Linear and Nonlinear Photonic Topological Materials," research seminar at CeNSE, IISc Bangalore, India, 22 February, 2022.
 
-**2021** <br/>
 - “Nonlinear Topological Photonics: Observation of Solitons in Floquet systems," Virtual Online Workshop - Light-Matter Interactions in Low Dimensional and Topological Photonic Materials, 31 January, 2022 (Invited).
 
-- “Photonic topological insulators,” webinar organized by R. K. Mission V. C. College, Rahara, India, 31 March 2021 (Invited).
-
+**2021** <br/>
 - “Unidirectional Soliton-Like Edge Modes in Nonlinear Floquet Topological Insulators,” in Conference on Lasers and Electro-Optics, OSA Technical Digest (OSA, 2021), paper FTh4H.6, USA, 13 May 2021.
+
+- “Photonic topological insulators,” webinar organized by R. K. Mission V. C. College, Rahara, India, 31 March 2021 (Invited).
 
 - “Realization of Unidirectional Soliton-like Edge States in Nonlinear Floquet Topological Insulators,” APS March Meeting 2021, USA, 19 March 2021.
 
