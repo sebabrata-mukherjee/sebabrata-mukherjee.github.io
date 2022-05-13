@@ -3,6 +3,8 @@
 ### Conference presentations and research seminars
 
 **2022** <br/>
+- "Photonic Topological Material," International Conference on Condensed Matter & Statistical Physics, Presidency University, Kolkata ()
+
 - “Floquet Solitons in Photonic Topological Materials,” as a part of *The Cergy-Warwick Seminar Series* organized by Cergy Universite Paris (CYU) and University of Warwick (presented virtually). 17 March 2022 (Invited).
 
 - “Linear and Nonlinear Photonic Topological Materials," research seminar at CeNSE, IISc Bangalore, India, 22 February, 2022.
