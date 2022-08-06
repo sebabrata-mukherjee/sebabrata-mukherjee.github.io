@@ -8,10 +8,11 @@
   
  <br/><br/>
   
-**2022** <br/>
-- Sebabrata Mukherjee, and M C Rechtsman "Period-doubled Floquet Solitons," arXiv preprint [arXiv:2208.02279 (2022)](https://arxiv.org/abs/2208.02279)
   
-- Marius Jürgensen, Sebabrata Mukherjee, Christina Jörg and M C Rechtsman "Quantized Fractional Thouless Pumping of Solitons," arXiv preprint [arXiv:2201.08258 (2022)](https://arxiv.org/abs/2201.08258)
+**2022** <br/> [<img align="right" src="imageN/period-doubled_sol.png" width="140"/>](https://arxiv.org/abs/2208.02279)
+- Sebabrata Mukherjee, and M C Rechtsman "Period-doubled Floquet Solitons," [arXiv:2208.02279 (2022)](https://arxiv.org/abs/2208.02279)
+  
+- Marius Jürgensen, Sebabrata Mukherjee, Christina Jörg and M C Rechtsman "Quantized Fractional Thouless Pumping of Solitons," [arXiv:2201.08258 (2022)](https://arxiv.org/abs/2201.08258)
 
   
 **2021** <br/> [<img align="right" src="imageN/keyimage_F.png" width="140"/>](https://doi.org/10.1103/PhysRevX.11.041057)
