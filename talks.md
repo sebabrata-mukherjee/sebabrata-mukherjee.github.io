@@ -3,6 +3,11 @@
 ### Conference presentations and research seminars
 
 **2022** <br/>
+
+- "Solitons in Floquet Topological Insulators," Workshop on Modern Concepts of Topological and Quantum Photonics, 1-3 August 2022, Rostock, Germany, Invited speaker
+
+- "Nonlinear Topological Photonics: Topological Floquet Solitons," research seminar at the Technical University of Kaiserslautern, Germany, 28 July 2022
+
 - "Photonic Topological Material," International Conference on Condensed Matter & Statistical Physics, Presidency University, Kolkata, 4 May 2022 (Plenary speaker)
 
 - “Floquet Solitons in Photonic Topological Materials,” as a part of *The Cergy-Warwick Seminar Series* organized by Cergy Universite Paris (CYU) and University of Warwick (presented virtually). 17 March 2022 (Invited).
