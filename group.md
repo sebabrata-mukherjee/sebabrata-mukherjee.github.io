@@ -19,6 +19,12 @@ Rishav Hui (Ph.D. Student) <br/>
 Email: rishavhui@iisc.ac.in <br/>
 
 
+<img src="imageN/trideb.jpg" width="240"/> <br/>
+
+Trideb Shit (Int. PhD Intern) <br/>
+Email: tridebshit@iisc.ac.in <br/>
+
+
 
 <img src="imageN/Sanjay_n.png" width="240"/> <br/>
 
