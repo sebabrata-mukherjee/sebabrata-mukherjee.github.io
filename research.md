@@ -25,6 +25,8 @@ Photonic lattices -- periodic arrays of optical waveguides -- are a remarkable p
 At high intensity, photons can *effectively* interact mediated by the ambient medium. In experiments, we temporally shape laser pulses such that the dynamics of light through the engineered waveguide arrays are governed by the discrete nonlinear Schrödinger equation (DNSE). The DNSE is mathematically equivalent to the Gross-Pitaevskii equation, which describes mean-field bosonic interactions in a Bose-Einstein condensate. Our goal is to understand and explore the role of interactions/nonlinearity in topologically nontrivial systems. 
 
 See our article on [Floquet solitons in a topological bandgap](https://doi.org/10.1126/science.aba8725)
+[Quantized nonlinear Thouless pumping,](https://doi.org/10.1038/s41586-021-03688-9)
+[Unidirectional traveling edge solitons](https://doi.org/10.1103/PhysRevX.11.041057)
 
 ### Femtosecond laser writing
 <img align="right" src="imageN/FLW2.png  " width="390"/> 
