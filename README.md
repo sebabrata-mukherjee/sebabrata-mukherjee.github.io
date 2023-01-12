@@ -9,6 +9,7 @@
 
 
 ## Recent News
+- Recent paper: "Quantized Fractional Thouless Pumping of Solitons," [Nature Physics](https://doi.org/10.1038/s41567-022-01871-x).
 - Check out our recent work on <a href="https://doi.org/10.1103/PhysRevX.11.041057" target="_blank">**nonlinear** topological edge states </a> published in Physical Review X.
 - Undergraduate student Sanjay S is joining our group. Welcome, Sanjay!
 - Ph.D. student Gayathry R is joining our group. Welcome, Gayathry!
