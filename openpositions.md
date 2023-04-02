@@ -19,11 +19,6 @@ Email Sebabrata Mukherjee with your CV if you have interests in pursuing cutting
 
 
 
-<!-- + text in green 
-! text in orange
-# text in gray
-%@@ text in purple (and bold)@@ --!>
-
 
 
 
