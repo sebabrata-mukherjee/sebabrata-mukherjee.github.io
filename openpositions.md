@@ -5,7 +5,7 @@ Email Sebabrata Mukherjee with your CV if you have interests in pursuing cutting
 <br/><br/>
 
 ```diff
-- Currently no openings for summer internship
+- Currently no openings for summer internship.
 ```
 
 <br/><br/>
