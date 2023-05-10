@@ -25,7 +25,7 @@ Email Sebabrata Mukherjee with your CV if you have interests in pursuing cutting
 <p align="center">
 <img src="imageN/Funding_logo/IISc_Master_Seal_Black.jpg" width="105"/></a> 
 <img  src="imageN/Funding_logo/isro-logo.jpg" width="180"/>
-<img  src="imageN/Funding_logo/serb_logo2.png" width="170"/></a> 
+<img  src="imageN/Funding_logo/serb_logo2.png" width="170"/>
 </p>
 
 
