@@ -36,13 +36,7 @@ See also [News: Microsoft Project Silica;](https://news.microsoft.com/innovation
 
 <br />
 
-<p align="center">
-<img src="imageN/ULI_PhotonPhi.gif" width="370"/>
-</p>
 
-<p align="center">
-Femtosecond laser writing
-</p>
 
 
 
