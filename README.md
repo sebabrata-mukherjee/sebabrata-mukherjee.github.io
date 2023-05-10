@@ -20,3 +20,9 @@
 <p align="center">
 (source: google images)
 </p>
+
+<p align="center">
+<a href="https://iisc.ac.in/" target="_blank"><img src="imageN/Funding_logo/IISc_Master_Seal_Black.jpg" width="105"/></a> 
+<a href="https://www.isro.gov.in/Space_Technology_Cells.html" target="_blank"><img  src="imageN/Funding_logo/isro-logo.jpg" width="180"/>
+<a href="https://www.serbonline.in/SERB/HomePage" target="_blank"><img  src="imageN/Funding_logo/serb_logo2.png" width="170"/></a> 
+</p>
