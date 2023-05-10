@@ -26,3 +26,11 @@ Karnataka, 560012 India
 
 Map<br />
 <a href="https://www.google.co.in/maps/place/Indian+Institute+of+Science/@13.0218597,77.5649536,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae17d757d11bfb:0x3fc1cd64d345c13f!8m2!3d13.0218597!4d77.5671423?hl=en-GB" target="_blank"><img src="imageN/map2.png" width="750"/></a>
+
+
+
+<p align="center">
+<a href="https://iisc.ac.in/" target="_blank"><img src="imageN/Funding_logo/IISc_Master_Seal_Black.jpg" width="105"/></a> 
+<a href="https://www.isro.gov.in/Space_Technology_Cells.html" target="_blank"><img  src="imageN/Funding_logo/isro-logo.jpg" width="180"/>
+<a href="https://www.serbonline.in/SERB/HomePage" target="_blank"><img  src="imageN/Funding_logo/serb_logo2.png" width="170"/></a> 
+</p>
