@@ -1,6 +1,6 @@
-<a href="https://iisc.ac.in/" target="_blank"><img src="imageN/Funding_logo/IISc_Master_Seal_Black.jpg" width="130"/></a> 
-<a href="https://www.isro.gov.in/Space_Technology_Cells.html" target="_blank"><img  src="imageN/Funding_logo/isro-logo.jpg" width="200"/>
-<a href="https://www.serbonline.in/SERB/HomePage" target="_blank"><img  src="imageN/Funding_logo/serb_logo2.png" width="210"/></a> 
+<a href="https://iisc.ac.in/" target="_blank"><img src="imageN/Funding_logo/IISc_Master_Seal_Black.jpg" width="105"/></a> 
+<a href="https://www.isro.gov.in/Space_Technology_Cells.html" target="_blank"><img  src="imageN/Funding_logo/isro-logo.jpg" width="160"/>
+<a href="https://www.serbonline.in/SERB/HomePage" target="_blank"><img  src="imageN/Funding_logo/serb_logo2.png" width="170"/></a> 
 
    
 ### Research
