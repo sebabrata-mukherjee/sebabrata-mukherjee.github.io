@@ -3,16 +3,12 @@
 **Contact <a href="https://sebabrata-mukherjee.github.io/seba.html" target="_blank">Sebabrata Mukherjee</a> if you have interests in pursuing cutting-edge research in photonics, condensed matter physics, quantum physics, and nonlinear dynamics.** 
 
 
-
-
 <br/>
-
 
 ## Recent News
 - Check out our recent work on <a href="https://doi.org/10.1103/PhysRevX.11.041057" target="_blank">**nonlinear** topological edge states </a> published in Physical Review X.
 - Undergraduate student Sanjay S is joining our group. Welcome, Sanjay!
 - Ph.D. student Gayathry R is joining our group. Welcome, Gayathry!
-
 
 <br/>
 
@@ -25,10 +21,8 @@
 (source: google images)
 </p>
 
-
 <p align="center">
- <a href="https://iisc.ac.in/" target="_blank"><img src="imageN/Funding_logo/IISc_Master_Seal_Black.jpg" width="105"/></a> 
+<a href="https://iisc.ac.in/" target="_blank"><img src="imageN/Funding_logo/IISc_Master_Seal_Black.jpg" width="105"/></a> 
 <a href="https://www.isro.gov.in/Space_Technology_Cells.html" target="_blank"><img  src="imageN/Funding_logo/isro-logo.jpg" width="180"/>
 <a href="https://www.serbonline.in/SERB/HomePage" target="_blank"><img  src="imageN/Funding_logo/serb_logo2.png" width="170"/></a> 
 </p>
-
