@@ -42,3 +42,10 @@ See Sebabrata Mukherjee’s <a href="https://orcid.org/0000-0003-1942-2521" targ
 4. *Photonic flat-band lattices,* International Workshop, Flatband Networks in Condensed Matter and Photonics, 2017, Center for Theoretical Physics of Complex Systems, Daejeon, South Korea
 5. *Experimental observation of anomalous topological edge modes in a slowly-driven photonic lattice,* International Workshop on Discrete, Nonlinear and Disordered Optics, 08-12 May 2017, Max Planck Institute for the Physics of Complex Systems, Dresden, Germany
 6. *Experimental simulation of solid-state phenomena using Photonic Lattices,* research seminar, 02 November, 2016, University of Chile, Santiago, Chile
+
+
+<p align="center">
+<a href="https://iisc.ac.in/" target="_blank"><img src="imageN/Funding_logo/IISc_Master_Seal_Black.jpg" width="70"/></a> 
+<a href="https://www.isro.gov.in/Space_Technology_Cells.html" target="_blank"><img  src="imageN/Funding_logo/isro-logo.jpg" width="120"/></a>
+<a href="https://www.serbonline.in/SERB/HomePage" target="_blank"><img  src="imageN/Funding_logo/serb_logo2.png" width="115"/></a> 
+</p>
