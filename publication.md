@@ -10,6 +10,8 @@
   
   
 **Recent** <br/> [<img align="right" src="imageN/period-doubled_sol.png" width="140"/>](https://arxiv.org/abs/2208.02279)
+- Christopher Oliver, Sebabrata Mukherjee, Mikael C. Rechtsman, Iacopo Carusotto, and Hannah M. Price, "Artificial gauge fields in the t-z mapping for optical pulses: spatio-temporal wavepacket control and quantum Hall physics," [arXiv:2305.11820 (2023)](https://arxiv.org/abs/2305.11820)
+  
 - Marius Jürgensen, Sebabrata Mukherjee, Christina Jörg and M C Rechtsman "Quantized Fractional Thouless Pumping of Solitons," [Nature Physics (2023)](https://doi.org/10.1038/s41567-022-01871-x)
   
 - Sebabrata Mukherjee, and M C Rechtsman "Period-doubled Floquet Solitons," [arXiv:2208.02279 (2022)](https://arxiv.org/abs/2208.02279)
