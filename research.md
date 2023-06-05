@@ -1,9 +1,8 @@
-<p align="center">
-<img src="imageN/animation2_2.gif" width="600"/>
-</p>
-
-
 ### Research
+
+<p align="center">
+<img src="imageN/animation2_3.gif" width="600"/>
+</p>
 
 **Keywords:** Optics & condensed matter physics, femtosecond laser writing, photonic lattices,
 periodically modulated (Floquet) waveguide arrays, linear & nonlinear topological photonics, spatial solitons.
