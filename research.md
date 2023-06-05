@@ -1,7 +1,7 @@
 ### Research
 
 <p align="center">
-<img src="imageN/animation4-2.gif" width="600"/>
+<img src="imageN//Animation_f.gif" width="580"/>
 </p>
 
 **Keywords:** Optics & condensed matter physics, femtosecond laser writing, photonic lattices,
