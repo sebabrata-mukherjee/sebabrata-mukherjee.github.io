@@ -6,6 +6,7 @@
 <br/>
 
 ## Recent News
+- IOE postdoc Dr. Shailja Sharma is joining our group. Welcome Shailja!
 - Check out our recent work on <a href="https://doi.org/10.1103/PhysRevX.11.041057" target="_blank">**nonlinear** topological edge states </a> published in Physical Review X.
 - Undergraduate student Sanjay S is joining our group. Welcome, Sanjay!
 - Ph.D. student Gayathry R is joining our group. Welcome, Gayathry!
