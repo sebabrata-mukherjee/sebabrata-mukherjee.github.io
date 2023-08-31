@@ -32,10 +32,11 @@ Email: tridebshit@iisc.ac.in <br/>
 
 
 
-
-1. Trideb Shit, (Int-PhD, Intern, May-July 2022)
-2. Subhabhan Roy, (Int-PhD, Intern, May-July 2022)
-3. Mr. Sanjay S (UG, IISc, Project course, Aug-Dec 2021) 
+1. Maitri Ganguli (Int-PhD, Intern, May-July 2023)
+2. Karnpriya Pandey (Int-PhD, Intern, May-July 2023)
+3. Trideb Shit, (Int-PhD, Intern, May-July 2022)
+4. Subhabhan Roy, (Int-PhD, Intern, May-July 2022)
+5. Mr. Sanjay S (UG, IISc, Project course, Aug-Dec 2021) 
 
 
 
