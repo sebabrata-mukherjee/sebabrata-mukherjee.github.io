@@ -7,25 +7,25 @@ Assistant Professor <br/>
 Email: mukherjee@iisc.ac.in <br />
 Phone: +91 80 2293 2065 (office)
 
-<img src="imageN/Gayathry_n.png" width="240"/> <br/>
+<img src="imageN/Gayathry_n.png" width="200"/> <br/>
 
 Gayathry R (Ph.D. Student) <br/>
 Email: gayathryr@iisc.ac.in <br/>
 
 
-<img src="imageN/RishavImage.jpg" width="240"/> <br/>
+<img src="imageN/RishavImage.jpg" width="200"/> <br/>
 
 Rishav Hui (Ph.D. Student) <br/>
 Email: rishavhui@iisc.ac.in <br/>
 
 
-<img src="imageN/Avinash-2.jpg" width="240"/> <br/>
+<img src="imageN/Avinash-2.jpg" width="200"/> <br/>
 
 Avinash Tetarwal (Ph.D. Student) <br/>
 Email: avinasht@iisc.ac.in <br/>
 
 
-<img src="imageN/trideb.jpg" width="240"/> <br/>
+<img src="imageN/trideb.jpg" width="200"/> <br/>
 
 Trideb Shit (Int. PhD Intern) <br/>
 Email: tridebshit@iisc.ac.in <br/>
