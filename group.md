@@ -1,6 +1,6 @@
 ### Members
 
-<img src="images/me.jpeg" width="240"/>  <br/>
+<img src="images/me.jpeg" width="200"/>  <br/>
 
 PI: Sebabrata Mukherjee <a href="https://sebabrata-mukherjee.github.io/seba.html" target="_blank">(brief CV)</a> <br/>
 Assistant Professor <br/>
