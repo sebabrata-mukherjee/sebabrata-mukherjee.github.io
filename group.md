@@ -32,7 +32,13 @@ Email: tridebshit@iisc.ac.in <br/>
 
 
 
+Mr. Sanjay S (UG, IISc, intern, 2021)
+
+
+
+<!---
 <img src="imageN/Sanjay_n.png" width="240"/> <br/>
 
 Sanjay S (Undergraduate Student) <br/>
 Email: sanjays1@iisc.ac.in <br/>
+---->
