@@ -6,6 +6,13 @@ Assistant Professor <br/>
 Email: mukherjee@iisc.ac.in <br />
 Phone: +91 80 2293 2065 (office)
 
+
+<img src="imageN/Shailja_IMG_5329-2.jpeg" width="200"/>  <br/>
+Shailja Sharma  <br/>
+IoE Post-Doctoral fellow  <br/>
+Email: shailjas@iisc.ac.in <br />
+
+
 <img src="imageN/Gayathry_n.png" width="200"/> <br/>
 Gayathry R (Ph.D. Student) <br/>
 Email: gayathryr@iisc.ac.in <br/>
