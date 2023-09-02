@@ -1,13 +1,12 @@
 ### Members
 
-<img src="images/me.jpeg" width="200"/>  <br/>
+<img src="images/me.jpeg" width="180"/>  <br/>
 PI: Sebabrata Mukherjee <a href="https://sebabrata-mukherjee.github.io/seba.html" target="_blank">(brief CV)</a> <br/>
-Assistant Professor <br/>
 Email: mukherjee@iisc.ac.in <br />
 Phone: +91 80 2293 2065 (office)
 
 
-<img src="imageN/Shailja_IMG_5329-2.jpeg" width="200"/>  <br/>
+<img src="imageN/Shailja_IMG_5329-2.jpeg" width="180"/>  <br/>
 Shailja Sharma  <br/>
 IoE Post-Doctoral fellow  <br/>
 Email: shailjas@iisc.ac.in <br />
