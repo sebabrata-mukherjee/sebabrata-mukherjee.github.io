@@ -13,6 +13,73 @@ IoE Post-Doctoral fellow  <br/>
 Email: shailjas@iisc.ac.in <br />
 
 
+
+
+**Ph.D. Students**
+
+<table border="0">
+ <tr>
+        <td>  
+            <div align="center">
+                <img src="imageN/Gayathry_n.png" height="200"/> <br/>
+                 Gayathry <br/>
+                 Email: gayathryr@iisc.ac.in <br/>
+             </div>
+        </td>
+        <td>
+            <div align="center">
+               <img src="imageN/RishavImage.jpg" height="200"/> <br/>
+                 Rishav <br/>
+                 Email: rishavhui@iisc.ac.in <br/>
+             </div>
+        </td>
+         <td>
+            <div align="center">
+              <img src="imageN/Avinash-2.jpg" height="200"/> <br/>
+              Avinash <br/>
+              Email: avinasht@iisc.ac.in <br/>
+             </div>
+         </td>
+         <td>
+            <div align="center">
+             <img src="imageN/trideb.jpg" height="200"/> <br/>
+             Trideb <br/>
+             Email: tridebshit@iisc.ac.in <br/>
+             </div>
+         </td>
+ </tr>
+</table>
+
+
+<br/>
+
+**previous members**
+
+1. Maitri Ganguli (Int-PhD, Intern, May-July 2023)
+2. Karnpriya Pandey (Int-PhD, Intern, May-July 2023)
+3. Trideb Shit, (Int-PhD, Intern, May-July 2022)
+4. Subhabhan Roy, (Int-PhD, Intern, May-July 2022)
+5. Sanjay S (UG, IISc, Project course, Aug-Dec 2021) 
+
+
+
+
+
+
+
+
+
+
+
+<!---
+<img src="imageN/Sanjay_n.png" width="240"/> <br/>
+
+Sanjay S (Undergraduate Student) <br/>
+Email: sanjays1@iisc.ac.in <br/>
+---->
+
+<!---
+
 <img src="imageN/Gayathry_n.png" width="200"/> <br/>
 Gayathry R (Ph.D. Student) <br/>
 Email: gayathryr@iisc.ac.in <br/>
@@ -31,20 +98,4 @@ Email: avinasht@iisc.ac.in <br/>
 <img src="imageN/trideb.jpg" width="200"/> <br/>
 Trideb Shit (Int. PhD Intern) <br/>
 Email: tridebshit@iisc.ac.in <br/>
-
-
-
-1. Maitri Ganguli (Int-PhD, Intern, May-July 2023)
-2. Karnpriya Pandey (Int-PhD, Intern, May-July 2023)
-3. Trideb Shit, (Int-PhD, Intern, May-July 2022)
-4. Subhabhan Roy, (Int-PhD, Intern, May-July 2022)
-5. Sanjay S (UG, IISc, Project course, Aug-Dec 2021) 
-
-
-
-<!---
-<img src="imageN/Sanjay_n.png" width="240"/> <br/>
-
-Sanjay S (Undergraduate Student) <br/>
-Email: sanjays1@iisc.ac.in <br/>
----->
+--->
