@@ -33,6 +33,12 @@ Email: shailjas@iisc.ac.in <br />
                  Email: rishavhui@iisc.ac.in <br/>
              </div>
         </td>
+   </tr>
+</table>
+
+
+<table border="0">
+ <tr>
          <td>
             <div align="center">
               <img src="imageN/Avinash-2.jpg" height="200"/> <br/>
