@@ -20,28 +20,28 @@ Email: shailjas@iisc.ac.in <br />
  <tr>
         <td>  
             <div align="center">
-                <img src="imageN/Gayathry_n.png" height="160"/> <br/>
+                <img src="imageN/Gayathry_n.png" height="170"/> <br/>
                  Gayathry <br/>
                  gayathryr@iisc.ac.in <br/>
              </div>
         </td>
         <td>
             <div align="center">
-               <img src="imageN/RishavImage.jpg" height="160"/> <br/>
+               <img src="imageN/RishavImage.jpg" height="170"/> <br/>
                  Rishav <br/>
                  rishavhui@iisc.ac.in <br/>
              </div>
         </td>
          <td>
             <div align="center">
-              <img src="imageN/Avinash-2.jpg" height="160"/> <br/>
+              <img src="imageN/Avinash-2.jpg" height="170"/> <br/>
               Avinash <br/>
               avinasht@iisc.ac.in <br/>
              </div>
          </td>
          <td>
             <div align="center">
-             <img src="imageN/trideb.jpg" height="160"/> <br/>
+             <img src="imageN/trideb.jpg" height="170"/> <br/>
              Trideb <br/>
              tridebshit@iisc.ac.in <br/>
              </div>
