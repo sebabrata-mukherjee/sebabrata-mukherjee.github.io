@@ -53,7 +53,7 @@ Email: shailjas@iisc.ac.in <br />
 
 <br/>
 
-**previous members**
+**Previous members**
 
 1. Maitri Ganguli (Int-PhD, Intern, May-July 2023)
 2. Karnpriya Pandey (Int-PhD, Intern, May-July 2023)
