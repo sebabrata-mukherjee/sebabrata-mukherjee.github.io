@@ -1,66 +1,56 @@
-<!--
+
 ### Members
 
+<img src="images/me.jpeg" width="200"/>  <br/>
+PI: Sebabrata Mukherjee <a href="https://sebabrata-mukherjee.github.io/seba.html" target="_blank">(brief CV)</a> <br/>
+Email: mukherjee@iisc.ac.in <br />
+Phone: +91 80 2293 2065 (office)
+
+
+<img src="imageN/Shailja_IMG_5329-2.jpeg" width="200"/>  <br/>
+Shailja Sharma  <br/>
+IoE Post-Doctoral fellow  <br/>
+Email: shailjas@iisc.ac.in <br />
+
+
+
+
+**Ph.D. Students**
 <table border="0">
  <tr>
         <td>  
             <div align="center">
-                <img src="images/me.jpeg" height="220"/>  <br/>
-                 Sebabrata Mukherjee <br/>
-                 PI   <a href="https://sebabrata-mukherjee.github.io/seba.html" target="_blank">(brief CV)</a> <br/>
-                 mukherjee@iisc.ac.in <br />
-             </div>
-        </td>  
-        <td>  
-            <div align="center">
-                <img src="imageN/Shailja_IMG_5329-2.jpeg" height="220"/>  <br/>
-                 Shailja Sharma  <br/>
-                 IoE Postdoc  <br/>
-                 shailjas@iisc.ac.in <br />
-             </div>
-        </td>
-        <td>  
-            <div align="center">
-                <img src="imageN/Gayathry_n.png" height="220"/> <br/>
-                 Gayathry <br/>
-                 PhD Student <br/>
+                <img src="imageN/Gayathry_n.png" height="170"/> <br/>
+                 Gayathry R<br/>
                  gayathryr@iisc.ac.in <br/>
              </div>
         </td>
- </tr>
-</table>
-
- <table border="0">
- <tr> 
         <td>
             <div align="center">
-               <img src="imageN/RishavImage.jpg" height="220"/> <br/>
-                 Rishav <br/>
-                 PhD Student <br/>
+               <img src="imageN/RishavImage.jpg" height="170"/> <br/>
+                 Rishav Hui <br/>
                  rishavhui@iisc.ac.in <br/>
              </div>
         </td>
          <td>
             <div align="center">
-              <img src="imageN/Avinash-2.jpg" height="220"/> <br/>
-              Avinash <br/>
-              PhD Student <br/>
+              <img src="imageN/Avinash-2.jpg" height="170"/> <br/>
+              Avinash Tetarwal <br/>
               avinasht@iisc.ac.in <br/>
              </div>
          </td>
          <td>
             <div align="center">
-             <img src="imageN/trideb.jpg" height="220"/> <br/>
-             Trideb <br/>
-             PhD Student <br/>
+             <img src="imageN/trideb.jpg" height="170"/> <br/>
+             Trideb Shit<br/>
              tridebshit@iisc.ac.in <br/>
              </div>
          </td>
  </tr>
 </table>
-
-
 <br/>
+
+
 
 **Previous members**
 
@@ -122,5 +112,4 @@ Email: shailjas@iisc.ac.in <br />
 
 
 
-**Ph.D. Students**
 --->
