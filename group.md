@@ -27,7 +27,7 @@ Email: shailjas@iisc.ac.in <br />
         </td>
         <td>
             <div align="center">
-               <img src="imageN/RishavImage.jpg" height="170"/> <br/>
+               <img src="imageN/RishavImage1.jpg" height="170"/> <br/>
                  Rishav Hui <br/>
                  rishavhui@iisc.ac.in <br/>
              </div>
