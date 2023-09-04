@@ -1,4 +1,3 @@
-
 ### Members
 
 <img src="images/me.jpeg" width="200"/>  <br/>
@@ -16,7 +15,7 @@ Email: shailjas@iisc.ac.in <br />
 
 
 
-**Ph.D. Students**
+### Ph.D. Students
 <table border="0">
  <tr>
         <td>  
@@ -53,7 +52,7 @@ Email: shailjas@iisc.ac.in <br />
 
 
 
-**Previous members**
+### Previous members
 
 1. Maitri Ganguli (Int-PhD, Intern, May-July 2023)
 2. Karnpriya Pandey (Int-PhD, Intern, May-July 2023)
