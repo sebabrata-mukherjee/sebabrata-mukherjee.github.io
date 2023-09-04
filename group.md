@@ -15,7 +15,7 @@ Email: shailjas@iisc.ac.in <br />
 
 
 
-### Ph.D. Students
+### Ph.D. students
 <table border="0">
  <tr>
         <td>  
