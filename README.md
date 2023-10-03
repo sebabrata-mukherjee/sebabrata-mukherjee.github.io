@@ -6,6 +6,7 @@
 <br/>
 
 ## Recent News
+- Check out our recent work on <a href="https://doi.org/10.1364/OPTICA.494823" target="_blank">Period-doubled Floquet solitons </a> published in Optica.
 - IOE postdoc Dr. Shailja Sharma is joining our group. Welcome Shailja!
 - Welcome Trideb (Int. PhD) and Avinash (PhD), new members of our group!
 - Check out our recent work on <a href="https://doi.org/10.1103/PhysRevX.11.041057" target="_blank">**nonlinear** topological edge states </a> published in Physical Review X.
