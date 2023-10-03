@@ -14,8 +14,8 @@
   
 - Marius Jürgensen, Sebabrata Mukherjee, Christina Jörg and M C Rechtsman "Quantized Fractional Thouless Pumping of Solitons," [Nature Physics **19**, 420-426 (2023)](https://doi.org/10.1038/s41567-022-01871-x) 
 
-- Sebabrata Mukherjee, and M C Rechtsman "Period-doubled Floquet Solitons," [arXiv:2208.02279 (2022)](https://arxiv.org/abs/2208.02279), <br/>
-  [Optica **10**, 1310-1315 (2023)](https://doi.org/10.1364/OPTICA.494823) 
+- Sebabrata Mukherjee, and M C Rechtsman "Period-doubled Floquet Solitons," [arXiv:2208.02279 (2022)](https://arxiv.org/abs/2208.02279), 
+  [Optica **10**, 1310-1315 (2023)](https://doi.org/10.1364/OPTICA.494823) <br/>
     
   
 **2021** <br/> [<img align="right" src="imageN/keyimage_F.png" width="140"/>](https://doi.org/10.1103/PhysRevX.11.041057)
