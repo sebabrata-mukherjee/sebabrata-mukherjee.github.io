@@ -11,7 +11,7 @@
   
 **Recent** <br/> 
 - Christopher Oliver, Sebabrata Mukherjee, Mikael C. Rechtsman, Iacopo Carusotto, and Hannah M. Price, "Artificial gauge fields in the t-z mapping for optical pulses: spatio-temporal wavepacket control and quantum Hall physics," [
-Science Advances **9**, 42  eadj0360(2023)](https://www.science.org/doi/10.1126/sciadv.adj0360)<br/>
+Science Advances **9**, 42 eadj0360 (2023)](https://www.science.org/doi/10.1126/sciadv.adj0360)<br/>
 
 [<img align="right" src="imageN/period-doubled_sol.png" width="140"/>](https://arxiv.org/abs/2208.02279)
   
