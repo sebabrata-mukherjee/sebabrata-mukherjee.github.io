@@ -2,7 +2,7 @@
 ## supplementary movies
 
 <p align="center">
-<img src="Videos/TS_Correlation_2024/Movie-1.gif" width="370"/>
+<img src="Videos/TS_Correlation_2024/Movie-1.gif" width="700"/>
 </p>
 
 
@@ -15,7 +15,7 @@ Supplementary Movie 1: The linear ($g\! \rightarrow \! 0$) propagation of optica
 
 
 <p align="center">
-<img src="Videos/TS_Correlation_2024/Movie-2.gif" width="370"/>
+<img src="Videos/TS_Correlation_2024/Movie-2.gif" width="700"/>
 </p>
 
 
@@ -30,7 +30,7 @@ Notice the formation of long-lived discrete breathers near $\phi=(0.9 \pm 0.4)\p
 
 
 <p align="center">
-<img src="Videos/TS_Correlation_2024/Movie-3.gif" width="370"/>
+<img src="Videos/TS_Correlation_2024/Movie-3.gif" width="700"/>
 </p>
 
 
