@@ -2,7 +2,7 @@
 ## supplementary movies
 
 <p align="center">
-<img src="Videos/TS_Correlation_2024/Movie-1.avi" width="370"/>
+<img src="Videos/TS_Correlation_2024/Movie-1.gif" width="370"/>
 </p>
 
 
