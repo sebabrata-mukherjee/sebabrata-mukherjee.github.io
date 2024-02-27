@@ -1,4 +1,4 @@
-## Probing Two-body Bound States in the Continuum and\\ Nonlinear Breathers Using Intensity Correlations
+## Probing Two-body Bound States in the Continuum and Nonlinear Breathers Using Intensity Correlations
 ## supplementary movies
 
 <p align="center">
