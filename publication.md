@@ -10,7 +10,7 @@
   
   
 **Recent** <br/> 
-- Trideb Shit et al., Probing Two-body Bound States in the Continuum and Nonlinear Breathers Using Intensity Correlations [Video Link](TS_Correlation_2024.md)
+- Trideb Shit, Rishav Hui, Marco Di Liberto, Diptiman Sen, and Sebabrata Mukherjee, "Probing Two-body Bound States in the Continuum and Nonlinear Breathers Using Intensity Correlations," [arXiv:2402.18340 (2024)](https://arxiv.org/abs/2402.18340) <br/>[Supplementary movies](TS_Correlation_2024.md)
 
 - Christopher Oliver, Sebabrata Mukherjee, Mikael C. Rechtsman, Iacopo Carusotto, and Hannah M. Price, "Artificial gauge fields in the t-z mapping for optical pulses: spatio-temporal wavepacket control and quantum Hall physics," [
 Science Advances **9**, 42 eadj0360 (2023)](https://www.science.org/doi/10.1126/sciadv.adj0360)<br/>
