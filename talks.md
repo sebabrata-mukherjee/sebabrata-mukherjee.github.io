@@ -2,6 +2,31 @@
 
 ### Conference presentations and research seminars
 
+**2024** <br/>
+
+- "Floquet Solitons in Photonic Topological Materials,'' Asia Light Conference 2024, Singapore, 05-08 March 2024 (Invited)
+
+**2023** <br/>
+
+- "Topological materials of laser-fabricated photonic lattices,'' SCOP-2023, PRL Ahmedabad, 29 September 2023 (Invited)
+
+- "Light transport in periodically modulated waveguide lattices," IISc-BIU 2023 workshop, 11-12 September 2023
+
+- Research Overview, IISc-Penn State Joint Virtual Workshop Series, 14 July 2023
+
+- "Period-doubled Floquet Solitons," IISc-NTU joint conference, IISc Bangalore, 2-3 March 2023.
+
+- "Topological Photonic," One Day Webinar Recent on Trends in Photonics with Applications, 26th November 2022, Sarala Birla University (SBU), Ranchi, India (Invited).
+
+- "Nonlinear States in Femtosecond Laser-Written Photonic Floquet Topological Materials," Conference on Optics, Photonics \& Quantum Optics (COPaQ-2022), 13 November 2022, IIT Roorkee, India 
+
+- "Solitons in Photonic Topological Lattices," research seminar, 23 September 2022, IIT Delhi, India 
+
+- "Nonlinear Photonic Floquet Topological Materials," Annual Conference on Quantum Condensed Matter (QMAT 2022), 19 September 2022, IIT Kanpur, India 
+
+- "Photonic Topological Materials," International Conference on Condensed Matter \& Statistical Physics (ICCMSP 2022), 4th May, 2022, Presidency University, Kolkata, Plenary speaker
+
+
 **2022** <br/>
 
 - "Solitons in Floquet Topological Insulators," Workshop on Modern Concepts of Topological and Quantum Photonics, 1-3 August 2022, Rostock, Germany, Invited speaker
