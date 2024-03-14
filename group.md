@@ -57,7 +57,7 @@ Email: shailjas@iisc.ac.in <br />
             <div align="center">
                  <img src="imageN/Abhinav.jpeg" height="170"/>  <br/>
                   Abhinav Sinha  <br/>
-                  Bachelor of Science (Research) <br />
+                  B.S., Sept 2023 - <br />
                   abhinavsinha@iisc.ac.in <br />
             </div>
         </td>
@@ -65,7 +65,7 @@ Email: shailjas@iisc.ac.in <br />
             <div align="center">
                  <img src="imageN/images_unknown.png" height="170"/>  <br/>
                   Bhoomija Chaurasia  <br/>
-                  Int-PhD, Intern <br />
+                  Int-PhD <br />
                   bhoomijac@iisc.ac.in <br />
             </div>
         </td>
@@ -73,7 +73,7 @@ Email: shailjas@iisc.ac.in <br />
             <div align="center">
                  <img src="imageN/images_unknown.png" height="170"/>  <br/>
                   Debankur Basak  <br/>
-                  Int-PhD, Intern <br />
+                  Int-PhD <br />
                   debankurb@iisc.ac.in <br />
             </div>
         </td>
@@ -83,10 +83,10 @@ Email: shailjas@iisc.ac.in <br />
 
 ### Previous members
 
-1. Maitri Ganguli (Int-PhD, Intern, May-July 2023)
-2. Karnpriya Pandey (Int-PhD, Intern, May-July 2023)
-3. Trideb Shit, (Int-PhD, Intern, May-July 2022)
-4. Subhabhan Roy, (Int-PhD, Intern, May-July 2022)
+1. Maitri Ganguli (Int-PhD, May-July 2023)
+2. Karnpriya Pandey (Int-PhD, May-July 2023)
+3. Trideb Shit, (Int-PhD, May-July 2022)
+4. Subhabhan Roy, (Int-PhD, May-July 2022)
 5. Sanjay S (UG, IISc, Project course, Aug-Dec 2021) 
 
 
