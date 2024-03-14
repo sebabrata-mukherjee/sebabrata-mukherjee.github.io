@@ -50,7 +50,36 @@ Email: shailjas@iisc.ac.in <br />
 </table>
 <br/>
 
-
+### Short-term project students
+<table border="0">
+ <tr>
+        <td>  
+            <div align="center">
+                 <img src="imageN/Abhinav.jpeg" height="170"/>  <br/>
+                  Abhinav Sinha  <br/>
+                  Bachelor of Science (Research) <br />
+                  abhinavsinha@iisc.ac.in <br />
+            </div>
+        </td>
+        <td>
+            <div align="center">
+                 <img src="imageN/images_unknown.png" height="170"/>  <br/>
+                  Bhoomija Chaurasia  <br/>
+                  Int-PhD, Intern <br />
+                  bhoomijac@iisc.ac.in <br />
+            </div>
+        </td>
+        <td>
+            <div align="center">
+                 <img src="imageN/images_unknown.png" height="170"/>  <br/>
+                  Debankur Basak  <br/>
+                  Int-PhD, Intern <br />
+                  debankurb@iisc.ac.in <br />
+            </div>
+        </td>
+ </tr>
+</table>
+<br/>
 
 ### Previous members
 
