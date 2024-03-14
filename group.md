@@ -57,7 +57,7 @@ Email: shailjas@iisc.ac.in <br />
             <div align="center">
                  <img src="imageN/Abhinav.jpeg" height="170"/>  <br/>
                   Abhinav Sinha  <br/>
-                  B.S., Sept 2023 - <br />
+                  B.S. (Research) <br />
                   abhinavsinha@iisc.ac.in <br />
             </div>
         </td>
