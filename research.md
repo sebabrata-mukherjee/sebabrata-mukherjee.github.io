@@ -2,8 +2,8 @@
 
 
 
-**Keywords:** Optics & condensed matter physics, femtosecond laser writing, photonic lattices,
-periodically modulated (Floquet) waveguide arrays, linear & nonlinear topological photonics, spatial solitons.
+**Keywords:** Optics, condensed matter physics, femtosecond laser writing, photonic lattices,
+periodically modulated (Floquet) waveguide arrays, linear and nonlinear topological photonics, spatial solitons.
 
 We are interested in how optical states propagate along intricately designed waveguide networks and in creating these devices to explore novel light-matter interactions. Our goal is to apply photonic technologies to discover new physics and find their applications, going beyond the traditional scope of 
 optics and condensed matter physics. <br />
