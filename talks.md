@@ -17,13 +17,14 @@
 
 - "Period-doubled Floquet Solitons," IISc-NTU joint conference, IISc Bangalore, 2-3 March 2023.
 
-- "Topological Photonic," One Day Webinar Recent on Trends in Photonics with Applications, 26th November 2022, Sarala Birla University (SBU), Ranchi, India (Invited).
-
-- "Nonlinear States in Femtosecond Laser-Written Photonic Floquet Topological Materials," Conference on Optics, Photonics \& Quantum Optics (COPaQ-2022), 13 November 2022, IIT Roorkee, India 
 
 
 **2022** <br/>
 
+- "Topological Photonic," One Day Webinar Recent on Trends in Photonics with Applications, 26th November 2022, Sarala Birla University (SBU), Ranchi, India (Invited).
+
+- "Nonlinear States in Femtosecond Laser-Written Photonic Floquet Topological Materials," Conference on Optics, Photonics \& Quantum Optics (COPaQ-2022), 13 November 2022, IIT Roorkee, India
+  
 - "Solitons in Photonic Topological Lattices," research seminar, 23 September 2022, IIT Delhi, India 
 
 - "Nonlinear Photonic Floquet Topological Materials," Annual Conference on Quantum Condensed Matter (QMAT 2022), 19 September 2022, IIT Kanpur, India 
