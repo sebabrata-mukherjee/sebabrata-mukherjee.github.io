@@ -21,14 +21,12 @@
 
 - "Nonlinear States in Femtosecond Laser-Written Photonic Floquet Topological Materials," Conference on Optics, Photonics \& Quantum Optics (COPaQ-2022), 13 November 2022, IIT Roorkee, India 
 
+
+**2022** <br/>
+
 - "Solitons in Photonic Topological Lattices," research seminar, 23 September 2022, IIT Delhi, India 
 
 - "Nonlinear Photonic Floquet Topological Materials," Annual Conference on Quantum Condensed Matter (QMAT 2022), 19 September 2022, IIT Kanpur, India 
-
-- "Photonic Topological Materials," International Conference on Condensed Matter \& Statistical Physics (ICCMSP 2022), 4th May, 2022, Presidency University, Kolkata, Plenary speaker
-
-
-**2022** <br/>
 
 - "Solitons in Floquet Topological Insulators," Workshop on Modern Concepts of Topological and Quantum Photonics, 1-3 August 2022, Rostock, Germany, Invited speaker
 
