@@ -4,6 +4,7 @@
 
 **2024** <br/>
 
+- "Topological Physics in Laser-Inscribed Photonic Devices,'' research seminar at NISER Bhubaneswar, 10 April 2024
 - "Floquet Solitons in Photonic Topological Materials,'' Asia Light Conference 2024, Singapore, 05-08 March 2024 (Invited)
 
 **2023** <br/>
