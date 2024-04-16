@@ -12,6 +12,8 @@
 **Recent** <br/> 
 - Trideb Shit, Rishav Hui, Marco Di Liberto, Diptiman Sen, and Sebabrata Mukherjee, "Probing Two-body Bound States in the Continuum and Nonlinear Breathers Using Intensity Correlations," [arXiv:2402.18340 (2024)](https://arxiv.org/abs/2402.18340), [Supplementary movies](TS_Correlation_2024.md)
 
+- Christina Jörg, Marius Jürgensen, Sebabrata Mukherjee, and Mikael C. Rechtsman, "Optical control of topological end states via soliton formation in a 1D lattice," [arXiv:2404.09560 (2024)](https://arxiv.org/abs/2404.09560).
+
 - Christopher Oliver, Sebabrata Mukherjee, Mikael C. Rechtsman, Iacopo Carusotto, and Hannah M. Price, "Artificial gauge fields in the t-z mapping for optical pulses: spatio-temporal wavepacket control and quantum Hall physics," [
 Science Advances **9**, 42 eadj0360 (2023)](https://www.science.org/doi/10.1126/sciadv.adj0360)<br/>
 
