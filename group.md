@@ -50,14 +50,13 @@ Email: shailjas@iisc.ac.in <br />
 </table>
 <br/>
 
-### Short-term project students
+### Undergraduate students
 <table border="0">
  <tr>
         <td>  
             <div align="center">
                  <img src="imageN/Abhinav.jpeg" height="170"/>  <br/>
                   Abhinav Sinha  <br/>
-                  B.S. (Research) <br />
                   abhinavsinha@iisc.ac.in <br />
             </div>
         </td>
@@ -65,7 +64,6 @@ Email: shailjas@iisc.ac.in <br />
             <div align="center">
                  <img src="imageN/images_unknown.png" height="170"/>  <br/>
                   Bhoomija Chaurasia  <br/>
-                  Int-PhD <br />
                   bhoomijac@iisc.ac.in <br />
             </div>
         </td>
@@ -73,8 +71,14 @@ Email: shailjas@iisc.ac.in <br />
             <div align="center">
                  <img src="imageN/images_unknown.png" height="170"/>  <br/>
                   Debankur Basak  <br/>
-                  Int-PhD <br />
                   debankurb@iisc.ac.in <br />
+            </div>
+        </td>
+        <td>
+            <div align="center">
+                 <img src="imageN/images_unknown.png" height="170"/>  <br/>
+                  Rudra Khanra  <br/>
+                  rudrakhanra@iisc.ac.in <br />
             </div>
         </td>
  </tr>
