@@ -76,7 +76,7 @@ Email: shailjas@iisc.ac.in <br />
         </td>
         <td>
             <div align="center">
-                 <img src="imageN/images_unknown.png" height="170"/>  <br/>
+                 <img src="imageN/RudraKhanra-2.jpg" height="170"/>  <br/>
                   Rudra Khanra  <br/>
                   rudrakhanra@iisc.ac.in <br />
             </div>
