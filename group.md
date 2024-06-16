@@ -81,6 +81,13 @@ Email: shailjas@iisc.ac.in <br />
                   rudrakhanra@iisc.ac.in <br />
             </div>
         </td>
+        <td>
+            <div align="center">
+                 <img src="imageN/Archit-2.jpeg" height="170"/>  <br/>
+                  Archit Gajera  <br/>
+                  architgajera@iisc.ac.in <br />
+            </div>
+        </td>
  </tr>
 </table>
 <br/>
@@ -102,7 +109,6 @@ Email: shailjas@iisc.ac.in <br />
 
 
 
-
 <!---
 <img src="imageN/Sanjay_n.png" width="240"/> <br/>
 
@@ -111,6 +117,8 @@ Email: sanjays1@iisc.ac.in <br/>
 ---->
 
 <!---
+
+
 
 <img src="imageN/Gayathry_n.png" width="200"/> <br/>
 Gayathry R (Ph.D. Student) <br/>
