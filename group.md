@@ -62,14 +62,14 @@ Email: shailjas@iisc.ac.in <br />
         </td>
         <td>
             <div align="center">
-                 <img src="imageN/images_unknown.png" height="170"/>  <br/>
+                 <img src="imageN/Bhoomija-2.jpg" height="170"/>  <br/>
                   Bhoomija Chaurasia  <br/>
                   bhoomijac@iisc.ac.in <br />
             </div>
         </td>
         <td>
             <div align="center">
-                 <img src="imageN/images_unknown.png" height="170"/>  <br/>
+                 <img src="imageN/Debankur-2.jpg" height="170"/>  <br/>
                   Debankur Basak  <br/>
                   debankurb@iisc.ac.in <br />
             </div>
