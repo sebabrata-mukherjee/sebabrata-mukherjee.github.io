@@ -4,6 +4,7 @@
 
 **2024** <br/>
 
+- "Topological Photonics in Laser-written Waveguide Networks,” Summer School on Optics and Photonics 24, IISc Bangalore, 08-12 July 2024, (Invited)
 - "Topological Physics in Laser-Inscribed Photonic Devices,'' research seminar at NISER Bhubaneswar, 10 April 2024
 - "Floquet Solitons in Photonic Topological Materials,'' Asia Light Conference 2024, Singapore, 05-08 March 2024 (Invited)
 
