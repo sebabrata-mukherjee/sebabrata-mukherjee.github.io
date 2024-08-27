@@ -77,21 +77,21 @@ Email: shailjas@iisc.ac.in <br />
  <tr>
         <td>  
             <div align="center">
-                 <img src="imageN/Abhinav.jpeg" height="170"/>  <br/>
+                 <img src="imageN/Abhinav.jpeg" height="168"/>  <br/>
                   Abhinav Sinha  <br/>
                   abhinavsinha@iisc.ac.in <br />
             </div>
         </td>
         <td>
             <div align="center">
-                 <img src="imageN/RudraKhanra-2.jpg" height="170"/>  <br/>
+                 <img src="imageN/RudraKhanra-2.jpg" height="168"/>  <br/>
                   Rudra Khanra  <br/>
                   rudrakhanra@iisc.ac.in <br />
             </div>
         </td>
         <td>
             <div align="center">
-                 <img src="imageN/Archit-2.jpeg" height="170"/>  <br/>
+                 <img src="imageN/Archit-2.jpeg" height="168"/>  <br/>
                   Archit Gajera  <br/>
                   architgajera@iisc.ac.in <br />
             </div>
