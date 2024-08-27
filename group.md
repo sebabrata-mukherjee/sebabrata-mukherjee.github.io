@@ -34,13 +34,6 @@ Email: shailjas@iisc.ac.in <br />
         </td>
          <td>
             <div align="center">
-              <img src="imageN/Avinash-2.jpg" height="170"/> <br/>
-              Avinash Tetarwal <br/>
-              avinasht@iisc.ac.in <br/>
-             </div>
-         </td>
-         <td>
-            <div align="center">
              <img src="imageN/trideb.jpg" height="170"/> <br/>
              Trideb Shit<br/>
              tridebshit@iisc.ac.in <br/>
@@ -50,17 +43,16 @@ Email: shailjas@iisc.ac.in <br />
 </table>
 <br/>
 
-### Undergraduate students
 <table border="0">
  <tr>
-        <td>  
+         <td>
             <div align="center">
-                 <img src="imageN/Abhinav.jpeg" height="170"/>  <br/>
-                  Abhinav Sinha  <br/>
-                  abhinavsinha@iisc.ac.in <br />
-            </div>
-        </td>
-        <td>
+              <img src="imageN/Avinash-2.jpg" height="170"/> <br/>
+              Avinash Tetarwal <br/>
+              avinasht@iisc.ac.in <br/>
+             </div>
+         </td>
+          <td>
             <div align="center">
                  <img src="imageN/Bhoomija-2.jpg" height="170"/>  <br/>
                   Bhoomija Chaurasia  <br/>
@@ -72,6 +64,22 @@ Email: shailjas@iisc.ac.in <br />
                  <img src="imageN/Debankur-2.jpg" height="170"/>  <br/>
                   Debankur Basak  <br/>
                   debankurb@iisc.ac.in <br />
+            </div>
+        </td>
+ </tr>
+</table>
+<br/>
+
+
+         
+### Undergraduate students
+<table border="0">
+ <tr>
+        <td>  
+            <div align="center">
+                 <img src="imageN/Abhinav.jpeg" height="170"/>  <br/>
+                  Abhinav Sinha  <br/>
+                  abhinavsinha@iisc.ac.in <br />
             </div>
         </td>
         <td>
