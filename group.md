@@ -71,6 +71,11 @@ Email: shailjas@iisc.ac.in <br />
 <br/>
 
 
+### Project Associate
+
+Catherine Metto
+
+
          
 ### Undergraduate students
 <table border="0">
