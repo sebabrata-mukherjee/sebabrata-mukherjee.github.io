@@ -7,3 +7,4 @@ Teachers' day 2024
 Dinner outing
 
 <img src="imageN/Photo_Galary/lab-avinash.jpg" width="500"/>  <br/>
+Avinash in the fabrication Lab
