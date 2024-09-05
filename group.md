@@ -72,8 +72,17 @@ Email: shailjas@iisc.ac.in <br />
 
 
 ### Project Associate
-
-Catherine Metto
+<table border="0">
+ <tr>
+        <td>  
+            <div align="center">
+                 <img src="iimageN/images_unknown.png" height="168"/>  <br/>
+                  Catherine Metto  <br/>
+            </div>
+        </td>
+</tr>
+</table>
+<br/>        
 
 
          
