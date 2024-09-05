@@ -18,7 +18,6 @@ Phone: +91 80 2293 2065 (office)
   - Project Associate: Indian Institute of Technology Delhi, India
 
 
-<!Sebabrata Mukherjee was awarded the B.Sc. in Physics from the University of Calcutta in 2010 and the M.Sc. in Physics from the Indian Institute of Technology Delhi in 2012. Prior to his doctoral research, he worked as a Project Associate at IIT Delhi. He !>
 
 Sebabrata Mukherjee undertook his Ph.D. at Heriot-Watt University, Edinburgh in the area of experimental simulation of solid-state phenomena in photonic structures and was subsequently awarded 
 <a href="https://www.hw.ac.uk/uk/students/doc/macfarlane-fund-poster.pdf" target="_blank">*The 2016 MacFarlane Prize*</a> for the most outstanding contribution to the research at the University. He worked as a Research Associate at Heriot-Watt University and postdoctoral scholar at the Pennsylvania State University, USA. 
