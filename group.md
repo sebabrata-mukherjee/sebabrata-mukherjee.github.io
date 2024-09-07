@@ -1,6 +1,8 @@
 ### Members
 
-### Photo gallery
+
+<a href="https://sebabrata-mukherjee.github.io/photos.html" target="_blank"> Photo gallery </a> <br/>
+
 
 <img src="images/me.jpeg" width="200"/>  <br/>
 PI: Sebabrata Mukherjee <a href="https://sebabrata-mukherjee.github.io/seba.html" target="_blank">(brief CV)</a> <br/>
