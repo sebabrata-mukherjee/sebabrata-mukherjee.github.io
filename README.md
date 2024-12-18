@@ -6,7 +6,7 @@
 <br/>
 
 ## Recent News
-- Congratulations to Avinash for winning best poster award, Photonics 2024 conference, IIT Kharagpur
+- Congratulations to Avinash for winning best poster award, Photonics 2024, IIT Kharagpur
 - Congratulations to Bhoomija for winning best poster award, WOPI 2024 conference, IIT Bombay
 - Check out our recent work on <a href="https://doi.org/10.1364/OPTICA.494823" target="_blank">Period-doubled Floquet solitons </a> published in Optica.
 - IOE postdoc Dr. Shailja Sharma is joining our group. Welcome Shailja!
