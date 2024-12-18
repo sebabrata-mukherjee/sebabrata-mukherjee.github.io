@@ -1,7 +1,7 @@
 ### Photo gallery
 
 <img src="imageN/Photo_Galary/Bhoomija_poster2024.jpeg" width="500"/>  <br/>
-Congratulations to Bhoomija for winning best poster award at WOPI 2024 conference, IIT Bombay
+Bhoomija won best poster award, WOPI 2024 conference, IIT Bombay
 
 
 <img src="imageN/Photo_Galary/School_outreach.jpeg" width="500"/>  <br/>
