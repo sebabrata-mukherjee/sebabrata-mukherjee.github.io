@@ -6,6 +6,7 @@
 <br/>
 
 ## Recent News
+- Check out our recent work on <a href="https://doi.org/10.1364/OL.546876" target="_blank"> photonic s-p orbitals </a> 
 - Congratulations, Avinash, on winning the Poster Award at Photonics 2024, IIT Kharagpur
 - Congratulations, Bhoomija, on winning the Poster Award at WOPI 2024, IIT Bombay
 - Check out our recent work on <a href="https://doi.org/10.1364/OPTICA.494823" target="_blank">Period-doubled Floquet solitons </a> published in Optica.
