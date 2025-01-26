@@ -9,12 +9,11 @@ Email: mukherjee@iisc.ac.in <br />
 Phone: +91 80 2293 2065 (office)
 
 
-<img src="imageN/Shailja_IMG_5329-2.jpg" width="200"/>  <br/>
+<img src="imageN/Members/Shailja_IMG_5329-2.jpg" width="200"/>  <br/>
 Shailja Sharma  <br/>
 IoE Post-Doctoral fellow  <br/>
 Email: shailjas@iisc.ac.in <br />
 <br/>
-
 
 
 
@@ -23,21 +22,21 @@ Email: shailjas@iisc.ac.in <br />
  <tr>
         <td>  
             <div align="center">
-                <img src="imageN/Gayathry_n.png" height="172"/> <br/>
+                <img src="imageN/Members/Gayathry_n.png" height="172"/> <br/>
                  Gayathry R<br/>
                  gayathryr@iisc.ac.in <br/>
              </div>
         </td>
         <td>
             <div align="center">
-               <img src="imageN/RishavImage1.jpg" height="172"/> <br/>
+               <img src="imageN/Members/RishavImage1.jpg" height="172"/> <br/>
                  Rishav Hui <br/>
                  rishavhui@iisc.ac.in <br/>
              </div>
         </td>
          <td>
             <div align="center">
-             <img src="imageN/trideb.jpg" height="172"/> <br/>
+             <img src="imageN/Members/trideb.jpg" height="172"/> <br/>
              Trideb Shit<br/>
              tridebshit@iisc.ac.in <br/>
              </div>
@@ -50,21 +49,21 @@ Email: shailjas@iisc.ac.in <br />
  <tr>
          <td>
             <div align="center">
-              <img src="imageN/Avinash-2.jpg" height="168"/> <br/>
+              <img src="imageN/Members/Avinash-2.jpg" height="169"/> <br/>
               Avinash Tetarwal <br/>
               avinasht@iisc.ac.in <br/>
              </div>
          </td>
           <td>
             <div align="center">
-                 <img src="imageN/Bhoomija-2.jpg" height="168"/>  <br/>
+                 <img src="imageN/Members/Bhoomija-2.jpg" height="169"/>  <br/>
                   Bhoomija Chaurasia  <br/>
                   bhoomijac@iisc.ac.in <br />
             </div>
         </td>
         <td>
             <div align="center">
-                 <img src="imageN/Debankur-2.jpg" height="168"/>  <br/>
+                 <img src="imageN/Members/Debankur-2.jpg" height="169"/>  <br/>
                   Debankur Basak  <br/>
                   debankurb@iisc.ac.in <br />
             </div>
@@ -76,9 +75,9 @@ Email: shailjas@iisc.ac.in <br />
 
 ### Project Associate
 
-<img src="imageN/images_unknown.png" height="168"/>  <br/>
+<img src="imageN/Members/Catherine2.jpg" height="172"/>  <br/>
 Catherine Metto  <br/>
-catherinemetto@outlook.com <br/>
+catherinem@iisc.ac.in <br/>
        
 
 
@@ -88,21 +87,21 @@ catherinemetto@outlook.com <br/>
  <tr>
         <td>  
             <div align="center">
-                 <img src="imageN/Abhinav.jpeg" height="168"/>  <br/>
+                 <img src="imageN/Members/Abhinav.jpg" height="168"/>  <br/>
                   Abhinav Sinha  <br/>
                   abhinavsinha@iisc.ac.in <br />
             </div>
         </td>
         <td>
             <div align="center">
-                 <img src="imageN/RudraKhanra-2.jpg" height="168"/>  <br/>
+                 <img src="imageN/Members/RudraKhanra-2.jpg" height="168"/>  <br/>
                   Rudra Khanra  <br/>
                   rudrakhanra@iisc.ac.in <br />
             </div>
         </td>
         <td>
             <div align="center">
-                 <img src="imageN/Archit-2.jpeg" height="168"/>  <br/>
+                 <img src="imageN/Members/Archit-2.jpeg" height="168"/>  <br/>
                   Archit Gajera  <br/>
                   architgajera@iisc.ac.in <br />
             </div>
