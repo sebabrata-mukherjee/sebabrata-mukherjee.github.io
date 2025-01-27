@@ -19,7 +19,7 @@
 - Christopher Oliver, Sebabrata Mukherjee, Mikael C. Rechtsman, Iacopo Carusotto, and Hannah M. Price, "Artificial gauge fields in the t-z mapping for optical pulses: spatio-temporal wavepacket control and quantum Hall physics," [
 Science Advances **9**, 42 eadj0360 (2023)](https://www.science.org/doi/10.1126/sciadv.adj0360)<br/>
 
-[<img align="right" src="imageN/period-doubled_sol.png" width="140"/>](https://arxiv.org/abs/2208.02279)
+[<img align="right" src="imageN/thumbnails/period-doubled_sol.png" width="140"/>](https://arxiv.org/abs/2208.02279)
   
 - Marius Jürgensen, Sebabrata Mukherjee, Christina Jörg and M C Rechtsman "Quantized Fractional Thouless Pumping of Solitons," [Nature Physics **19**, 420-426 (2023)](https://doi.org/10.1038/s41567-022-01871-x) 
 
@@ -27,9 +27,8 @@ Science Advances **9**, 42 eadj0360 (2023)](https://www.science.org/doi/10.1126/
   [Optica **10**, 1310-1315 (2023)](https://doi.org/10.1364/OPTICA.494823) <br/>
 
     
-  
 <!-- **2021** -->
-<br/> [<img align="right" src="imageN/keyimage_F.png" width="140"/>](https://doi.org/10.1103/PhysRevX.11.041057)
+<br/> [<img align="right" src="imageN/thumbnails/keyimage_F.png" width="140"/>](https://doi.org/10.1103/PhysRevX.11.041057)
 - Sebabrata Mukherjee and Mikael C. Rechtsman, "Observation of unidirectional solitonlike edge states in nonlinear Floquet topological insulators," <a href="https://doi.org/10.1103/PhysRevX.11.041057" target="_blank">Physical Review X **11**, 041057 (2021)</a>   
    
 - Marius Jürgensen, Sebabrata Mukherjee, and Mikael C. Rechtsman "Quantized nonlinear Thouless pumping," <a href="https://doi.org/10.1038/s41586-021-03688-9" target="_blank">Nature **596**, 63-67 (2021)</a>
