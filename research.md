@@ -9,11 +9,11 @@ We are interested in how optical states propagate along intricately designed wav
 optics and condensed matter physics. <br />
 
 Our current research topics include <br />
+   - Photonic topological materials,
    - Manipulating light transport in evanescently coupled waveguide arrays,
    - Micro-optic device fabrication using femtosecond laser pulses, 
    - Periodically modulated (Floquet) photonic structures,
-   - Photonic topological insulators,
-   - Optical Kerr nonlinearity 
+   - Optical Kerr nonlinearity and discrete solitons
 
 ### Floquet engineering
 [<img align="right" src="imageN/PRL_cover2.png " width="280"/>](https://journals.aps.org/prl/issues/121/7)
