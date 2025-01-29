@@ -100,7 +100,6 @@ fused silica via femtosecond laser irradiation," [Optica 3 (12), 1285-1293 (2016
 
 
 <!-- **2015** <br/> -->
-- Sebabrata Mukherjee, Alexander Spracklen, Debaditya Choudhury, Nathan Goldman, Patrik Öhberg, Erika Andersson and Robert R. Thomson,, "Observation of a localized flat-band state in a photonic Lieb lattice," [Physical Review Letters **114**, 245504 (2015)](https://doi.org/10.1103/PhysRevLett.114.245504). Featured in Physics & Editors' Suggestion. Viewpoint in Physical Review Letters [doi:10.1103/Physics.8.55](https://physics.aps.org/articles/v8/55). <br /> News & Views in Nature Materials [doi:10.1038/nmat4378](https://doi.org/10.1038/nmat4378)
 
 - Sebabrata Mukherjee and Robert R. Thomson, "Observation of localized flat-band modes in a
 quasi-one-dimensional photonic rhombic lattice," [Optics Letters **40** (23), 5443-5446 (2015)](https://doi.org/10.1364/OL.40.005443)
@@ -109,6 +108,7 @@ quasi-one-dimensional photonic rhombic lattice," [Optics Letters **40** (23), 54
 Öhberg, Erika Andersson, and Robert R. Thomson, "Modulation-assisted tunneling in laserfabricated
 photonic Wannier-Stark ladders," [New Journal of Physics **17**, 115002 (2015)](https://doi.org/10.1088/1367-2630/17/11/115002)
 
+- Sebabrata Mukherjee, Alexander Spracklen, Debaditya Choudhury, Nathan Goldman, Patrik Öhberg, Erika Andersson and Robert R. Thomson,, "Observation of a localized flat-band state in a photonic Lieb lattice," [Physical Review Letters **114**, 245504 (2015)](https://doi.org/10.1103/PhysRevLett.114.245504). Featured in Physics & Editors' Suggestion. Viewpoint in Physical Review Letters [doi:10.1103/Physics.8.55](https://physics.aps.org/articles/v8/55). <br /> News & Views in Nature Materials [doi:10.1038/nmat4378](https://doi.org/10.1038/nmat4378)
 
 
 
