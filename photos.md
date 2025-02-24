@@ -1,7 +1,7 @@
 ### Photo gallery
 
 <img src="imageN/Photo_Galary/SideImaging_CM.jpeg" height="323"> <img src="imageN/Photo_Galary/Char.jpg" height="323"/>  <br/>
-
+Probing stations
 
 <img src="imageN/Photo_Galary/Bhoomija_poster2024.jpeg" width="500"/>  <br/>
 Bhoomija receiving the poster award at WOPI 2024, IIT Bombay
