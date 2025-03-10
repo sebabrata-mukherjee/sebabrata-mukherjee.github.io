@@ -9,7 +9,7 @@ We are interested in how optical states propagate along intricately designed wav
 optics and condensed matter physics. <br />
 
 Our current research topics include 
-<img align="right" src="imageN/Photo_Galary/SideImaging_CM_2.jpeg" width="240">
+<img align="right" src="imageN/Photo_Galary/SideImaging_CM_2.jpeg" width="230">
    - Femtosecond laser writing,
    - Photonic topological materials,
    - Light transport in evanescently coupled waveguide lattices,
@@ -19,7 +19,7 @@ Our current research topics include
      
 
 ### Floquet engineering
-[<img align="right" src="imageN/PRL_cover2.png " width="250"/>](https://journals.aps.org/prl/issues/121/7)
+[<img align="right" src="imageN/PRL_cover2.png " width="240"/>](https://journals.aps.org/prl/issues/121/7)
 Floquet engineering (i.e., applying a 'time'-periodic driving to a static system) is a convenient way of creating novel Hamiltonians, realizing synthetic gauge fields and topologically non-trivial energy bands. Using engineered waveguide networks, we can implement various driving protocols to investigate a wide variety of phenomena known from quantum physics and condensed matter physics. One such example is the realization of topologically nontrivial materials where back-scatter immune optical states propagate unidirectionally along the edge of the device. 
 
 See our articles on [Anomalous Floquet topological insulator,](https://doi.org/10.1038/ncomms13918) [Aharonov-Bohm caging,](https://doi.org/10.1103/PhysRevLett.121.075502) [Modulation assisted tunneling](https://doi.org/10.1088/1367-2630/17/11/115002)
