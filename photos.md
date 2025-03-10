@@ -1,6 +1,7 @@
 ### Photo gallery
 
-<img src="imageN/Photo_Galary/SideImaging_CM.jpeg" height="323"> <img src="imageN/Photo_Galary/Char.jpg" height="323"/>  <br/>
+
+<img src="imageN/Photo_Galary/Char.jpg" width="400"/>  <br/>
 Probing stations
 
 <img src="imageN/Photo_Galary/Bhoomija_poster2024.jpeg" width="500"/>  <br/>
