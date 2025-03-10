@@ -8,12 +8,15 @@ periodically modulated (Floquet) waveguide arrays, linear and nonlinear topologi
 We are interested in how optical states propagate along intricately designed waveguide networks and in creating these devices to explore novel light-matter interactions. Our goal is to apply photonic technologies to discover new physics and find their applications, going beyond the traditional scope of 
 optics and condensed matter physics. <br />
 
-Our current research topics include <br />
+Our current research topics include 
+<img align="right" src="imageN/Photo_Galary/SideImaging_CM.jpeg" width="280">
+   - Femtosecond laser writing,
    - Photonic topological materials,
-   - Manipulating light transport in evanescently coupled waveguide arrays,
-   - Micro-optic device fabrication using femtosecond laser pulses, 
+   - Light transport in evanescently coupled waveguide lattices,
    - Periodically modulated (Floquet) photonic structures,
-   - Optical Kerr nonlinearity and discrete solitons
+   - Optical Kerr nonlinearity and discrete solitons,
+   - Micro-optic device fabrication
+     
 
 ### Floquet engineering
 [<img align="right" src="imageN/PRL_cover2.png " width="280"/>](https://journals.aps.org/prl/issues/121/7)
