@@ -9,7 +9,7 @@ We are interested in how optical states propagate along intricately designed wav
 optics and condensed matter physics. <br />
 
 Our current research topics include 
-<img align="right" src="imageN/Photo_Galary/SideImaging_CM.jpeg" width="280">
+<img align="right" src="imageN/Photo_Galary/SideImaging_CM.jpeg" width="200">
    - Femtosecond laser writing,
    - Photonic topological materials,
    - Light transport in evanescently coupled waveguide lattices,
