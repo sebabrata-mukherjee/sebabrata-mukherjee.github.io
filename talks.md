@@ -4,7 +4,8 @@
 
 **2024** <br/>
 
-- "Ultrafast Laser-inscribed Photonic Topological Materials," Annual Conference on Quantum Condensed Matter (QMAT 2024), IIT Guwahati, 20-23 December 2024.
+- "Femtosecond Laser-written Photonic Topological Anderson Insulators," research seminer at IIT Kharagpur, 24 March 2025
+- "Ultrafast Laser-inscribed Photonic Topological Materials," Annual Conference on Quantum Condensed Matter (QMAT 2024), IIT Guwahati, 20-23 December 2024
 - "Topological Photonics in Laser-written Waveguide Networks,” Summer School on Optics and Photonics 24, IISc Bangalore, 08-12 July 2024 (Invited)
 - "Topological Physics in Laser-Inscribed Photonic Devices,'' research seminar at NISER Bhubaneswar, 10 April 2024
 - "Floquet Solitons in Photonic Topological Materials,'' Asia Light Conference 2024, Singapore, 05-08 March 2024 (Invited)
