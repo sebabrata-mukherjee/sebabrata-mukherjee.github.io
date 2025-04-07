@@ -19,9 +19,9 @@ Phone: +91 80 2293 2065 (office)
 
 
 
-Sebabrata Mukherjee undertook his Ph.D. at Heriot-Watt University, Edinburgh in the area of experimental simulation of solid-state phenomena in photonic structures and was subsequently awarded 
-<a href="https://www.hw.ac.uk/uk/students/doc/macfarlane-fund-poster.pdf" target="_blank">*The 2016 MacFarlane Prize*</a> for the most outstanding contribution to the research at the University. He worked as a Research Associate at Heriot-Watt University and postdoctoral scholar at the Pennsylvania State University, USA. 
-Sebabrata currently works as an Assistant Professor in the <a href="http://www.physics.iisc.ernet.in/people-faculty.php" target="_blank">Department of Physics</a> IISc Bangalore.  His research interests include photonics and condensed matter physics. Recently, he received Infosys Young Investigator Award 2024. <br />
+Sebabrata Mukherjee undertook his Ph.D. at Heriot-Watt University, Edinburgh, in the area of experimental simulation of solid-state phenomena in photonic structures and was subsequently awarded 
+<a href="https://www.hw.ac.uk/uk/students/doc/macfarlane-fund-poster.pdf" target="_blank">*The 2016 MacFarlane Prize*</a> for the most outstanding contribution to research at the University. He has also worked as a Research Associate at Heriot-Watt University and postdoctoral scholar at Pennsylvania State University, USA. 
+Sebabrata currently works as an Assistant Professor in the <a href="http://www.physics.iisc.ernet.in/people-faculty.php" target="_blank">Department of Physics</a> IISc Bangalore.  His research interests include photonics and condensed matter physics. Recently, he received the Infosys Young Investigator Award in 2024. <br />
 
 
 See Sebabrata Mukherjee’s <a href="https://scholar.google.co.uk/citations?hl=en&user=M29JjtAAAAAJ" target="_blank">google scholar</a> profile <br />
