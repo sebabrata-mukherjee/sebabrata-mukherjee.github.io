@@ -4,7 +4,7 @@
 
 
 **2025** <br/>
-- " Femtosecond Laser-written Topological Waveguide Lattices," Indo-French International Conference on Specialty Fibers, Sensing and Quantum Photonics (ICFSQP), Mahindra University Hyderabad, 11-13 April 2025 (Invited)
+- "Femtosecond Laser-written Topological Waveguide Lattices," Indo-French International Conference on Specialty Fibers, Sensing and Quantum Photonics (ICFSQP), Mahindra University Hyderabad, 11-13 April 2025 (Invited)
 - "Femtosecond Laser-written Photonic Topological Anderson Insulators," research seminer at IIT Kharagpur, 24 March 2025
 
 
