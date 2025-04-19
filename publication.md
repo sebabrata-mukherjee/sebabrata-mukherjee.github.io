@@ -13,7 +13,9 @@
 - Abhinav Sinha, Trideb Shit, Avinash Tetarwal, Diptiman Sen, Sebabrata Mukherjee, "Probing Topological Anderson Transition in Quasiperiodic Photonic Lattices via Chiral Displacement and Wavelength Tuning," 
 <a href="https://arxiv.org/abs/2503.07175" target="_blank">arXiv:2503.07175 (2025)</a>
 
-- Gayathry Rajeevan and Sebabrata Mukherjee, "Nonlinear Switch and Spatial Lattice Solitons of Photonic s-p Orbitals," [arXiv:2408.03250 (2024)](https://arxiv.org/abs/2408.03250), [Optics Letters **50**(2), 297-300 (2025)](https://doi.org/10.1364/OL.546876).
+- Gayathry Rajeevan and Sebabrata Mukherjee, "Nonlinear Switch and Spatial Lattice Solitons of Photonic s-p Orbitals," <a href="https://arxiv.org/abs/2408.03250" target="_blank">arXiv:2408.03250 (2024)</a>
+<a href="[https://arxiv.org/abs/2408.03250](https://doi.org/10.1364/OL.546876)" target="_blank">Optics Letters **50**(2), 297-300 (2025)</a>
+
 
 - Trideb Shit, Rishav Hui, Marco Di Liberto, Diptiman Sen, and Sebabrata Mukherjee, "Probing Two-body Bound States in the Continuum and Nonlinear Breathers Using Intensity Correlations," <a href="https://arxiv.org/abs/2402.18340" target="_blank">arXiv:2402.18340 (2024)</a>,
 [Supplementary movies](TS_Correlation_2024.md), <a href="https://journals.aps.org/pra/accepted/7107dYf0D421c098505009904b04c53a357842343" target="_blank">Accepted for publication in Physical Review A (2025)</a>
