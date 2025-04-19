@@ -14,7 +14,7 @@
 <a href="https://arxiv.org/abs/2503.07175" target="_blank">arXiv:2503.07175 (2025)</a>
 
 - Gayathry Rajeevan and Sebabrata Mukherjee, "Nonlinear Switch and Spatial Lattice Solitons of Photonic s-p Orbitals," <a href="https://arxiv.org/abs/2408.03250" target="_blank">arXiv:2408.03250 (2024)</a>
-<a href="[https://arxiv.org/abs/2408.03250](https://doi.org/10.1364/OL.546876)" target="_blank">Optics Letters **50**(2), 297-300 (2025)</a>
+<a href="https://doi.org/10.1364/OL.546876" target="_blank">Optics Letters **50**(2), 297-300 (2025)</a>
 
 
 - Trideb Shit, Rishav Hui, Marco Di Liberto, Diptiman Sen, and Sebabrata Mukherjee, "Probing Two-body Bound States in the Continuum and Nonlinear Breathers Using Intensity Correlations," <a href="https://arxiv.org/abs/2402.18340" target="_blank">arXiv:2402.18340 (2024)</a>,
