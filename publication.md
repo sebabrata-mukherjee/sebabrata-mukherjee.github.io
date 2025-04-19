@@ -10,7 +10,8 @@
   
   
 <!--**Recent** <br/> -->
-- Abhinav Sinha, Trideb Shit, Avinash Tetarwal, Diptiman Sen, Sebabrata Mukherjee, "Probing Topological Anderson Transition in Quasiperiodic Photonic Lattices via Chiral Displacement and Wavelength Tuning," [arXiv:2503.07175 (2025)](https://arxiv.org/abs/2503.07175).
+- Abhinav Sinha, Trideb Shit, Avinash Tetarwal, Diptiman Sen, Sebabrata Mukherjee, "Probing Topological Anderson Transition in Quasiperiodic Photonic Lattices via Chiral Displacement and Wavelength Tuning," 
+<a href="https://arxiv.org/abs/2503.07175" target="_blank">arXiv:2503.07175 (2025)</a>
 
 - Gayathry Rajeevan and Sebabrata Mukherjee, "Nonlinear Switch and Spatial Lattice Solitons of Photonic s-p Orbitals," [arXiv:2408.03250 (2024)](https://arxiv.org/abs/2408.03250), [Optics Letters **50**(2), 297-300 (2025)](https://doi.org/10.1364/OL.546876).
 
