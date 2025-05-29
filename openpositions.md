@@ -4,6 +4,9 @@ Email Sebabrata Mukherjee with your CV if you have interests in pursuing cutting
 
 <br/><br/>
 
+
+**The call for proposals under National Post Doctoral Fellowship (NPDF) to be opened from 1st June 2025 (Sunday) to 30th June 2025 (Monday)**
+
 <!---
 ```diff
 - Currently no openings for summer internship.
@@ -14,13 +17,19 @@ Email Sebabrata Mukherjee with your CV if you have interests in pursuing cutting
 
 ### Quick Links
 
+<a href="https://serbonline.in/SERB/npdf" target="_blank">**National postdoctoral fellowship**</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
 <a href="https://www.online-inspire.gov.in/" target="_blank">**INSPIRE faculty fellowship**</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://serbonline.in/SERB/npdf" target="_blank">**National postdoctoral fellowship**</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!---
 
 <a href="https://www.iisc.ac.in/post-docs/" target="_blank">**C V Raman postdoctoral fellowship**</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.iisc.ac.in/post-docs/" target="_blank">**IISc Institute of Eminence (IoE) postdoctoral fellowship**</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
+--->
 
 <br/><br/>
 
