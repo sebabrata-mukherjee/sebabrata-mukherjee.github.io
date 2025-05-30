@@ -44,9 +44,21 @@ See Sebabrata Mukherjee’s <a href="https://orcid.org/0000-0003-1942-2521" targ
 6. *Experimental simulation of solid-state phenomena using Photonic Lattices,* research seminar, 02 November, 2016, University of Chile, Santiago, Chile
 
 
+<br/><br/>
+
+
+<p align="center">
+<a href="https://iisc.ac.in/" target="_blank"><img src="imageN/Funding_logo/logo-all.png" width="600"/></a> 
+</p>
+
+
+
+
+<!---
 <p align="center">
 <a href="https://iisc.ac.in/" target="_blank"><img src="imageN/Funding_logo/IISc_Master_Seal_Black.jpg" width="70"/></a> 
 <a href="https://www.isro.gov.in/Space_Technology_Cells.html" target="_blank"><img  src="imageN/Funding_logo/isro-logo.jpg" width="120"/></a>
 <a href="https://www.serbonline.in/SERB/HomePage" target="_blank"><img  src="imageN/Funding_logo/serb_logo2.png" width="115"/></a> 
 <a href="https://www.education.gov.in/higher_education" target="_blank"><img  src="imageN/Funding_logo/MoE_India_logo.png" width="140"/></a> 
 </p>
+-->
