@@ -27,6 +27,14 @@
 (source: google images)
 </p>
 
+
+
+<p align="center">
+<a href="https://iisc.ac.in/" target="_blank"><img src="imageN/Funding_logo/logo-all.png" width="800"/></a> 
+</p>
+
+
+<!---
 <p align="center">
 <a href="https://iisc.ac.in/" target="_blank"><img src="imageN/Funding_logo/IISc_Master_Seal_Black.jpg" width="90"/></a> 
 <a href="https://iisc.ac.in/" target="_blank"><img src="imageN/Funding_logo/Infosys-logo.jpg" width="80"/></a> 
@@ -34,5 +42,5 @@
 <a href="https://www.serbonline.in/SERB/HomePage" target="_blank"><img  src="imageN/Funding_logo/serb_logo2.png" width="115"/></a> 
 <a href="https://www.education.gov.in/higher_education" target="_blank"><img  src="imageN/Funding_logo/MoE_India_logo.png" width="140"/></a> 
 </p>
-
+--->
 
