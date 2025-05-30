@@ -28,7 +28,7 @@ Email Sebabrata Mukherjee with your CV if you have interests in pursuing cutting
 
 
 <p align="center">
-<a href="https://iisc.ac.in/" target="_blank"><img src="imageN/Funding_logo/logo-all.png" width="800"/></a> 
+<a href="https://iisc.ac.in/" target="_blank"><img src="imageN/Funding_logo/logo-all.png" width="700"/></a> 
 </p>
 
 
