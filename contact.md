@@ -35,7 +35,7 @@ Map<br />
 
 
 <p align="center">
-<a href="https://iisc.ac.in/" target="_blank"><img src="imageN/Funding_logo/logo-all.png" width="700"/></a> 
+<a href="https://iisc.ac.in/" target="_blank"><img src="imageN/Funding_logo/logo-all.png" width="600"/></a> 
 </p>
 
 
