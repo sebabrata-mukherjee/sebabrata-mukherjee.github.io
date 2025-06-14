@@ -5,7 +5,7 @@
 Probing stations
 
 <img src="imageN/Photo_Galary/Bhoomija_poster2024.jpeg" width="500"/>  <br/>
-Bhoomija receiving the poster award at WOPI 2024, IIT Bombay
+Bhoomija receiving poster award at WOPI 2024, IIT Bombay
 
 
 <img src="imageN/Photo_Galary/School_outreach.jpeg" width="500"/>  <br/>
