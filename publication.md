@@ -10,6 +10,8 @@
   
   
 <!--**Recent** <br/> -->
+- Avinash Tetarwal, Shailja Sharma, and Sebabrata Mukherjee, "Nonlinearity-induced Band Gap Transmission in Dispersive and Flat Band Photonic Lattices," arxiv (2025) </a>
+
 - Abhinav Sinha, Trideb Shit, Avinash Tetarwal, Diptiman Sen, Sebabrata Mukherjee, "Probing Topological Anderson Transition in Quasiperiodic Photonic Lattices via Chiral Displacement and Wavelength Tuning," 
 <a href="https://arxiv.org/abs/2503.07175" target="_blank">arXiv:2503.07175 (2025)</a>
 
