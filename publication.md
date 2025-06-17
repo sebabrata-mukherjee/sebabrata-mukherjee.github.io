@@ -10,7 +10,8 @@
   
   
 <!--**Recent** <br/> -->
-- Avinash Tetarwal, Shailja Sharma, and Sebabrata Mukherjee, "Nonlinearity-induced Band Gap Transmission in Dispersive and Flat Band Photonic Lattices," <a href="https://doi.org/10.1364/OL.567606" target="_blank">Accecpted for publication in Optics Letters (2025)</a>
+- Avinash Tetarwal, Shailja Sharma, and Sebabrata Mukherjee, "Nonlinearity-induced Band Gap Transmission in Dispersive and Flat Band Photonic Lattices," <a href="https://arxiv.org/abs/2506.12586" target="_blank">arXiv:2506.12586 (2025)</a>
+<a href="https://doi.org/10.1364/OL.567606" target="_blank">Accecpted for publication in Optics Letters</a>
 
 
 
