@@ -10,14 +10,14 @@
   
   
 <!--**Recent** <br/> -->
+
+- Abhinav Sinha, Trideb Shit, Avinash Tetarwal, Diptiman Sen, Sebabrata Mukherjee, "Probing Topological Anderson Transition in Quasiperiodic Photonic Lattices via Chiral Displacement and Wavelength Tuning," 
+<a href="https://arxiv.org/abs/2503.07175" target="_blank">arXiv:2503.07175 (2025),</a>
+<a href="https://doi.org/10.1103/9jjd-vbp1" target="_blank">Accecpted for publication in Phys. Rev. A</a>
+
 - Avinash Tetarwal, Shailja Sharma, and Sebabrata Mukherjee, "Nonlinearity-induced Band Gap Transmission in Dispersive and Flat Band Photonic Lattices," <a href="https://arxiv.org/abs/2506.12586" target="_blank">arXiv:2506.12586 (2025)</a>, 
 <a href="https://doi.org/10.1364/OL.567606" target="_blank">Accecpted for publication in Optics Letters</a>
 
-
-
-
-- Abhinav Sinha, Trideb Shit, Avinash Tetarwal, Diptiman Sen, Sebabrata Mukherjee, "Probing Topological Anderson Transition in Quasiperiodic Photonic Lattices via Chiral Displacement and Wavelength Tuning," 
-<a href="https://arxiv.org/abs/2503.07175" target="_blank">arXiv:2503.07175 (2025)</a>
 
 - Gayathry Rajeevan and Sebabrata Mukherjee, "Nonlinear Switch and Spatial Lattice Solitons of Photonic s-p Orbitals," <a href="https://arxiv.org/abs/2408.03250" target="_blank">arXiv:2408.03250 (2024)</a>
 <a href="https://doi.org/10.1364/OL.546876" target="_blank">Optics Letters **50**(2), 297-300 (2025)</a>
