@@ -27,7 +27,10 @@
 [Supplementary movies](TS_Correlation_2024.md), <a href="https://journals.aps.org/pra/accepted/7107dYf0D421c098505009904b04c53a357842343" target="_blank">Physical Review A **111**, 053515 (2025)</a>
 
 
-- Christina Jörg, Marius Jürgensen, Sebabrata Mukherjee, and Mikael C. Rechtsman, "Optical control of topological end states via soliton formation in a 1D lattice," [Nanophotonics (2024)](https://doi.org/10.1515/nanoph-2024-0401)
+- Christina Jörg, Marius Jürgensen, Sebabrata Mukherjee, and Mikael C. Rechtsman, "Optical control of topological end states via soliton formation in a 1D lattice," <a href="https://doi.org/10.1515/nanoph-2024-0401" target="_blank">Nanophotonics **14**(6), 769-775 (2025)</a>
+
+
+
 
 - Christopher Oliver, Sebabrata Mukherjee, Mikael C. Rechtsman, Iacopo Carusotto, and Hannah M. Price, "Artificial gauge fields in the t-z mapping for optical pulses: spatio-temporal wavepacket control and quantum Hall physics," [
 Science Advances **9**, 42 eadj0360 (2023)](https://www.science.org/doi/10.1126/sciadv.adj0360)<br/>
