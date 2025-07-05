@@ -112,11 +112,13 @@ catherinem@iisc.ac.in <br/>
 
 ### Previous members
 
-1. Maitri Ganguli (Int-PhD, May-July 2023)
-2. Karnpriya Pandey (Int-PhD, May-July 2023)
+7. Anamitra Giri (MSc IIT Kharagpur, Summer internship, 2025)
+6. Mrinmoy Das (MSc IIT Kharagpur, Summer internship, 2025)
+5. Maitri Ganguli (Int-PhD, May-July 2023)
+4. Karnpriya Pandey (Int-PhD, May-July 2023)
 3. Trideb Shit, (Int-PhD, May-July 2022)
-4. Subhabhan Roy, (Int-PhD, May-July 2022)
-5. Sanjay S (UG, IISc, Project course, Aug-Dec 2021) 
+2. Subhabhan Roy, (Int-PhD, May-July 2022)
+1. Sanjay S (UG, IISc, Project course, Aug-Dec 2021) 
 
 
 
