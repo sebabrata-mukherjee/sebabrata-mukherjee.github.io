@@ -37,7 +37,7 @@ Email: shailjas@iisc.ac.in <br />
          <td>
             <div align="center">
              <img src="imageN/Members/trideb.jpg" height="172"/> <br/>
-             Trideb Shit<br/>
+             <a href="https://scholar.google.com/citations?hl=en&user=kg3xraQAAAAJ" target="_blank">Trideb Shit</a> <br/>
              tridebshit@iisc.ac.in <br/>
              </div>
          </td>
