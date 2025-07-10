@@ -23,7 +23,7 @@ Email: shailjas@iisc.ac.in <br />
         <td>  
             <div align="center">
                 <img src="imageN/Members/Gayathry_n.png" height="172"/> <br/>
-                 Gayathry R<br/>
+                 <a href="https://scholar.google.com/citations?hl=en&user=eO-XvxQAAAAJ" target="_blank">Gayathry Rajeevan</a> <br/>
                  gayathryr@iisc.ac.in <br/>
              </div>
         </td>
