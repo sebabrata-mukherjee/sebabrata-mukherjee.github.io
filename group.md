@@ -50,7 +50,7 @@ Email: shailjas@iisc.ac.in <br />
          <td>
             <div align="center">
               <img src="imageN/Members/Avinash-2.jpg" height="169"/> <br/>
-              Avinash Tetarwal <br/>
+              <a href="https://scholar.google.com/citations?hl=en&user=KqVulrAAAAAJ" target="_blank">Avinash Tetarwal</a> <br/>
               avinasht@iisc.ac.in <br/>
              </div>
          </td>
