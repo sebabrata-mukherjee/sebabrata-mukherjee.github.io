@@ -8,8 +8,8 @@ Department of Physics, F2-04 <br />
 Indian Institute of Science Bangalore <br />
 Bangalore, 560012 India <br />
 
-Email: mukherjee@iisc.ac.in ,
-mukherjeesebabrata@gmail.com <br />
+Email: mukherjee[at]iisc.ac.in ,
+mukherjeesebabrata[at]gmail.com <br />
 Phone: +91 80 2293 2065 (office)
 
 ### IISc Bangalore address
