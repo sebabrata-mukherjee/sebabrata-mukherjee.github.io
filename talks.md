@@ -4,9 +4,9 @@
 
 
 **2025** <br/>
-- "Realization of Floquet topological insulators in femtosecond laser-written photonic lattices," research seminar at Raman Research Institute Bangalore, 12 November 12, 2025.
+- "Realization of Floquet topological insulators in femtosecond laser-written photonic lattices," research seminar at Raman Research Institute Bangalore, 12 November 2025.
 - "Higher-orbital Topological Photonics," First Light:  Illuminating Horizons - Inaugural program of OPTICA Student Chapter, IIT Jodhpur, 14 October 2025 (invited).
-- "Femtosecond Laser-Written Topological Photonic Lattices," Progress in Ultrafast Laser Modifications of Materials (PULMM), Villars-sur-Ollon, Switzerland, 29 June - 02 July, 2025 (Invited)
+- "Femtosecond Laser-Written Topological Photonic Lattices," Progress in Ultrafast Laser Modifications of Materials (PULMM), Villars-sur-Ollon, Switzerland, 29 June - 02 July 2025 (Invited)
 - "Femtosecond Laser-written Topological Waveguide Lattices," Indo-French International Conference on Specialty Fibers, Sensing and Quantum Photonics (ICFSQP), Mahindra University Hyderabad, 11-13 April 2025 (Invited)
 - "Femtosecond Laser-written Photonic Topological Anderson Insulators," research seminer at IIT Kharagpur, 24 March 2025
 
@@ -32,7 +32,7 @@
 
 **2022** <br/>
 
-- "Topological Photonic," One Day Webinar Recent on Trends in Photonics with Applications, 26th November 2022, Sarala Birla University (SBU), Ranchi, India (Invited).
+- "Topological Photonic," One Day Webinar Recent on Trends in Photonics with Applications, 26 November 2022, Sarala Birla University (SBU), Ranchi, India (Invited).
 
 - "Nonlinear States in Femtosecond Laser-Written Photonic Floquet Topological Materials," Conference on Optics, Photonics \& Quantum Optics (COPaQ-2022), 13 November 2022, IIT Roorkee, India
   
