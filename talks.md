@@ -4,6 +4,8 @@
 
 
 **2025** <br/>
+- "Femtosecond Laser-Fabricated Photonic Topological Materials" Young Investigators' Meet on Quantum Condensed Matter Theory IISER Tirupati, 21-23 December 2025
+- "Photonic Topological Materials," SPARC Short Term course on Optical, Infrared, and THz Detection Technology, IIT Kharagpur Research Park, New Town, Kolkata 20-21 December 2025
 - "Realization of Floquet topological insulators in femtosecond laser-written photonic lattices," research seminar at Raman Research Institute Bangalore, 12 November 2025.
 - "Higher-orbital Topological Photonics," First Light:  Illuminating Horizons - Inaugural program of OPTICA Student Chapter, IIT Jodhpur, 14 October 2025 (invited).
 - "Femtosecond Laser-Written Topological Photonic Lattices," Progress in Ultrafast Laser Modifications of Materials (PULMM), Villars-sur-Ollon, Switzerland, 29 June - 02 July 2025 (Invited)
