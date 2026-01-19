@@ -5,19 +5,28 @@
 
 **2025** <br/>
 - "Femtosecond Laser-Fabricated Photonic Topological Materials" Young Investigators' Meet on Quantum Condensed Matter Theory IISER Tirupati, 21-23 December 2025
+  
 - "Photonic Topological Materials," SPARC Short Term course on Optical, Infrared, and THz Detection Technology, IIT Kharagpur Research Park, New Town, Kolkata 20-21 December 2025
-- "Realization of Floquet topological insulators in femtosecond laser-written photonic lattices," research seminar at Raman Research Institute Bangalore, 12 November 2025.
-- "Higher-orbital Topological Photonics," First Light:  Illuminating Horizons - Inaugural program of OPTICA Student Chapter, IIT Jodhpur, 14 October 2025 (invited).
+  
+- "Realization of Floquet topological insulators in femtosecond laser-written photonic lattices," research seminar at Raman Research Institute Bangalore, 12 November 2025
+  
+- "Higher-orbital Topological Photonics," First Light:  Illuminating Horizons - Inaugural program of OPTICA Student Chapter, IIT Jodhpur, 14 October 2025 (invited)
+  
 - "Femtosecond Laser-Written Topological Photonic Lattices," Progress in Ultrafast Laser Modifications of Materials (PULMM), Villars-sur-Ollon, Switzerland, 29 June - 02 July 2025 (Invited)
+ 
 - "Femtosecond Laser-written Topological Waveguide Lattices," Indo-French International Conference on Specialty Fibers, Sensing and Quantum Photonics (ICFSQP), Mahindra University Hyderabad, 11-13 April 2025 (Invited)
+  
 - "Femtosecond Laser-written Photonic Topological Anderson Insulators," research seminer at IIT Kharagpur, 24 March 2025
 
 
 **2024** <br/>
 
 - "Ultrafast Laser-inscribed Photonic Topological Materials," Annual Conference on Quantum Condensed Matter (QMAT 2024), IIT Guwahati, 20-23 December 2024
+  
 - "Topological Photonics in Laser-written Waveguide Networks,” Summer School on Optics and Photonics 24, IISc Bangalore, 08-12 July 2024 (Invited)
+  
 - "Topological Physics in Laser-Inscribed Photonic Devices,'' research seminar at NISER Bhubaneswar, 10 April 2024
+  
 - "Floquet Solitons in Photonic Topological Materials,'' Asia Light Conference 2024, Singapore, 05-08 March 2024 (Invited)
 
 **2023** <br/>
