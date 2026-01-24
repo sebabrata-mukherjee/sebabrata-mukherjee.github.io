@@ -107,9 +107,9 @@ condensed matter physics, quantum physics, and nonlinear dynamics.
   <!-- Slides -->
   <div class="slides" style="display:flex; transition:transform 0.5s ease-in-out; width:400%;">
     <img src="image_carousel/IIScBangalore.jpeg" style="width:25%; flex-shrink:0;" />
-    <!--<img src="image_carousel/sp_2.jpg" style="width:25%; flex-shrink:0;" />
+    <!--<img src="image_carousel/sp_2.jpg" style="width:25%; flex-shrink:0;" /> -->
     <img src="image_carousel/TopoAndersonPhase.jpg" style="width:25%; flex-shrink:0;" />
-    <!--<img src="image_carousel/sp_1.jpg" style="width:25%; flex-shrink:0;" />
+    <!--<img src="image_carousel/sp_1.jpg" style="width:25%; flex-shrink:0;" /> -->
   </div>
 
   <!-- Navigation Buttons -->
@@ -131,9 +131,9 @@ const totalSlides = slides.children.length;
 // Array of captions for each image
 const captions = [
   "IISc Bangalore – Main Building",
-  <!--"Topological edge states of photonic s-p orbitals",
+  <!--"Topological edge states of photonic s-p orbitals", -->
   "Topological Anderson phase transition",
-  <!--"Another view of our setup"
+  <!--"Another view of our setup" -->
 ];
 
 function showSlide(index) {
