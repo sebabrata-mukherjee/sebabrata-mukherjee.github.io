@@ -143,8 +143,6 @@ Period-doubled Floquet solitons
 
 </div>
 
-</td>
-
 
 <!-- end of your right column content -->
 </td>
