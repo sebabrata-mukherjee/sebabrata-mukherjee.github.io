@@ -16,10 +16,10 @@ Phone: +91 80 2293 2065 (office)
 
 ### Ph.D. students
 
-- Gayathry Rajeevan, <a href="https://scholar.google.com/citations?hl=en&user=eO-XvxQAAAAJ" target="_blank">Google Scholar</a>, gayathryr@iisc.ac.in <br/>
-- Rishav Hui, <a href="https://scholar.google.com/citations?hl=en&user=om2oK2EAAAAJ" target="_blank">Google Scholar</a>, rishavhui@iisc.ac.in <br/>
-- Trideb Shit, <a href="https://scholar.google.com/citations?hl=en&user=kg3xraQAAAAJ" target="_blank">Google Scholar</a>, tridebshit@iisc.ac.in <br/>
-- Avinash Tetarwal, <a href="https://scholar.google.com/citations?hl=en&user=KqVulrAAAAAJ" target="_blank">Google Scholar</a>, avinasht@iisc.ac.in <br/>
+- Gayathry Rajeevan, gayathryr@iisc.ac.in <br/>
+- Rishav Hui, rishavhui@iisc.ac.in <br/>
+- Trideb Shit, tridebshit@iisc.ac.in <br/>
+- Avinash Tetarwal, avinasht@iisc.ac.in <br/>
 - Bhoomija Chaurasia, bhoomijac@iisc.ac.in <br />
 - Debankur Basak, debankurb@iisc.ac.in <br />
 - Rudra Khanra, rudrakhanra@iisc.ac.in <br />
