@@ -30,8 +30,8 @@ Phone: +91 80 2293 2065 (office)
 
 ### Previous members
 
-**Postdoc:** <br />
-10. Shailja Sharma, IoE Post-Doctoral Fellow, *currently a faculty member at NIT Hamirpur* <br />
+11. Shailja Sharma, IoE Post-Doctoral Fellow, *currently a faculty member at NIT Hamirpur* <br />
+10. Catherine Metto, Project Associate, *currently pursuing PhD at RMIT University, Australia* <br />
 
 **BS-MS Thesis** <br />
 9. Abhinav Sinha, BS and MS thesis, *currently pursuing PhD at McGill University, Canada* <br />
