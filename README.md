@@ -28,7 +28,7 @@
 Assistant Professor <br />
 Department of Physics <br />
 IISc Bangalore, India <br />
-✉️ <a href="mailto:mukherjee@iisc.ac.in">mukherjee@iisc.ac.in</a> 
+✉️ <a href="mailto:mukherjee@iisc.ac.in">mukherjee@iisc.ac.in</a> <br />
 <!--- 
        <a href="mailto:mukherjeesebabrata@gmail.com">mukherjeesebabrata@gmail.com</a> <br />
        ---!>
