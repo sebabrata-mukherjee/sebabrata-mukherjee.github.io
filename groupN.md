@@ -1,7 +1,7 @@
 ### Members
 
 
-<img src="imageN/Photo_Galary/group-Tday.jpeg" width="500"/>  <br/>
+<img src="imageN/Photo_Galary/group-Tday2024.jpeg" width="500"/>  <br/>
 
 <a href="https://sebabrata-mukherjee.github.io/photos.html" target="_blank"> Photo gallery </a> <br/>
 <br/>
