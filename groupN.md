@@ -24,28 +24,27 @@ Phone: +91 80 2293 2065 (office)
 
 
 ### Undergraduate students
-
-1. 
-
+1. Avik Das <br />
+2. Aaitijhya Goswami <br />
 
 
 ### Previous members
 
-**Postdoc:**
-10. Shailja Sharma, IoE Post-Doctoral Fellow, *currently a faculty member at NIT Hamirpur*
+**Postdoc:** <br />
+10. Shailja Sharma, IoE Post-Doctoral Fellow, *currently a faculty member at NIT Hamirpur* <br />
 
-**BS-MS Thesis**
-9. Abhinav Sinha, BS and MS thesis, *currently pursuing PhD at McGill University, Canada*
-8. Archit Gajera, BS thesis
+**BS-MS Thesis** <br />
+9. Abhinav Sinha, BS and MS thesis, *currently pursuing PhD at McGill University, Canada* <br />
+8. Archit Gajera, BS thesis <br />
 
-**Interns:** 
-7. Anamitra Giri, Summer internship, 2025, *MSc IIT Kharagpur*
-6. Mrinmoy Das, Summer internship, 2025, *MSc IIT Kharagpur*
-5. Maitri Ganguli, (Int-PhD, May-July 2023) *currently pursuing PhD at University of Illinois Urbana Champaign* 
-4. Karnpriya Pandey, (Int-PhD, May-July 2023)
-3. Trideb Shit, (Int-PhD, May-July 2022)
-2. Subhabhan Roy (Int-PhD, May-July 2022)
-1. Sanjay S (UG, IISc, Project course, Aug-Dec 2021)
+**Interns:**  <br />
+7. Anamitra Giri, Summer internship, 2025, *MSc IIT Kharagpur* <br />
+6. Mrinmoy Das, Summer internship, 2025, *MSc IIT Kharagpur* <br />
+5. Maitri Ganguli, (Int-PhD, May-July 2023) *currently pursuing PhD at University of Illinois Urbana Champaign* <br />
+4. Karnpriya Pandey, (Int-PhD, May-July 2023) <br />
+3. Trideb Shit, (Int-PhD, May-July 2022) <br />
+2. Subhabhan Roy (Int-PhD, May-July 2022) <br />
+1. Sanjay S (UG, IISc, Project course, Aug-Dec 2021) <br />
 
 
 
