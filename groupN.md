@@ -14,7 +14,7 @@ Email: mukherjee@iisc.ac.in <br />
 Phone: +91 80 2293 2065 (office)
 
 
-<h3>Ph.D. students</h3>
+<h4>Ph.D. students</h4>
 
 
 - Gayathry Rajeevan, gayathryr@iisc.ac.in <br/>
@@ -27,7 +27,7 @@ Phone: +91 80 2293 2065 (office)
 
 
 
-<h3>Undergraduate students</h3>
+<h4>Undergraduate students</h4>
 
 
 - Avik Das <br />
@@ -37,7 +37,7 @@ Phone: +91 80 2293 2065 (office)
 
 <br />
 
-<h3>Previous members</h3>
+<h4>Previous members</h4>
 
   
 > - Dr. Shailja Sharma, IoE Post-Doctoral Fellow, *currently a faculty member at NIT Hamirpur* <br />
