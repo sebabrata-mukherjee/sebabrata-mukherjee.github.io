@@ -38,9 +38,9 @@ Phone: +91 80 2293 2065 (office)
 8. Archit Gajera, BS thesis <br />
 
 **Interns:**  <br />
-7. Anamitra Giri, Summer internship, 2025, *MSc IIT Kharagpur* <br />
-6. Mrinmoy Das, Summer internship, 2025, *MSc IIT Kharagpur* <br />
-5. Maitri Ganguli, (Int-PhD, May-July 2023) *currently pursuing PhD at University of Illinois Urbana Champaign* <br />
+7. Anamitra Giri, Summer internship, 2025, *pursuing MSc at IIT Kharagpur* <br />
+6. Mrinmoy Das, Summer internship, 2025, *pursuing MSc at IIT Kharagpur* <br />
+5. Maitri Ganguli, (Int-PhD, May-July 2023), *currently pursuing PhD at University of Illinois Urbana Champaign* <br />
 4. Karnpriya Pandey, (Int-PhD, May-July 2023) <br />
 3. Trideb Shit, (Int-PhD, May-July 2022) <br />
 2. Subhabhan Roy (Int-PhD, May-July 2022) <br />
@@ -48,7 +48,7 @@ Phone: +91 80 2293 2065 (office)
 
 
 
-
+<!---
 
 <table border="0">
  <tr>
