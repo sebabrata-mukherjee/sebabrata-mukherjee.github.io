@@ -142,6 +142,26 @@ Period-doubled Floquet solitons
 
 </div>
 
+<style>
+/* Chrome, Safari, Edge */
+div::-webkit-scrollbar {
+  width: 8px;
+}
+
+div::-webkit-scrollbar-thumb {
+  background-color: #888;
+  border-radius: 4px;
+}
+
+/* Firefox */
+div {
+  scrollbar-width: thin;
+  scrollbar-color: #888 transparent;
+}
+</style>
+
+
+
 
 <!-- end of your right column content -->
 </td>
