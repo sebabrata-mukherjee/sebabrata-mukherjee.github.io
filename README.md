@@ -12,7 +12,7 @@
 
 <!-- LEFT COLUMN -->
 
-<td width="20%" valign="top"
+<td width="22%" valign="top"
     style="border:none; padding-right:30px;">
 
 <p align="center">
@@ -23,7 +23,7 @@
 Assistant Professor <br />
 Department of Physics <br />
 IISc Bangalore, India <br />
-✉️ <a href="mailto:mukherjee@iisc.ac.in">mukherjee@iisc.ac.in</a>, 
+✉️ <a href="mailto:mukherjee@iisc.ac.in">mukherjee@iisc.ac.in</a> 
 <!--- 
        <a href="mailto:mukherjeesebabrata@gmail.com">mukherjeesebabrata@gmail.com</a> <br />
        ---!>
@@ -55,7 +55,7 @@ IISc Bangalore, India <br />
 </td>
 
 <!-- RIGHT COLUMN -->
-<td width="80%" valign="top"
+<td width="78%" valign="top"
     style="border:none; padding-left:30px;">
 
 <p>
