@@ -151,7 +151,7 @@ Period-doubled Floquet solitons
 
 <!-- SINGLE-COLUMN LOGO AT THE END -->
 <tr>
-  <td colspan="2" align="center" style="padding-top:30px; border:none;">
+  <td colspan="2" align="center" style="padding-top:30px; border:none; background-color: transparent;">
     <a href="https://iisc.ac.in/" target="_blank">
       <img src="imageN/Funding_logo/logo-all.png" width="70%"/>
     </a>
