@@ -12,11 +12,11 @@
 
 <!-- LEFT COLUMN -->
 
-<td width="30%" valign="top"
+<td width="20%" valign="top"
     style="border:none; padding-right:30px;">
 
 <p align="center">
-  <img src="images/me.jpeg" width="200"/>
+  <img src="images/me.jpeg" width="150"/>
 </p>
 
 <p align="center">
@@ -51,33 +51,28 @@ Phone: +91 80 2293 2065 (office)
 </td>
 
 <!-- RIGHT COLUMN -->
-<td width="70%" valign="top"
+<td width="80%" valign="top"
     style="border:none; padding-left:30px;">
 
-
 <p>
-<strong>Welcome to our research group!
+<strong>
+Welcome to our research group!
 We are part of the Department of Physics at IISc Bangalore, India.
 We are interested in how optical states propagate along intricately designed photonic networks.
 We create such devices in our lab using femtosecond laser pulses and explore novel light-matter
-interactions with incredible precision and controllability. 
+interactions with incredible precision and controllability.
 Find more details on the above tabs.
+</strong>
 </p>
 
 <p>
-Contact <a href="https://sebabrata-mukherjee.github.io/seba.html" target="_blank">
+Contact
+<a href="https://sebabrata-mukherjee.github.io/seba.html" target="_blank">
 Sebabrata Mukherjee
 </a>
 if you are interested in pursuing cutting-edge research in photonics,
-condensed matter physics, quantum physics, and nonlinear dynamics. </strong>
+condensed matter physics, quantum physics, and nonlinear dynamics.
 </p>
-
-
-
-
-
-
-
 
 <h2>Photo – IISc Main Building</h2>
 
@@ -88,7 +83,6 @@ condensed matter physics, quantum physics, and nonlinear dynamics. </strong>
 <p align="center">
 (source: google images)
 </p>
-
 
 <h2>Recent News</h2>
 
@@ -131,17 +125,10 @@ Period-doubled Floquet solitons
 </div>
 
 </td>
-</tr>
-</table>
 
-<!-- FULL-WIDTH FUNDING LOGO AT END -->
-<br/>
 
-<p align="center">
-<a href="https://iisc.ac.in/" target="_blank">
-<img src="imageN/Funding_logo/logo-all.png" width="70%"/>
-</a>
-</p>
+
+
 
 
 
