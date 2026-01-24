@@ -109,7 +109,7 @@ condensed matter physics, quantum physics, and nonlinear dynamics.
     <img src="image_carousel/IIScBangalore.jpeg" style="width:25%; flex-shrink:0;" />
     <img src="image_carousel/Char_setup.jpg" style="width:25%; flex-shrink:0;" />
     <img src="image_carousel/TopoAndersonPhase.jpg" style="width:25%; flex-shrink:0;" />
-    <!--<img src="image_carousel/sp_2.jpg" style="width:25%; flex-shrink:0;" /> -->
+    <img src="image_carousel/sp_2.jpg" style="width:25%; flex-shrink:0;" />
   </div>
 
   <!-- Navigation Buttons -->
