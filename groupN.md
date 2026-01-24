@@ -16,37 +16,61 @@ Phone: +91 80 2293 2065 (office)
 
 ### Ph.D. students
 
-1. Gayathry Rajeevan, <a href="https://scholar.google.com/citations?hl=en&user=eO-XvxQAAAAJ" target="_blank">Google Scholar</a>, gayathryr@iisc.ac.in <br/>
-2. Rishav Hui, <a href="https://scholar.google.com/citations?hl=en&user=om2oK2EAAAAJ" target="_blank">Google Scholar</a>, rishavhui@iisc.ac.in <br/>
-3. Trideb Shit, <a href="https://scholar.google.com/citations?hl=en&user=kg3xraQAAAAJ" target="_blank">Google Scholar</a>, tridebshit@iisc.ac.in <br/>
-4. Avinash Tetarwal, <a href="https://scholar.google.com/citations?hl=en&user=KqVulrAAAAAJ" target="_blank">Google Scholar</a>, avinasht@iisc.ac.in <br/>
-5. Bhoomija Chaurasia, bhoomijac@iisc.ac.in <br />
-6. Debankur Basak, debankurb@iisc.ac.in <br />
-7. Rudra Khanra, rudrakhanra@iisc.ac.in <br />
+- Gayathry Rajeevan, <a href="https://scholar.google.com/citations?hl=en&user=eO-XvxQAAAAJ" target="_blank">Google Scholar</a>, gayathryr@iisc.ac.in <br/>
+- Rishav Hui, <a href="https://scholar.google.com/citations?hl=en&user=om2oK2EAAAAJ" target="_blank">Google Scholar</a>, rishavhui@iisc.ac.in <br/>
+- Trideb Shit, <a href="https://scholar.google.com/citations?hl=en&user=kg3xraQAAAAJ" target="_blank">Google Scholar</a>, tridebshit@iisc.ac.in <br/>
+- Avinash Tetarwal, <a href="https://scholar.google.com/citations?hl=en&user=KqVulrAAAAAJ" target="_blank">Google Scholar</a>, avinasht@iisc.ac.in <br/>
+- Bhoomija Chaurasia, bhoomijac@iisc.ac.in <br />
+- Debankur Basak, debankurb@iisc.ac.in <br />
+- Rudra Khanra, rudrakhanra@iisc.ac.in <br />
 
 
 ### Undergraduate students
-1. Avik Das <br />
-2. Aaitijhya Goswami <br />
+
+- Avik Das <br />
+- Aaitijhya Goswami <br />
 
 
 ### Previous members
 
-11. Shailja Sharma, IoE Post-Doctoral Fellow, *currently a faculty member at NIT Hamirpur* <br />
-10. Catherine Metto, Project Associate, *currently pursuing PhD at RMIT University, Australia* <br />
+- Shailja Sharma, IoE Post-Doctoral Fellow, *currently a faculty member at NIT Hamirpur* <br />
+- Catherine Metto, Project Associate, *currently pursuing PhD at RMIT University, Australia* <br />
 
 **BS-MS Thesis** <br />
-9. Abhinav Sinha, BS and MS thesis, *currently pursuing PhD at McGill University, Canada* <br />
-8. Archit Gajera, BS thesis <br />
+
+- Abhinav Sinha, BS and MS thesis, *currently pursuing PhD at McGill University, Canada* <br />
+- Archit Gajera, BS thesis <br />
 
 **Interns:**  <br />
-7. Anamitra Giri, Summer internship, 2025, *pursuing MSc at IIT Kharagpur* <br />
-6. Mrinmoy Das, Summer internship, 2025, *pursuing MSc at IIT Kharagpur* <br />
-5. Maitri Ganguli, (Int-PhD, May-July 2023), *currently pursuing PhD at University of Illinois Urbana Champaign* <br />
-4. Karnpriya Pandey, (Int-PhD, May-July 2023) <br />
-3. Trideb Shit, (Int-PhD, May-July 2022) <br />
-2. Subhabhan Roy (Int-PhD, May-July 2022) <br />
-1. Sanjay S (UG, IISc, Project course, Aug-Dec 2021) <br />
+
+- Anamitra Giri, Summer internship, 2025, *pursuing MSc at IIT Kharagpur* <br />
+- Mrinmoy Das, Summer internship, 2025, *pursuing MSc at IIT Kharagpur* <br />
+- Maitri Ganguli, (Int-PhD, May-July 2023), *currently pursuing PhD at University of Illinois Urbana Champaign* <br />
+- Karnpriya Pandey, (Int-PhD, May-July 2023) <br />
+- Trideb Shit, (Int-PhD, May-July 2022) <br />
+- Subhabhan Roy (Int-PhD, May-July 2022) <br />
+- Sanjay S (UG, IISc, Project course, Aug-Dec 2021) <br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
