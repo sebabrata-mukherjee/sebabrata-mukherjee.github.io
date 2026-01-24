@@ -92,7 +92,7 @@ condensed matter physics, quantum physics, and nonlinear dynamics.
 <h2>Photo – IISc Main Building</h2>
 
 <p align="center">
-<img src="imageN/IIScBangalore.jpeg" width="90%"/>
+<img src="imageN/IIScBangalore.jpeg" width="100%"/>
 </p>
 
 <p align="center">
@@ -106,7 +106,7 @@ condensed matter physics, quantum physics, and nonlinear dynamics.
 
 <h2>Recent News</h2>
 
-<div style="max-height:380px; overflow-y:auto; padding-right:10px;">
+<div style="max-height:280px; overflow-y:auto; padding-right:10px;">
 
 <ul>
 <li>Check out our recent experiments on
