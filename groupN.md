@@ -14,7 +14,8 @@ Email: mukherjee@iisc.ac.in <br />
 Phone: +91 80 2293 2065 (office)
 
 
-### Ph.D. students
+<h3>Ph.D. students</h3>
+
 
 - Gayathry Rajeevan, gayathryr@iisc.ac.in <br/>
 - Rishav Hui, rishavhui@iisc.ac.in <br/>
@@ -25,7 +26,9 @@ Phone: +91 80 2293 2065 (office)
 - Rudra Khanra, rudrakhanra@iisc.ac.in <br />
 
 
-### Undergraduate students
+
+<h3>Undergraduate students</h3>
+
 
 - Avik Das <br />
 - Aaitijhya Goswami <br />
@@ -34,7 +37,8 @@ Phone: +91 80 2293 2065 (office)
 
 <br />
 
-### Previous members
+<h3>Previous members</h3>
+
   
 > - Dr. Shailja Sharma, IoE Post-Doctoral Fellow, *currently a faculty member at NIT Hamirpur* <br />
 > - Catherine Metto, Project Associate, *currently pursuing PhD at RMIT University, Australia* <br />
