@@ -5,13 +5,12 @@ TOP SINGLE-COLUMN INTRO
 </div>
 --!>
 
+
+
 <!-- TWO-COLUMN SECTION -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0"
-       style="border-collapse:collapse; border:none;">
+       style="border-collapse:collapse; border:none; background-color: transparent;">
 <tr style="border:none;">
-
-
-
 
 
 
@@ -105,7 +104,7 @@ condensed matter physics, quantum physics, and nonlinear dynamics.
 
 <h2>Recent News</h2>
 
-<div style="max-height:280px; overflow-y:scroll; padding-right:10px;">
+<div style="max-height:280px; overflow-y:scroll; padding-right:10px; scrollbar-width: thin; ">
 
 <ul>
 <li>Check out our recent experiments on
