@@ -19,45 +19,43 @@
 <!--             -->
 
 
-<td width="30%" valign="top"
-    style="border:none; padding-right:30px;">
+<!-- LEFT COLUMN -->
+<td width="30%" valign="top" style="border:none; padding-right:30px;">
 
-<p align="center">
-  <img src="images/me.jpeg" width="160"/>
-</p>
+  <p align="center">
+    <img src="images/me.jpeg" width="160"/>
+  </p>
 
-<p align="center" style="font-size:14px; line-height:2.3;">
-Assistant Professor <br />
-Department of Physics <br />
-IISc Bangalore, India <br />
-✉️ <a href="mailto:mukherjee@iisc.ac.in">mukherjee@iisc.ac.in</a><br />
-☎️ +91 80 2293 2065 (office)
-</p>
+  <p align="center" style="font-size:14px; line-height:2.3;">
+    Assistant Professor <br />
+    Department of Physics <br />
+    IISc Bangalore, India <br />
+    ✉️ <a href="mailto:mukherjee@iisc.ac.in">mukherjee@iisc.ac.in</a><br />
+    ☎️ +91 80 2293 2065 (office)
+  </p>
 
+  <br />
 
+  <p align="center">
+    <a href="https://scholar.google.co.uk/citations?hl=en&user=M29JjtAAAAAJ" target="_blank">
+      <img src="imageN/GoogleScholar.png" width="210"/>
+    </a>
+  </p>
 
-<br />
+  <p align="center">
+    <a href="https://orcid.org/0000-0003-1942-2521" target="_blank">
+      <img src="imageN/ORCID.png" width="210"/>
+    </a>
+  </p>
 
-<p align="center">
-  <a href="https://scholar.google.co.uk/citations?hl=en&user=M29JjtAAAAAJ" target="_blank">
-    <img src="imageN/GoogleScholar.png" width="210"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://orcid.org/0000-0003-1942-2521" target="_blank">
-    <img src="imageN/ORCID.png" width="210"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.researchgate.net/profile/Sebabrata-Mukherjee" target="_blank">
-    <img src="imageN/ResearchGate1.png" width="210"/>
-  </a>
-</p>
-
+  <p align="center">
+    <a href="https://www.researchgate.net/profile/Sebabrata-Mukherjee" target="_blank">
+      <img src="imageN/ResearchGate1.png" width="210"/>
+    </a>
+  </p>
 
 </td>
+
 
 
 
