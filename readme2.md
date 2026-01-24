@@ -1,11 +1,9 @@
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse; border:none;">
-<tr style="border:none;">
-<td width="55%" valign="top" style="border:none; padding-right:30px;">
-
-<h2>Welcome</h2>
+<!-- TOP SINGLE-COLUMN INTRO -->
+<div style="width:100%; margin-bottom:30px;">
 
 <p>
-<strong>Welcome to our research group!</strong> We are part of the Department of Physics at IISc Bangalore, India.
+<strong>Welcome to our research group!</strong>
+We are part of the Department of Physics at IISc Bangalore, India.
 We are interested in how optical states propagate along intricately designed photonic networks.
 We create such devices in our lab using femtosecond laser pulses and explore novel light-matter
 interactions with incredible precision and controllability.
@@ -16,7 +14,7 @@ Find more details on the above tabs.
 </p>
 
 <p>
-<strong>Contact</strong>
+Contact
 <a href="https://sebabrata-mukherjee.github.io/seba.html" target="_blank">
 Sebabrata Mukherjee
 </a>
@@ -24,7 +22,16 @@ if you are interested in pursuing cutting-edge research in photonics,
 condensed matter physics, quantum physics, and nonlinear dynamics.
 </p>
 
-<br/>
+</div>
+
+<!-- TWO-COLUMN SECTION -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0"
+       style="border-collapse:collapse; border:none;">
+<tr style="border:none;">
+
+<!-- LEFT COLUMN -->
+<td width="65%" valign="top"
+    style="border:none; padding-right:30px;">
 
 <h2>Photo – IISc Main Building</h2>
 
@@ -38,9 +45,13 @@ condensed matter physics, quantum physics, and nonlinear dynamics.
 
 </td>
 
-<td width="45%" valign="top" style="border:none; padding-left:30px;">
+<!-- RIGHT COLUMN -->
+<td width="35%" valign="top"
+    style="border:none; padding-left:30px;">
 
 <h2>Recent News</h2>
+
+<div style="max-height:380px; overflow-y:auto; padding-right:10px;">
 
 <ul>
 <li>Check out our recent experiments on
@@ -76,14 +87,17 @@ Period-doubled Floquet solitons
 <li>Ph.D. student Gayathry R is joining our group. Welcome, Gayathry!</li>
 </ul>
 
-<br/>
-
-<p align="center">
-<a href="https://iisc.ac.in/" target="_blank">
-<img src="imageN/Funding_logo/logo-all.png" width="100%"/>
-</a>
-</p>
+</div>
 
 </td>
 </tr>
 </table>
+
+<!-- FULL-WIDTH FUNDING LOGO AT END -->
+<br/>
+
+<p align="center">
+<a href="https://iisc.ac.in/" target="_blank">
+<img src="imageN/Funding_logo/logo-all.png" width="70%"/>
+</a>
+</p>
