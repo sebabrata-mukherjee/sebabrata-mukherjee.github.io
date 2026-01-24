@@ -23,7 +23,7 @@ TOP SINGLE-COLUMN INTRO
 <td width="30%" valign="top" style="border:none; padding-right:30px;">
 
 <p align="center">
-    <img src="images/me.jpeg" width="180"/>
+    <img src="image_carousel/me-cir2.png" width="180"/>
 </p> 
 
 
