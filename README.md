@@ -10,9 +10,14 @@
 
 
 
-<!-- LEFT COLUMN -->
 
-<td width="22%" valign="top"
+
+<!--             -->
+<!-- LEFT COLUMN -->
+<!--             -->
+
+
+<td width="25%" valign="top"
     style="border:none; padding-right:30px;">
 
 <p align="center">
@@ -30,8 +35,7 @@ IISc Bangalore, India <br />
 ☎️ +91 80 2293 2065 (office)
 </p>
 
-
- <br />
+<br />
 
 <p align="center">
   <a href="https://scholar.google.co.uk/citations?hl=en&user=M29JjtAAAAAJ" target="_blank">
@@ -54,8 +58,14 @@ IISc Bangalore, India <br />
 
 </td>
 
+
+
+<!--             -->
 <!-- RIGHT COLUMN -->
-<td width="78%" valign="top"
+<!--             -->
+
+
+<td width="75%" valign="top"
     style="border:none; padding-left:30px;">
 
 <p>
@@ -87,6 +97,11 @@ condensed matter physics, quantum physics, and nonlinear dynamics.
 <p align="center">
 (source: google images)
 </p>
+
+
+
+<!--             -->
+<!--             -->
 
 <h2>Recent News</h2>
 
