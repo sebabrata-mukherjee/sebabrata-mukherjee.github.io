@@ -21,7 +21,7 @@
     style="border:none; padding-right:30px;">
 
 <p align="center">
-  <img src="images/me.jpeg" width="150"/>
+  <img src="images/me.jpeg" width="160"/>
 </p>
 
 <p align="center">
