@@ -99,7 +99,7 @@ condensed matter physics, quantum physics, and nonlinear dynamics.
 </p>
 -->
 
-<h3>Photo – IISc Main Building</h3>
+<h3>Photos </h3>
 
 <!-- Carousel Container -->
 <div class="carousel-container" style="position:relative; width:100%; max-width:800px; margin:0 auto; overflow:hidden; border-radius:8px;">
