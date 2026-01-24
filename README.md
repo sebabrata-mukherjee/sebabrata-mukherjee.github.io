@@ -190,13 +190,7 @@ setInterval(nextSlide, 3000);
   </ul>
 </div>
 
-<div style="
-  max-height:200px;
-  overflow-y: scroll;
-  padding-right:10px;
-  scrollbar-width: thin;
-  scrollbar-gutter: stable;
-">
+
 
 
 
