@@ -26,7 +26,7 @@
     <img src="images/me.jpeg" width="160"/>
   </p>
 
-  <p align="center" style="font-size:14px; line-height:2.3;">
+  <p align="center" style="font-size:14px; line-height:1.8;">
     Assistant Professor <br />
     Department of Physics <br />
     IISc Bangalore, India <br />
