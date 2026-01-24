@@ -90,9 +90,15 @@ condensed matter physics, quantum physics, and nonlinear dynamics. </strong>
 </p>
 
 
+
+
+
+
+
+
 <h2>Recent News</h2>
 
-<div style="max-height:380px; overflow-y:auto; padding-right:10px;">
+<div style="max-height:300px; overflow-y:auto; padding-right:10px;">
 
 <ul>
 <li>Check out our recent experiments on
