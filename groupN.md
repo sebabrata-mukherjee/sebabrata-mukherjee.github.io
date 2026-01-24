@@ -2,11 +2,10 @@
 
 
 <div style="text-align: center;">
-  <img src="imageN/Photo_Galary/group-Tday2024N.jpeg" width="500" />
-
-
-<a href="https://sebabrata-mukherjee.github.io/photos.html" target="_blank"> Photo gallery </a> <br/>
-<br/>
+  
+  <img src="imageN/Photo_Galary/group-Tday2024N.jpeg" width="450" />
+  <a href="https://sebabrata-mukherjee.github.io/photos.html" target="_blank"> Photo gallery </a> <br/>
+  <br/>
 
 </div>
 
