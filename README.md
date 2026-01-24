@@ -131,7 +131,7 @@ const totalSlides = slides.children.length;
 // Array of captions for each image
 const captions = [
   "IISc Bangalore – Main Building",
-  "Probing station",
+  "Experiments: probing station",
   "Topological Anderson phase transition",
   "Topological edge states of photonic s-p orbitals" 
 ];
