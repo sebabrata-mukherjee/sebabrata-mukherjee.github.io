@@ -1,27 +1,6 @@
 <!-- TOP SINGLE-COLUMN INTRO -->
 <div style="width:100%; margin-bottom:30px;">
 
-<p>
-<strong>Welcome to our research group!</strong>
-We are part of the Department of Physics at IISc Bangalore, India.
-We are interested in how optical states propagate along intricately designed photonic networks.
-We create such devices in our lab using femtosecond laser pulses and explore novel light-matter
-interactions with incredible precision and controllability.
-</p>
-
-<p>
-Find more details on the above tabs.
-</p>
-
-<p>
-Contact
-<a href="https://sebabrata-mukherjee.github.io/seba.html" target="_blank">
-Sebabrata Mukherjee
-</a>
-if you are interested in pursuing cutting-edge research in photonics,
-condensed matter physics, quantum physics, and nonlinear dynamics.
-</p>
-
 </div>
 
 <!-- TWO-COLUMN SECTION -->
@@ -29,25 +8,87 @@ condensed matter physics, quantum physics, and nonlinear dynamics.
        style="border-collapse:collapse; border:none;">
 <tr style="border:none;">
 
+
+
 <!-- LEFT COLUMN -->
-<td width="65%" valign="top"
+
+<td width="30%" valign="top"
     style="border:none; padding-right:30px;">
+
+<p align="center">
+  <img src="images/me.jpeg" width="200"/>
+</p>
+
+<p align="center">
+Assistant Professor <br />
+Department of Physics <br />
+IISc Bangalore, India <br />
+Email: mukherjee[at]iisc.ac.in , mukherjeesebabrata[at]gmail.com <br />
+Phone: +91 80 2293 2065 (office)
+</p>
+
+ <br />
+
+<p align="center">
+  <a href="https://scholar.google.co.uk/citations?hl=en&user=M29JjtAAAAAJ" target="_blank">
+    <img src="imageN/GoogleScholar.png" width="210"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://orcid.org/0000-0003-1942-2521" target="_blank">
+    <img src="imageN/ORCID.png" width="210"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.researchgate.net/profile/Sebabrata-Mukherjee" target="_blank">
+    <img src="imageN/ResearchGate1.png" width="210"/>
+  </a>
+</p>
+
+
+</td>
+
+<!-- RIGHT COLUMN -->
+<td width="70%" valign="top"
+    style="border:none; padding-left:30px;">
+
+
+<p>
+<strong>Welcome to our research group!
+We are part of the Department of Physics at IISc Bangalore, India.
+We are interested in how optical states propagate along intricately designed photonic networks.
+We create such devices in our lab using femtosecond laser pulses and explore novel light-matter
+interactions with incredible precision and controllability. 
+Find more details on the above tabs.
+</p>
+
+<p>
+Contact <a href="https://sebabrata-mukherjee.github.io/seba.html" target="_blank">
+Sebabrata Mukherjee
+</a>
+if you are interested in pursuing cutting-edge research in photonics,
+condensed matter physics, quantum physics, and nonlinear dynamics. </strong>
+</p>
+
+
+
+
+
+
+
 
 <h2>Photo – IISc Main Building</h2>
 
 <p align="center">
-<img src="imageN/IIScBangalore.jpeg" width="100%"/>
+<img src="imageN/IIScBangalore.jpeg" width="90%"/>
 </p>
 
 <p align="center">
 (source: google images)
 </p>
 
-</td>
-
-<!-- RIGHT COLUMN -->
-<td width="35%" valign="top"
-    style="border:none; padding-left:30px;">
 
 <h2>Recent News</h2>
 
