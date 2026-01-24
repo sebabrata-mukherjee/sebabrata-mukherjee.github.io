@@ -24,7 +24,9 @@ TOP SINGLE-COLUMN INTRO
 
 <p align="center">
     <img src="images/me.jpeg" width="180"/>
-</p>
+</p> 
+
+
 
 <p align="center" style="font-size:14px; line-height:1.8;">
     Assistant Professor <br />
