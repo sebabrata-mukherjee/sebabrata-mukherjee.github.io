@@ -137,17 +137,18 @@ const captions = [
 ];
 
 function showSlide(index) {
-  slides.style.transform = 'translateX(' + (-index * 100/totalSlides) + '%)';
+  // Move slides left by 100% per slide
+  slides.style.transform = `translateX(-${index * 100}%)`;
   document.getElementById('carousel-caption').innerText = captions[index];
 }
 
 function nextSlide() {
-  currentIndex = (currentIndex + 1) % totalSlides;
+  currentIndex = (currentIndex + 1) % totalSlides; // loops smoothly
   showSlide(currentIndex);
 }
 
 function prevSlide() {
-  currentIndex = (currentIndex - 1 + totalSlides) % totalSlides;
+  currentIndex = (currentIndex - 1 + totalSlides) % totalSlides; // loops smoothly
   showSlide(currentIndex);
 }
 
