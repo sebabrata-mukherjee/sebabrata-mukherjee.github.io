@@ -1,12 +1,14 @@
 <!-- TOP SINGLE-COLUMN INTRO -->
 <div style="width:100%; margin-bottom:30px;">
 
+
 </div>
 
 <!-- TWO-COLUMN SECTION -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0"
        style="border-collapse:collapse; border:none;">
 <tr style="border:none;">
+
 
 
 
@@ -24,7 +26,7 @@
   <img src="images/me.jpeg" width="160"/>
 </p>
 
-<p align="center" style="font-size:13px; line-height:2.3;">
+<p align="center" style="font-size:14px; line-height:2.3;">
 Assistant Professor <br />
 Department of Physics <br />
 IISc Bangalore, India <br />
@@ -143,6 +145,12 @@ Period-doubled Floquet solitons
 </div>
 
 </td>
+
+
+
+
+
+
 
 
 
