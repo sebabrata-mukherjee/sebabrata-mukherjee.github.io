@@ -3,11 +3,12 @@
 
 <div style="text-align: center;">
   <img src="imageN/Photo_Galary/group-Tday2024N.jpeg" width="500" />
-</div>
+
 
 <a href="https://sebabrata-mukherjee.github.io/photos.html" target="_blank"> Photo gallery </a> <br/>
 <br/>
 
+</div>
 
 PI: Sebabrata Mukherjee <a href="https://sebabrata-mukherjee.github.io/seba.html" target="_blank">(brief CV)</a> <br/>
 Email: mukherjee@iisc.ac.in <br />
