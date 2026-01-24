@@ -88,7 +88,7 @@ condensed matter physics, quantum physics, and nonlinear dynamics.
 </p>
 
 <!--
-<h3>Photo – IISc Main Building</h3>
+<h3>Photos</h3>
 
 <p align="center">
 <img src="imageN/IIScBangalore.jpeg" width="120%"/>
