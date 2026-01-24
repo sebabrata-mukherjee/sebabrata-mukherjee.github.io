@@ -169,7 +169,7 @@ setInterval(nextSlide, 3000);
 
 <div style="max-height:200px; overflow-y:scroll; padding-right:10px; scrollbar-width: thin;">
   <ul>
-    <li>Check out our recent experiments on
+    <li>Check out our recent work on
       <a href="https://doi.org/10.1103/9jjd-vbp1" target="_blank">Topological Anderson Transition</a>
     </li>
     <li>Check out our recent work on
