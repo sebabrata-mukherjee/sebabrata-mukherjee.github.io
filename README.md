@@ -22,19 +22,19 @@
 <!-- LEFT COLUMN -->
 <td width="30%" valign="top" style="border:none; padding-right:30px;">
 
-  <p align="center">
-    <img src="images/me.jpeg" width="160"/>
-  </p>
+<p align="center">
+    <img src="images/me.jpeg" width="180"/>
+</p>
 
-  <p align="center" style="font-size:14px; line-height:1.8;">
+<p align="center" style="font-size:14px; line-height:1.8;">
     Assistant Professor <br />
     Department of Physics <br />
     IISc Bangalore, India <br />
     ✉️ <a href="mailto:mukherjee@iisc.ac.in">mukherjee@iisc.ac.in</a><br />
-    ☎️ +91 80 2293 2065 (office)
-  </p>
+    ☎️ +91 8022932065
+</p>
 
-  <br />
+<br />
 
   <p align="center">
     <a href="https://scholar.google.co.uk/citations?hl=en&user=M29JjtAAAAAJ" target="_blank">
