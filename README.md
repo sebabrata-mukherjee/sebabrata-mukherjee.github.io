@@ -118,15 +118,27 @@ condensed matter physics, quantum physics, and nonlinear dynamics.
 
 </div>
 
-<p align="center">(source: google images)</p>
+<!-- Caption -->
+<p id="carousel-caption" align="center" style="margin-top:10px; font-style:italic;">
+  (source: google images)
+</p>
 
 <script>
 let currentIndex = 0;
 const slides = document.querySelector('.slides');
 const totalSlides = slides.children.length;
 
+// Array of captions for each image
+const captions = [
+  "IISc Bangalore – Main Building",
+  "Photonic s-p orbitals experiment",
+  "Topological Anderson Phase experiment",
+  "Another view of our lab setup"
+];
+
 function showSlide(index) {
   slides.style.transform = 'translateX(' + (-index * 100/totalSlides) + '%)';
+  document.getElementById('carousel-caption').innerText = captions[index];
 }
 
 function nextSlide() {
@@ -139,9 +151,13 @@ function prevSlide() {
   showSlide(currentIndex);
 }
 
-// Optional: auto-slide every 3 seconds
+// Initial caption
+showSlide(currentIndex);
+
+// Auto-slide every 3 seconds
 setInterval(nextSlide, 3000);
 </script>
+
 
 
 
