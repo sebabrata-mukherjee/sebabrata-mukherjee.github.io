@@ -106,10 +106,10 @@ condensed matter physics, quantum physics, and nonlinear dynamics.
 
   <!-- Slides -->
   <div class="slides" style="display:flex; transition:transform 0.5s ease-in-out; width:400%;">
-    <img src="imageN/IIScBangalore.jpeg" style="width:25%; flex-shrink:0;" />
-    <img src="imageN/IIScBangalore.jpeg" style="width:25%; flex-shrink:0;" />
-    <img src="imageN/IIScBangalore.jpeg" style="width:25%; flex-shrink:0;" />
-    <img src="imageN/IIScBangalore.jpeg" style="width:25%; flex-shrink:0;" />
+    <img src="image_carousel/IIScBangalore.jpeg" style="width:25%; flex-shrink:0;" />
+    <img src="image_carousel/sp_2.jpg" style="width:25%; flex-shrink:0;" />
+    <img src="image_carousel/TopoAndersonPhase.jpg" style="width:25%; flex-shrink:0;" />
+    <img src="image_carousel/sp_1.jpg" style="width:25%; flex-shrink:0;" />
   </div>
 
   <!-- Navigation Buttons -->
