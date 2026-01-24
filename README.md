@@ -90,7 +90,7 @@ condensed matter physics, quantum physics, and nonlinear dynamics.
 <h2>Photo – IISc Main Building</h2>
 
 <p align="center">
-<img src="imageN/IIScBangalore.jpeg" width="100%"/>
+<img src="imageN/IIScBangalore.jpeg" width="120%"/>
 </p>
 
 <p align="center">
@@ -158,7 +158,6 @@ Period-doubled Floquet solitons
   </td>
 </tr>
 
-</table>
 
 
 
