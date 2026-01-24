@@ -35,24 +35,24 @@ Phone: +91 80 2293 2065 (office)
 <br />
 
 ### Previous members
+  
+> - Dr. Shailja Sharma, IoE Post-Doctoral Fellow, *currently a faculty member at NIT Hamirpur* <br />
+> - Catherine Metto, Project Associate, *currently pursuing PhD at RMIT University, Australia* <br />
 
-  - Dr. Shailja Sharma, IoE Post-Doctoral Fellow, *currently a faculty member at NIT Hamirpur* <br />
-  - Catherine Metto, Project Associate, *currently pursuing PhD at RMIT University, Australia* <br />
+> **BS-MS Thesis** <br />
 
-  **BS-MS Thesis** <br />
+> - Abhinav Sinha, BS and MS thesis, *currently pursuing PhD at McGill University, Canada* <br />
+> - Archit Gajera, BS thesis <br />
 
-  - Abhinav Sinha, BS and MS thesis, *currently pursuing PhD at McGill University, Canada* <br />
-  - Archit Gajera, BS thesis <br />
+> **Interns:**  <br />
 
-  **Interns:**  <br />
-
-  - Anamitra Giri, Summer internship, 2025, *pursuing MSc at IIT Kharagpur* <br />
-  - Mrinmoy Das, Summer internship, 2025, *pursuing MSc at IIT Kharagpur* <br />
-  - Maitri Ganguli, (Int-PhD, May-July 2023), *pursuing PhD at University of Illinois Urbana Champaign* <br />
-  - Karnpriya Pandey, (Int-PhD, May-July 2023) <br />
-  - Trideb Shit, (Int-PhD, May-July 2022) <br />
-  - Subhabhan Roy (Int-PhD, May-July 2022) <br />
-  - Sanjay S (UG, IISc, Project course, Aug-Dec 2021) <br />
+> - Anamitra Giri, Summer internship, 2025, *pursuing MSc at IIT Kharagpur* <br />
+> - Mrinmoy Das, Summer internship, 2025, *pursuing MSc at IIT Kharagpur* <br />
+> - Maitri Ganguli, (Int-PhD, May-July 2023), *pursuing PhD at University of Illinois Urbana Champaign* <br />
+> - Karnpriya Pandey, (Int-PhD, May-July 2023) <br />
+> - Trideb Shit, (Int-PhD, May-July 2022) <br />
+> - Subhabhan Roy (Int-PhD, May-July 2022) <br />
+> - Sanjay S (UG, IISc, Project course, Aug-Dec 2021) <br />
 
 
 
