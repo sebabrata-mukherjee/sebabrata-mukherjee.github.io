@@ -17,7 +17,7 @@
 <!--             -->
 
 
-<td width="25%" valign="top"
+<td width="30%" valign="top"
     style="border:none; padding-right:30px;">
 
 <p align="center">
@@ -28,12 +28,10 @@
 Assistant Professor <br />
 Department of Physics <br />
 IISc Bangalore, India <br />
-✉️ <a href="mailto:mukherjee@iisc.ac.in">mukherjee@iisc.ac.in</a> <br />
-<!--- 
-       <a href="mailto:mukherjeesebabrata@gmail.com">mukherjeesebabrata@gmail.com</a> <br />
-       ---!>
-☎️ +91-8022932065 
+✉️ <a href="mailto:mukherjee@iisc.ac.in">mukherjee@iisc.ac.in</a><br />
+☎️ +91-8022932065
 </p>
+
 
 <br />
 
