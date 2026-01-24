@@ -87,6 +87,7 @@ if you are interested in pursuing cutting-edge research in photonics,
 condensed matter physics, quantum physics, and nonlinear dynamics.
 </p>
 
+<!--
 <h3>Photo – IISc Main Building</h3>
 
 <p align="center">
@@ -96,6 +97,51 @@ condensed matter physics, quantum physics, and nonlinear dynamics.
 <p align="center">
 (source: google images)
 </p>
+-->
+
+<h3>Photo – IISc Main Building</h3>
+
+<!-- Carousel Container -->
+<div class="carousel-container" style="position:relative; width:100%; max-width:800px; margin:0 auto; overflow:hidden; border-radius:8px;">
+
+  <!-- Slides -->
+  <div class="slides" style="display:flex; transition:transform 0.5s ease-in-out; width:400%;">
+    <img src="imageN/IIScBangalore.jpeg" style="width:25%; flex-shrink:0;" />
+    <img src="imageN/IIScBangalore.jpeg" style="width:25%; flex-shrink:0;" />
+    <img src="imageN/IIScBangalore.jpeg" style="width:25%; flex-shrink:0;" />
+    <img src="imageN/IIScBangalore.jpeg" style="width:25%; flex-shrink:0;" />
+  </div>
+
+  <!-- Navigation Buttons -->
+  <button onclick="prevSlide()" style="position:absolute; top:50%; left:10px; transform:translateY(-50%); background-color:#fff; border:none; border-radius:50%; padding:10px; cursor:pointer;">&#10094;</button>
+  <button onclick="nextSlide()" style="position:absolute; top:50%; right:10px; transform:translateY(-50%); background-color:#fff; border:none; border-radius:50%; padding:10px; cursor:pointer;">&#10095;</button>
+
+</div>
+
+<p align="center">(source: google images)</p>
+
+<script>
+let currentIndex = 0;
+const slides = document.querySelector('.slides');
+const totalSlides = slides.children.length;
+
+function showSlide(index) {
+  slides.style.transform = 'translateX(' + (-index * 100/totalSlides) + '%)';
+}
+
+function nextSlide() {
+  currentIndex = (currentIndex + 1) % totalSlides;
+  showSlide(currentIndex);
+}
+
+function prevSlide() {
+  currentIndex = (currentIndex - 1 + totalSlides) % totalSlides;
+  showSlide(currentIndex);
+}
+
+// Optional: auto-slide every 3 seconds
+setInterval(nextSlide, 3000);
+</script>
 
 
 
