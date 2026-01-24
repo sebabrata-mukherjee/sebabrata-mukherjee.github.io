@@ -87,7 +87,7 @@ if you are interested in pursuing cutting-edge research in photonics,
 condensed matter physics, quantum physics, and nonlinear dynamics.
 </p>
 
-<h2>Photo – IISc Main Building</h2>
+<h3>Photo – IISc Main Building</h3>
 
 <p align="center">
 <img src="imageN/IIScBangalore.jpeg" width="120%"/>
@@ -102,7 +102,7 @@ condensed matter physics, quantum physics, and nonlinear dynamics.
 <!--             -->
 <!--             -->
 
-<h2>Recent News</h2>
+<h3>Recent News</h3>
 
 <div style="max-height:280px; overflow-y:scroll; padding-right:10px; scrollbar-width: thin;">
   <ul>
