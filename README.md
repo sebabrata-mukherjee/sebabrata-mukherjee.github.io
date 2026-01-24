@@ -23,9 +23,13 @@
 Assistant Professor <br />
 Department of Physics <br />
 IISc Bangalore, India <br />
-Email: mukherjee[at]iisc.ac.in , mukherjeesebabrata[at]gmail.com <br />
-Phone: +91 80 2293 2065 (office)
+✉️ <a href="mailto:mukherjee@iisc.ac.in">mukherjee@iisc.ac.in</a>, 
+<!--- 
+       <a href="mailto:mukherjeesebabrata@gmail.com">mukherjeesebabrata@gmail.com</a> <br />
+       ---!>
+☎️ +91 80 2293 2065 (office)
 </p>
+
 
  <br />
 
