@@ -76,7 +76,7 @@ We are part of the Department of Physics at IISc Bangalore, India.
 We are interested in how optical states propagate along intricately designed photonic networks.
 We create such devices in our lab using femtosecond laser pulses and explore novel light-matter
 interactions with incredible precision and controllability.
-Find more details on the above tabs.
+Find more details in the above tabs.
 </strong>
 </p>
 
@@ -133,9 +133,9 @@ const totalSlides = slides.children.length;
 // Array of captions for each image
 const captions = [
   "IISc Bangalore – Main Building",
-  "Experiments: probing station",
-  "Topological Anderson phase transition",
-  "Topological edge states of photonic s-p orbitals" 
+  "Experiments: Probing Station",
+  "Topological Anderson Phase Transition",
+  "Topological Edge States of Photonic s-p Orbitals" 
 ];
 
 function showSlide(index) {
@@ -180,7 +180,7 @@ setInterval(nextSlide, 3000);
     <li>Check out our recent work on
       <a href="https://doi.org/10.1364/OPTICA.494823" target="_blank">Period-doubled Floquet solitons</a> published in <em>Optica</em>
     </li>
-    <li>IOE postdoc Dr. Shailja Sharma is joining our group. Welcome Shailja!</li>
+    <li>IOE postdoc Dr. Shailja Sharma is joining our group. Welcome, Shailja!</li>
     <li>Welcome Trideb (Int. PhD) and Avinash (PhD), new members of our group!</li>
     <li>Check out our recent work on
       <a href="https://doi.org/10.1103/PhysRevX.11.041057" target="_blank"><strong>nonlinear</strong> topological edge states</a> published in <em>Physical Review X</em>
