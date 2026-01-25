@@ -20,7 +20,6 @@ header_pages:
 - publication.md
 - talks.md
 - groupN.md
-- openpositions.md
 - contact.md
 
 number_sections: true
