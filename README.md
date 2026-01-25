@@ -20,7 +20,7 @@ TOP SINGLE-COLUMN INTRO
 
 
 <!-- LEFT COLUMN -->
-<td width="30%" valign="top" style="border:none; padding-right:30px;">
+<td width="25%" valign="top" style="border:none; padding-right:30px;">
 
 <p align="center">
     <img src="image_carousel/me-cir2.png" width="190"/>
