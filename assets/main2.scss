@@ -6,22 +6,16 @@
  */
 
 a:link {
-    text-decoration: underline;
-    color: #00bccc; 
+  text-decoration: underline;
+  color: #00bccc; 
 }
 
-$background-color: #111111; /* a dark, off-black for the bg */
-$text-color: #FFFFFF; /* an off-white for the text */
-$grey-color-light: #565656; /* for the border-top separators */
-$grey-color-dark: #FFFFFF; /* such as the site title in the header, visited */
+$background-color: #111111; /* dark, off-black for the bg */
+$text-color: #FFFFFF;       /* off-white text */
+$grey-color-light: #565656; /* for borders/separators */
+$grey-color-dark: #FFFFFF;  /* such as site title in header, visited */
 
 @import "{{ site.theme }}";
-
-
-
-
-
-
 
 /* Header Styling */
 .header-inner {
@@ -31,30 +25,43 @@ $grey-color-dark: #FFFFFF; /* such as the site title in the header, visited */
   flex-wrap: wrap;
 }
 
-
+/* Site title + tagline container */
 .site-title-container {
   flex: 1;
-  display: flex;           // stack children vertically
-  flex-direction: column;  // title on top, tagline below
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start; /* ensures left alignment */
 
   .site-title {
-    font-size: 2rem;
-    font-weight: 700;
-    color: $text-color;
+    display: flex;
+    flex-direction: column; /* stack line 1 & 2 vertically */
+    line-height: 1.1;
     text-decoration: none;
+
+    .title-line-1 {
+      font-size: 2.5rem;
+      font-weight: 700;
+      color: $text-color;
+    }
+
+    .title-line-2 {
+      font-size: 1.5rem;
+      font-weight: 400;
+      color: #cccccc;
+    }
   }
 
   .site-tagline {
-    color: $text-color;
-    font-size: 1.0rem;
     margin-top: 0.3rem;
+    font-size: 1rem;
     font-weight: 400;
     line-height: 1.4;
+    color: $text-color;
     text-align: left;
   }
 }
 
-
+/* Header logo */
 .header-logo img {
   max-height: 70px;
 }
@@ -93,8 +100,21 @@ $grey-color-dark: #FFFFFF; /* such as the site title in the header, visited */
     flex-direction: column;
     align-items: flex-start;
   }
+
   .header-logo,
   .footer-logo {
     margin-top: 1rem;
+  }
+
+  .title-line-1 {
+    font-size: 2rem;
+  }
+
+  .title-line-2 {
+    font-size: 1.2rem;
+  }
+
+  .site-tagline {
+    font-size: 0.9rem;
   }
 }
