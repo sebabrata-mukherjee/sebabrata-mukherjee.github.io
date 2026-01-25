@@ -264,7 +264,7 @@ function goToSlide(i) {
 }
 
 function startAutoSlide() {
-  interval = setInterval(next, 3000);
+  interval = setInterval(next, 4000);
 }
 
 function restartAutoSlide() {
