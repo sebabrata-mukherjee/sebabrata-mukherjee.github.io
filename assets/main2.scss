@@ -43,49 +43,80 @@ $grey-color-dark: #FFFFFF; /* such as the site title in the header, visited */
   flex-wrap: wrap;
 }
 
-/*
+/* Title + tagline container */
 .site-title-container {
   flex: 1;
-  .site-title {
-    font-size: 3rem;
-    font-weight: 700;
-    color: $text-color;
-    text-decoration: none;
-  }
-  .site-tagline {
-    color: $text-color;
-    font-size: 1.0rem;
-    margin-top: 0.3rem;
-    font-weight: 400;
-    line-height: 1.4;
-  }
-} */
-
-.site-title-container {
-  flex: 1;
-  display: flex;           // stack children vertically
-  flex-direction: column;  // title on top, tagline below
-
-  .site-title {
-    font-size: 3rem;
-    font-weight: 700;
-    color: $text-color;
-    text-decoration: none;
-  }
-
-  .site-tagline {
-    color: $text-color;
-    font-size: 1.0rem;
-    margin-top: 0.3rem;
-    font-weight: 400;
-    line-height: 1.4;
-  }
+  display: flex;
+  flex-direction: column;
 }
 
+/* Two-line site title */
+.site-title {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.1;
+  text-decoration: none;
+}
 
+/* First line: name / group */
+.title-line-1 {
+  font-size: 3rem;
+  font-weight: 700;
+  color: $text-color;
+}
+
+/* Second line: descriptor (Homepage / Group / Lab) */
+.title-line-2 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  color: #cccccc;
+}
+
+/* Tagline */
+.site-tagline {
+  margin-top: 0.3rem;
+  font-size: 1.0rem;
+  font-weight: 400;
+  line-height: 1.4;
+  color: $text-color;
+}
+
+/* Logo */
 .header-logo img {
   max-height: 70px;
 }
+
+/* Responsive adjustments */
+@media (max-width: 600px) {
+  .header-inner {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .header-logo {
+    margin-top: 1rem;
+  }
+
+  .title-line-1 {
+    font-size: 2.2rem;
+  }
+
+  .title-line-2 {
+    font-size: 1.3rem;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* Footer Styling */
 .site-footer {
@@ -111,19 +142,6 @@ $grey-color-dark: #FFFFFF; /* such as the site title in the header, visited */
 
   .footer-text {
     line-height: 1.5;
-  }
-}
-
-/* Responsive adjustments */
-@media (max-width: 600px) {
-  .header-inner,
-  .footer-inner {
-    flex-direction: column;
-    align-items: flex-start;
-  }
-  .header-logo,
-  .footer-logo {
-    margin-top: 1rem;
   }
 }
 
