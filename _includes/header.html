@@ -1,5 +1,5 @@
 <header class="site-header">
-  <div class="wrapper">
+  <div class="wrapper header-inner">
     <!-- Site Title and Tagline -->
     <div class="site-title-container">
       <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
@@ -9,9 +9,11 @@
     </div>
 
     <!-- IISc Logo -->
-    <a href="http://www.physics.iisc.ernet.in/" target="_blank">
-      <img align="right" src="imageN/iisc-logo.png" width="70">
-    </a>
+    <div class="logo-container">
+      <a href="http://www.physics.iisc.ernet.in/" target="_blank">
+        <img src="imageN/iisc-logo.png" width="70" alt="IISc Logo">
+      </a>
+    </div>
 
     <!-- Navigation -->
     {% assign default_paths = site.pages | map: "path" %}
