@@ -28,7 +28,7 @@ TOP SINGLE-COLUMN INTRO
 
 
 
-<p align="center" style="font-size:14px; line-height:1.8;">
+<p align="center" style="font-size:13px; line-height:1.8;">
     Assistant Professor <br />
     Department of Physics <br />
     IISc Bangalore, India <br />
