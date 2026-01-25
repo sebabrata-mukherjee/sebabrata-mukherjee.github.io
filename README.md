@@ -130,9 +130,10 @@ condensed matter physics, quantum physics, and nonlinear dynamics.
 </div>
 
 <!-- Caption -->
+<!--
 <p id="carousel-caption" align="center" style="margin-top:10px; font-style:italic;">
   (source: google images)
-</p>
+</p> -->
 
 
 
