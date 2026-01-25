@@ -17,18 +17,6 @@ $grey-color-dark: #FFFFFF; /* such as the site title in the header, visited */
 
 @import "{{ site.theme }}";
 
-/* Custom styling */
-/*
-.site-title-container {
-  .site-tagline {
-    color: $text-color;
-    font-size: 1.2rem;
-    margin-top: 0.3rem;
-    font-weight: 400;
-    line-height: 1.4;
-  }
-}
-*/
 
 
 
@@ -43,23 +31,6 @@ $grey-color-dark: #FFFFFF; /* such as the site title in the header, visited */
   flex-wrap: wrap;
 }
 
-/*
-.site-title-container {
-  flex: 1;
-  .site-title {
-    font-size: 3rem;
-    font-weight: 700;
-    color: $text-color;
-    text-decoration: none;
-  }
-  .site-tagline {
-    color: $text-color;
-    font-size: 1.0rem;
-    margin-top: 0.3rem;
-    font-weight: 400;
-    line-height: 1.4;
-  }
-} */
 
 .site-title-container {
   flex: 1;
@@ -67,7 +38,7 @@ $grey-color-dark: #FFFFFF; /* such as the site title in the header, visited */
   flex-direction: column;  // title on top, tagline below
 
   .site-title {
-    font-size: 3rem;
+    font-size: 2rem;
     font-weight: 700;
     color: $text-color;
     text-decoration: none;
