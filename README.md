@@ -135,7 +135,7 @@ condensed matter physics, quantum physics, and nonlinear dynamics.
 <tr>
 <td colspan="2" style="border:none; padding-top:30px;">
          
-<h3>Photos </h3>
+<!--  <h3>Photos </h3>  -->
 
 <!-- Carousel Container -->
 <div class="carousel-container" style="position:relative; width:100%; max-width:700px; margin:0 auto; overflow:hidden; border-radius:8px;">
