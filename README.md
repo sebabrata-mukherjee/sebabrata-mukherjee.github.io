@@ -36,7 +36,6 @@ TOP SINGLE-COLUMN INTRO
     📞 +91 8022932065
 </p>
 
-<br />
 
   <p align="center">
     <a href="https://scholar.google.co.uk/citations?hl=en&user=M29JjtAAAAAJ" target="_blank">
