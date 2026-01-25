@@ -54,7 +54,7 @@ TOP SINGLE-COLUMN INTRO
 <td width="28%" valign="top" style="border:none; padding-right:30px;">
 
 <p align="center">
-    <img src="image_carousel/me-cir2.png" width="190"/>
+    <img src="image_carousel/me-cir.png" width="190"/>
 </p> 
 
 
