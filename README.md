@@ -129,14 +129,109 @@ condensed matter physics, quantum physics, and nonlinear dynamics.
 
 </div>
 
-<!-- Caption -->
+
+<!-- Dots / Indicators -->
+<div id="dots" style="text-align:center; margin-top:10px;"></div>
+
+
+
+<style>
+.carousel-dot {
+  display: inline-block;
+  height: 10px;
+  width: 10px;
+  margin: 0 6px;
+  background-color: #bbb;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.carousel-dot.active {
+  background-color: #333;
+}
+</style>
+
+
+<script>
+const slides = document.getElementById("slides");
+const images = slides.children;
+const dotsContainer = document.getElementById("dots");
+
+let index = 0;
+
+// Clone first slide for seamless looping
+const firstClone = images[0].cloneNode(true);
+slides.appendChild(firstClone);
+
+const totalSlides = slides.children.length;
+
+const captions = [
+  "IISc Bangalore – Main Building",
+  "Experiments: Probing Station",
+  "Topological Anderson Phase Transition",
+  "Topological Edge States of Photonic s-p Orbitals"
+];
+
+// Create dots
+for (let i = 0; i < captions.length; i++) {
+  const dot = document.createElement("span");
+  dot.classList.add("carousel-dot");
+  dot.addEventListener("click", () => goToSlide(i));
+  dotsContainer.appendChild(dot);
+}
+
+const dots = document.querySelectorAll(".carousel-dot");
+
+function updateDots(i) {
+  dots.forEach(d => d.classList.remove("active"));
+  dots[i % dots.length].classList.add("active");
+}
+
+function updateCaption(i) {
+  document.getElementById("carousel-caption").innerText =
+    captions[i % captions.length];
+}
+
+function goToSlide(i) {
+  index = i;
+  slides.style.transition = "transform 0.5s ease-in-out";
+  slides.style.transform = `translateX(-${index * 100}%)`;
+  updateCaption(index);
+  updateDots(index);
+}
+
+function moveSlide() {
+  index++;
+  slides.style.transition = "transform 0.5s ease-in-out";
+  slides.style.transform = `translateX(-${index * 100}%)`;
+  updateCaption(index);
+  updateDots(index);
+
+  // Reset after cloned slide
+  if (index === totalSlides - 1) {
+    setTimeout(() => {
+      slides.style.transition = "none";
+      index = 0;
+      slides.style.transform = "translateX(0)";
+      updateDots(index);
+    }, 500);
+  }
+}
+
+// Initial state
+updateCaption(0);
+updateDots(0);
+
+// Auto-slide
+setInterval(moveSlide, 3000);
+</script>
+
+
+
+
+
+
 <!--
-<p id="carousel-caption" align="center" style="margin-top:10px; font-style:italic;">
-  (source: google images)
-</p> -->
-
-
-
 <script>
 const slides = document.getElementById("slides");
 const images = slides.children;
@@ -181,6 +276,8 @@ setInterval(moveSlide, 3000);
 // Initial caption
 updateCaption(0);
 </script>
+-->
+
 
 
 <!--
