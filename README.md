@@ -122,11 +122,19 @@ condensed matter physics, quantum physics, and nonlinear dynamics.
 
 
 
+<!-- end of your right column content -->
+</td>
+</tr>
 
 
 
 
 
+
+
+<tr>
+<td colspan="2" style="border:none; padding-top:30px;">
+         
 <h3>Photos </h3>
 
 <!-- Carousel Container -->
@@ -273,16 +281,14 @@ startAutoSlide();
 </script>
 
 
-
-
-
-
-
-
-
-<!-- end of your right column content -->
 </td>
 </tr>
+<!--  END of photo -->
+
+
+
+
+
 
 <!-- SINGLE-COLUMN LOGO AT THE END -->
 <tr>
