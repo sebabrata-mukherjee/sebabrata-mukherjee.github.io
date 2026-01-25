@@ -1,4 +1,26 @@
 <header class="site-header">
+  <div class="wrapper header-inner">
+    <!-- Site Title and Tagline -->
+    <div class="site-title-container">
+      <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+      {% if site.tagline %}
+        <p class="site-tagline">{{ site.tagline | escape }}</p>
+      {% endif %}
+    </div>
+
+    <!-- IISc Logo -->
+    <div class="header-logo">
+      <a href="http://www.physics.iisc.ernet.in/" target="_blank">
+        <img src="imageN/iisc-logo.png" alt="IISc Logo">
+      </a>
+    </div>
+  </div>
+</header>
+
+
+
+<!--
+<header class="site-header">
   <div class="wrapper">
     <!-- Site Title and Tagline -->
     <div class="site-title-container">
@@ -39,3 +61,5 @@
     {% endif %}
   </div>
 </header>
+
+-->
