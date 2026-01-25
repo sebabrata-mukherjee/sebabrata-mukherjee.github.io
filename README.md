@@ -153,18 +153,14 @@ condensed matter physics, quantum physics, and nonlinear dynamics.
 
 
 <script>
-const slides = document.getElementById("slides");
-const images = slides.children;
-const dotsContainer = document.getElementById("dots");
+const slides = document.querySelector('.slides');
+const dotsContainer = document.getElementById('dots');
+const caption = document.getElementById('carousel-caption');
 
 let index = 0;
+let interval;
 
-// Clone first slide for seamless looping
-const firstClone = images[0].cloneNode(true);
-slides.appendChild(firstClone);
-
-const totalSlides = slides.children.length;
-
+// Captions
 const captions = [
   "IISc Bangalore – Main Building",
   "Experiments: Probing Station",
@@ -172,61 +168,61 @@ const captions = [
   "Topological Edge States of Photonic s-p Orbitals"
 ];
 
+// Clone first slide
+const firstClone = slides.children[0].cloneNode(true);
+slides.appendChild(firstClone);
+
 // Create dots
 for (let i = 0; i < captions.length; i++) {
-  const dot = document.createElement("span");
-  dot.classList.add("carousel-dot");
-  dot.addEventListener("click", () => goToSlide(i));
+  const dot = document.createElement('span');
+  dot.className = 'carousel-dot';
+  dot.addEventListener('click', () => goToSlide(i));
   dotsContainer.appendChild(dot);
 }
+const dots = document.querySelectorAll('.carousel-dot');
 
-const dots = document.querySelectorAll(".carousel-dot");
-
-function updateDots(i) {
-  dots.forEach(d => d.classList.remove("active"));
-  dots[i % dots.length].classList.add("active");
-}
-
-function updateCaption(i) {
-  document.getElementById("carousel-caption").innerText =
-    captions[i % captions.length];
-}
-
-function goToSlide(i) {
-  index = i;
-  slides.style.transition = "transform 0.5s ease-in-out";
+function updateUI() {
   slides.style.transform = `translateX(-${index * 100}%)`;
-  updateCaption(index);
-  updateDots(index);
+  caption.innerText = captions[index % captions.length];
+  dots.forEach(d => d.classList.remove('active'));
+  dots[index % dots.length].classList.add('active');
 }
 
-function moveSlide() {
+function next() {
   index++;
-  slides.style.transition = "transform 0.5s ease-in-out";
-  slides.style.transform = `translateX(-${index * 100}%)`;
-  updateCaption(index);
-  updateDots(index);
+  slides.style.transition = 'transform 0.5s ease-in-out';
+  updateUI();
 
-  // Reset after cloned slide
-  if (index === totalSlides - 1) {
+  // Loop reset
+  if (index === slides.children.length - 1) {
     setTimeout(() => {
-      slides.style.transition = "none";
+      slides.style.transition = 'none';
       index = 0;
-      slides.style.transform = "translateX(0)";
-      updateDots(index);
+      updateUI();
     }, 500);
   }
 }
 
-// Initial state
-updateCaption(0);
-updateDots(0);
+function goToSlide(i) {
+  index = i;
+  slides.style.transition = 'transform 0.5s ease-in-out';
+  updateUI();
+  restartAutoSlide();
+}
 
-// Auto-slide
-setInterval(moveSlide, 3000);
+function startAutoSlide() {
+  interval = setInterval(next, 3000);
+}
+
+function restartAutoSlide() {
+  clearInterval(interval);
+  startAutoSlide();
+}
+
+// Initialize
+updateUI();
+startAutoSlide();
 </script>
-
-
 
 
 
