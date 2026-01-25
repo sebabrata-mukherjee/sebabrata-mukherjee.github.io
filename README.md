@@ -102,15 +102,6 @@ condensed matter physics, quantum physics, and nonlinear dynamics.
 
 
 
-  <!-- Slides -->
-   <!--
-   <div class="slides" style="display:flex; transition:transform 0.5s ease-in-out; width:400%;">
-    <img src="image_carousel/IIScBangalore.jpeg" style="width:25%; flex-shrink:0;" />
-    <img src="image_carousel/Char_setup.jpg" style="width:25%; flex-shrink:0;" />
-    <img src="image_carousel/TopoAndersonPhase.jpg" style="width:25%; flex-shrink:0;" />
-    <img src="image_carousel/sp_2.jpg" style="width:25%; flex-shrink:0;" />
-  </div>  -->
-
 
 <div class="slides" id="slides"
      style="display:flex; transition:transform 0.5s ease-in-out;">
@@ -124,8 +115,18 @@ condensed matter physics, quantum physics, and nonlinear dynamics.
 
 
 <!-- Navigation Buttons -->
-  <button onclick="prevSlide()" style="position:absolute; top:50%; left:10px; transform:translateY(-50%); background-color:#fff; border:none; border-radius:50%; padding:10px; cursor:pointer;">&#10094;</button>
-  <button onclick="nextSlide()" style="position:absolute; top:50%; right:10px; transform:translateY(-50%); background-color:#fff; border:none; border-radius:50%; padding:10px; cursor:pointer;">&#10095;</button>
+ <!-- <button onclick="prevSlide()" style="position:absolute; top:50%; left:10px; transform:translateY(-50%); background-color:#fff; border:none; border-radius:50%; padding:10px; cursor:pointer;">&#10094;</button>
+  <button onclick="nextSlide()" style="position:absolute; top:50%; right:10px; transform:translateY(-50%); background-color:#fff; border:none; border-radius:50%; padding:10px; cursor:pointer;">&#10095;</button> -->
+
+<button onclick="prev()" style="position:absolute; top:50%; left:10px; transform:translateY(-50%);
+background-color:#fff; border:none; border-radius:50%; padding:10px; cursor:pointer;">
+&#10094;
+</button>
+
+<button onclick="next()" style="position:absolute; top:50%; right:10px; transform:translateY(-50%);
+background-color:#fff; border:none; border-radius:50%; padding:10px; cursor:pointer;">
+&#10095;
+</button>
 
 </div>
 
@@ -133,6 +134,9 @@ condensed matter physics, quantum physics, and nonlinear dynamics.
 <!-- Dots / Indicators -->
 <div id="dots" style="text-align:center; margin-top:10px;"></div>
 
+<p id="carousel-caption" align="center"
+   style="margin-top:6px; font-style:italic;">
+</p>
 
 
 <style>
@@ -169,14 +173,13 @@ const captions = [
 ];
 
 // Clone first slide
-const firstClone = slides.children[0].cloneNode(true);
-slides.appendChild(firstClone);
+slides.appendChild(slides.children[0].cloneNode(true));
 
 // Create dots
 for (let i = 0; i < captions.length; i++) {
   const dot = document.createElement('span');
   dot.className = 'carousel-dot';
-  dot.addEventListener('click', () => goToSlide(i));
+  dot.onclick = () => goToSlide(i);
   dotsContainer.appendChild(dot);
 }
 const dots = document.querySelectorAll('.carousel-dot');
@@ -184,6 +187,7 @@ const dots = document.querySelectorAll('.carousel-dot');
 function updateUI() {
   slides.style.transform = `translateX(-${index * 100}%)`;
   caption.innerText = captions[index % captions.length];
+
   dots.forEach(d => d.classList.remove('active'));
   dots[index % dots.length].classList.add('active');
 }
@@ -193,7 +197,6 @@ function next() {
   slides.style.transition = 'transform 0.5s ease-in-out';
   updateUI();
 
-  // Loop reset
   if (index === slides.children.length - 1) {
     setTimeout(() => {
       slides.style.transition = 'none';
@@ -201,6 +204,19 @@ function next() {
       updateUI();
     }, 500);
   }
+}
+
+function prev() {
+  if (index === 0) {
+    slides.style.transition = 'none';
+    index = slides.children.length - 2;
+    slides.style.transform = `translateX(-${index * 100}%)`;
+  }
+  setTimeout(() => {
+    slides.style.transition = 'transform 0.5s ease-in-out';
+    index--;
+    updateUI();
+  }, 20);
 }
 
 function goToSlide(i) {
@@ -219,7 +235,7 @@ function restartAutoSlide() {
   startAutoSlide();
 }
 
-// Initialize
+// Init
 updateUI();
 startAutoSlide();
 </script>
