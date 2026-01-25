@@ -1,5 +1,6 @@
 ---
 ---
+
 /*
  * assets/main.scss
  * the dashed lines above are required
@@ -15,4 +16,30 @@ $text-color: #FFFFFF; /* an off-white for the text */
 $grey-color-light: #565656; /* for the border-top separators */
 $grey-color-dark: #FFFFFF; /* such as the site title in the header, visited */
 
+/* Site title + tagline styling */
+.site-title-container {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.site-title {
+  font-size: 2rem;   /* big title */
+  font-weight: 700;
+  margin: 0;
+  color: $text-color; 
+}
+
+.site-tagline {
+  font-size: 1.1rem; /* smaller tagline */
+  font-weight: 300;
+  color: $grey-color-light;
+  margin: 0;
+}
+
+/* Optional: add some spacing between logo and title/tagline if needed */
+.site-header .wrapper > .site-title-container {
+  margin-right: 10px;
+}
+
 @import "{{ site.theme }}";
+
