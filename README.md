@@ -101,12 +101,10 @@ TOP SINGLE-COLUMN INTRO
 
 <p>
 <strong>
-Welcome to our research group!
-We are part of the Department of Physics at IISc Bangalore, India.
-We are interested in how optical states propagate along intricately designed photonic networks.
-We create such devices in our lab using femtosecond laser pulses and explore novel light-matter
-interactions with incredible precision and controllability.
-Find more details in the above tabs.
+<!-- Welcome to our research group! We are part of the Department of Physics at IISc Bangalore. -->
+Welcome to our research group at the Department of Physics, IISc Bangalore. We explore how optical states propagate  in carefully engineered photonic networks.
+<!-- We are interested in how optical states propagate along intricately designed photonic networks. -->
+We create such devices in our lab using femtosecond laser pulses and investigate novel light-matter interactions with incredible precision and controllability. Find more details in the above tabs. 
 </strong>
 </p>
 
