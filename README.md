@@ -100,15 +100,30 @@ condensed matter physics, quantum physics, and nonlinear dynamics.
 <!-- Carousel Container -->
 <div class="carousel-container" style="position:relative; width:100%; max-width:800px; margin:0 auto; overflow:hidden; border-radius:8px;">
 
+
+
   <!-- Slides -->
-  <div class="slides" style="display:flex; transition:transform 0.5s ease-in-out; width:400%;">
+   <!--
+   <div class="slides" style="display:flex; transition:transform 0.5s ease-in-out; width:400%;">
     <img src="image_carousel/IIScBangalore.jpeg" style="width:25%; flex-shrink:0;" />
     <img src="image_carousel/Char_setup.jpg" style="width:25%; flex-shrink:0;" />
     <img src="image_carousel/TopoAndersonPhase.jpg" style="width:25%; flex-shrink:0;" />
     <img src="image_carousel/sp_2.jpg" style="width:25%; flex-shrink:0;" />
-  </div>
+  </div>  -->
 
-  <!-- Navigation Buttons -->
+
+<div class="slides" id="slides"
+     style="display:flex; transition:transform 0.5s ease-in-out;">
+  <img src="image_carousel/IIScBangalore.jpeg" style="width:100%; flex-shrink:0;" />
+  <img src="image_carousel/Char_setup.jpg" style="width:100%; flex-shrink:0;" />
+  <img src="image_carousel/TopoAndersonPhase.jpg" style="width:100%; flex-shrink:0;" />
+  <img src="image_carousel/sp_2.jpg" style="width:100%; flex-shrink:0;" />
+</div>
+
+
+
+
+<!-- Navigation Buttons -->
   <button onclick="prevSlide()" style="position:absolute; top:50%; left:10px; transform:translateY(-50%); background-color:#fff; border:none; border-radius:50%; padding:10px; cursor:pointer;">&#10094;</button>
   <button onclick="nextSlide()" style="position:absolute; top:50%; right:10px; transform:translateY(-50%); background-color:#fff; border:none; border-radius:50%; padding:10px; cursor:pointer;">&#10095;</button>
 
@@ -119,6 +134,55 @@ condensed matter physics, quantum physics, and nonlinear dynamics.
   (source: google images)
 </p>
 
+
+
+<script>
+const slides = document.getElementById("slides");
+const images = slides.children;
+let index = 0;
+
+// Clone first slide for seamless looping
+const firstClone = images[0].cloneNode(true);
+slides.appendChild(firstClone);
+
+const totalSlides = slides.children.length;
+const captions = [
+  "IISc Bangalore – Main Building",
+  "Experiments: Probing Station",
+  "Topological Anderson Phase Transition",
+  "Topological Edge States of Photonic s-p Orbitals"
+];
+
+function updateCaption(i) {
+  document.getElementById("carousel-caption").innerText =
+    captions[i % captions.length];
+}
+
+function moveSlide() {
+  index++;
+  slides.style.transition = "transform 0.5s ease-in-out";
+  slides.style.transform = `translateX(-${index * 100}%)`;
+  updateCaption(index);
+
+  // When reaching cloned slide
+  if (index === totalSlides - 1) {
+    setTimeout(() => {
+      slides.style.transition = "none";
+      index = 0;
+      slides.style.transform = "translateX(0)";
+    }, 500);
+  }
+}
+
+// Auto-slide every 3 seconds
+setInterval(moveSlide, 3000);
+
+// Initial caption
+updateCaption(0);
+</script>
+
+
+<!--
 <script>
 let currentIndex = 0;
 const slides = document.querySelector('.slides');
@@ -153,7 +217,7 @@ showSlide(currentIndex);
 // Auto-slide every 3 seconds
 setInterval(nextSlide, 3000);
 </script>
-
+-->
 
 
 
