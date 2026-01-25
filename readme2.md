@@ -102,14 +102,6 @@ condensed matter physics, quantum physics, and nonlinear dynamics.
 
 
 
-  <!-- Slides -->
-   <!--
-   <div class="slides" style="display:flex; transition:transform 0.5s ease-in-out; width:400%;">
-    <img src="image_carousel/IIScBangalore.jpeg" style="width:25%; flex-shrink:0;" />
-    <img src="image_carousel/Char_setup.jpg" style="width:25%; flex-shrink:0;" />
-    <img src="image_carousel/TopoAndersonPhase.jpg" style="width:25%; flex-shrink:0;" />
-    <img src="image_carousel/sp_2.jpg" style="width:25%; flex-shrink:0;" />
-  </div>  -->
 
 
 <div class="slides" id="slides"
@@ -121,25 +113,41 @@ condensed matter physics, quantum physics, and nonlinear dynamics.
 </div>
 
 
-
-
 <!-- Navigation Buttons -->
   <button onclick="prevSlide()" style="position:absolute; top:50%; left:10px; transform:translateY(-50%); background-color:#fff; border:none; border-radius:50%; padding:10px; cursor:pointer;">&#10094;</button>
   <button onclick="nextSlide()" style="position:absolute; top:50%; right:10px; transform:translateY(-50%); background-color:#fff; border:none; border-radius:50%; padding:10px; cursor:pointer;">&#10095;</button>
 
 </div>
 
-<!-- Caption -->
-<!--
-<p id="carousel-caption" align="center" style="margin-top:10px; font-style:italic;">
-  (source: google images)
-</p> -->
+
+<!-- Dots / Indicators -->
+<div id="dots" style="text-align:center; margin-top:10px;"></div>
+
+
+
+<style>
+.carousel-dot {
+  display: inline-block;
+  height: 10px;
+  width: 10px;
+  margin: 0 6px;
+  background-color: #bbb;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.carousel-dot.active {
+  background-color: #333;
+}
+</style>
 
 
 
 <script>
 const slides = document.getElementById("slides");
 const images = slides.children;
+const dotsContainer = document.getElementById("dots");
+
 let index = 0;
 
 // Clone first slide for seamless looping
@@ -147,6 +155,7 @@ const firstClone = images[0].cloneNode(true);
 slides.appendChild(firstClone);
 
 const totalSlides = slides.children.length;
+
 const captions = [
   "IISc Bangalore – Main Building",
   "Experiments: Probing Station",
@@ -154,9 +163,32 @@ const captions = [
   "Topological Edge States of Photonic s-p Orbitals"
 ];
 
+// Create dots
+for (let i = 0; i < captions.length; i++) {
+  const dot = document.createElement("span");
+  dot.classList.add("carousel-dot");
+  dot.addEventListener("click", () => goToSlide(i));
+  dotsContainer.appendChild(dot);
+}
+
+const dots = document.querySelectorAll(".carousel-dot");
+
+function updateDots(i) {
+  dots.forEach(d => d.classList.remove("active"));
+  dots[i % dots.length].classList.add("active");
+}
+
 function updateCaption(i) {
   document.getElementById("carousel-caption").innerText =
     captions[i % captions.length];
+}
+
+function goToSlide(i) {
+  index = i;
+  slides.style.transition = "transform 0.5s ease-in-out";
+  slides.style.transform = `translateX(-${index * 100}%)`;
+  updateCaption(index);
+  updateDots(index);
 }
 
 function moveSlide() {
@@ -164,61 +196,26 @@ function moveSlide() {
   slides.style.transition = "transform 0.5s ease-in-out";
   slides.style.transform = `translateX(-${index * 100}%)`;
   updateCaption(index);
+  updateDots(index);
 
-  // When reaching cloned slide
+  // Reset after cloned slide
   if (index === totalSlides - 1) {
     setTimeout(() => {
       slides.style.transition = "none";
       index = 0;
       slides.style.transform = "translateX(0)";
+      updateDots(index);
     }, 500);
   }
 }
 
-// Auto-slide every 3 seconds
-setInterval(moveSlide, 3000);
-
-// Initial caption
+// Initial state
 updateCaption(0);
+updateDots(0);
+
+// Auto-slide
+setInterval(moveSlide, 3000);
 </script>
-
-
-<!--
-<script>
-let currentIndex = 0;
-const slides = document.querySelector('.slides');
-const totalSlides = slides.children.length;
-
-// Array of captions for each image
-const captions = [
-  "IISc Bangalore – Main Building",
-  "Experiments: Probing Station",
-  "Topological Anderson Phase Transition",
-  "Topological Edge States of Photonic s-p Orbitals" 
-];
-
-function showSlide(index) {
-  slides.style.transform = 'translateX(' + (-index * 100/totalSlides) + '%)';
-  document.getElementById('carousel-caption').innerText = captions[index];
-}
-
-function nextSlide() {
-  currentIndex = (currentIndex + 1) % totalSlides;
-  showSlide(currentIndex);
-}
-
-function prevSlide() {
-  currentIndex = (currentIndex - 1 + totalSlides) % totalSlides;
-  showSlide(currentIndex);
-}
-
-// Initial caption
-showSlide(currentIndex);
-
-// Auto-slide every 3 seconds
-setInterval(nextSlide, 3000);
-</script>
--->
 
 
 
