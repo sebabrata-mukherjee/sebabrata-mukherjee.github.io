@@ -97,7 +97,7 @@ condensed matter physics, quantum physics, and nonlinear dynamics.
 
 <h3>Recent News</h3>
 
-<div style="max-height:200px; overflow-y:scroll; padding-right:10px; scrollbar-width: thin;">
+<div style="max-height:220px; overflow-y:scroll; padding-right:10px; scrollbar-width: thin;">
   <ul>
     <li>Check out our recent work on
       <a href="https://doi.org/10.1103/9jjd-vbp1" target="_blank">Topological Anderson Transition</a>
