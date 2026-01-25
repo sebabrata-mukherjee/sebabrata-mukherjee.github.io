@@ -14,6 +14,37 @@ TOP SINGLE-COLUMN INTRO
 
 
 
+
+
+<style>
+/* ---------- Mobile-friendly layout ---------- */
+@media screen and (max-width: 768px) {
+
+  table {
+    width: 100% !important;
+  }
+
+  table tr {
+    display: block;
+  }
+
+  table td {
+    display: block;
+    width: 100% !important;
+    padding: 0 !important;
+  }
+
+  /* Optional: center left-column content on mobile */
+  table td:first-child {
+    text-align: center;
+    padding-bottom: 20px !important;
+  }
+}
+</style>
+
+
+
+
 <!--             -->
 <!-- LEFT COLUMN -->
 <!--             -->
