@@ -63,7 +63,7 @@ TOP SINGLE-COLUMN INTRO
     Assistant Professor <br />
     Department of Physics <br />
     IISc Bangalore, India <br />
-    ✉️ <a href="mailto:mukherjee@iisc.ac.in">mukherjee@iisc.ac.in</a><br />
+    ✉️ <a href="mailto:mukherjee@iisc.ac.in">mukherjee[at]iisc.ac.in</a><br />
     📞 +91 8022932065
 </p>
 
