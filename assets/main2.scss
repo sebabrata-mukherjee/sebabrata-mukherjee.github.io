@@ -119,6 +119,8 @@ $grey-color-dark: #FFFFFF;  /* such as site title in header, visited */
   }
 }
 
+
+
 /* Contact page map responsiveness */
 .contact-map {
   float: right;
@@ -126,9 +128,6 @@ $grey-color-dark: #FFFFFF;  /* such as site title in header, visited */
   margin-left: 20px;
   margin-bottom: 20px;
 }
-
-
-
 
 @media (max-width: 768px) {
   .contact-map {
