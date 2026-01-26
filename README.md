@@ -104,10 +104,12 @@ TOP SINGLE-COLUMN INTRO
 <h4 style="margin-top: 0;">At the frontier of topological photonics and laser-written devices</h4>
 -->
 
+<!--
 <h2 style="margin-bottom:0.2em; color:#0B1F3A;">Topo-Photonics Group</h2>
 <h4 style="margin-top:0; color:#5A6B7B;">
- <!-- At the frontier of laser-written 3D photonic devices -->
+ At the frontier of laser-written 3D photonic devices
 </h4>
+ -->
 
 
 <p>
