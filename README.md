@@ -64,7 +64,7 @@ TOP SINGLE-COLUMN INTRO
     Department of Physics <br />
     IISc Bangalore, India <br />
     ✉️ <a href="mailto:mukherjee@iisc.ac.in">mukherjee[at]iisc.ac.in</a><br />
-    📞 +91 8022932065
+    <span style="color: gray;">📞</span> +91 8022932065
 </p>
 
 
