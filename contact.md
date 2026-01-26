@@ -1,16 +1,13 @@
 ### Contacts
 
-
-<div class="contact-map" style="float: right; width: 300px; margin-left: 20px; margin-bottom: 20px;">
+<div class="contact-map">
   <iframe
-    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.631102590003!2d77.5649536!3d13.0218597!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae17d757d11bfb%3A0x3fc1cd64d345c13f!2sIndian%20Institute%20of%20Science!5e0!3m2!1sen!2sin!4v0000000000"
-    width="100%"
-    height="220"
-    style="border:0; border-radius: 8px;"
+    src="https://www.google.com/maps/embed?pb=..."
     loading="lazy"
     referrerpolicy="no-referrer-when-downgrade">
   </iframe>
 </div>
+
 
 
 ### Office address
