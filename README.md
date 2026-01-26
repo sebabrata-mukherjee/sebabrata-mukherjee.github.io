@@ -106,7 +106,7 @@ TOP SINGLE-COLUMN INTRO
 
 <h2 style="margin-bottom:0.2em; color:#0B1F3A;">Topo-Photonics Group</h2>
 <h4 style="margin-top:0; color:#5A6B7B;">
-  At the frontier of  topological photonics, nonlinear and quantum optics
+ <!-- At the frontier of laser-written 3D photonic devices -->
 </h4>
 
 
