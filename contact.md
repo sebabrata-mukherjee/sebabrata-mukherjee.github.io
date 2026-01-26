@@ -1,8 +1,6 @@
 ### Contacts
 
-<!--
-<a href="http://www.physics.iisc.ernet.in" target="_blank"><img align="right" src="imageN/iisc-logo.png" width="220"/></a> 
--->
+
 <div style="float: right; width: 300px; margin-left: 20px; margin-bottom: 20px;">
   <iframe
     src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.631102590003!2d77.5649536!3d13.0218597!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae17d757d11bfb%3A0x3fc1cd64d345c13f!2sIndian%20Institute%20of%20Science!5e0!3m2!1sen!2sin!4v0000000000"
@@ -36,30 +34,6 @@ Karnataka, 560012 India
 <a href="https://iisc.ac.in/" target="_blank">**IISc Homepage**</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="http://www.physics.iisc.ac.in/" target="_blank">**Department of Physics**</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://iisc.ac.in/about/general-information/how-to-reach-iisc/" target="_blank">**How to reach IISc**</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-<!--
-Map<br />
-<a href="https://www.google.co.in/maps/place/Indian+Institute+of+Science/@13.0218597,77.5649536,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae17d757d11bfb:0x3fc1cd64d345c13f!8m2!3d13.0218597!4d77.5671423?hl=en-GB" target="_blank"><img src="imageN/map2.png" width="750"/></a>
--->
-
-
-<!--
-### Map
-
-<div style="max-width: 900px; margin: 0 auto;">
-  <iframe 
-    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3886.631102590003!2d77.5649536!3d13.0218597!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae17d757d11bfb%3A0x3fc1cd64d345c13f!2sIndian%20Institute%20of%20Science!5e0!3m2!1sen!2sin!4v0000000000"
-    width="100%"
-    height="420"
-    style="border:0; border-radius: 8px;"
-    allowfullscreen=""
-    loading="lazy"
-    referrerpolicy="no-referrer-when-downgrade">
-  </iframe>
-</div>
--->
-
 
 
 
