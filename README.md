@@ -99,8 +99,15 @@ TOP SINGLE-COLUMN INTRO
 <td width="72%" valign="top"
     style="border:none; padding-left:30px;">
 
-<h3 style="margin-bottom: 0.2em;">Topo-Photonics Group</h3>
+<!---
+<h2 style="margin-bottom: 0.2em;">Topo-Photonics Group</h2> 
 <h4 style="margin-top: 0;">At the frontier of topological photonics and laser-written devices</h4>
+-->
+
+<h2 style="margin-bottom:0.2em; color:#0B1F3A;">Topo-Photonics Group</h2>
+<h4 style="margin-top:0; color:#5A6B7B;">
+  At the frontier of topological photonics and laser-written devices
+</h4>
 
 
 <p>
