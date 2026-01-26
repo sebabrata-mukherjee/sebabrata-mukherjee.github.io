@@ -99,12 +99,13 @@ TOP SINGLE-COLUMN INTRO
 <td width="72%" valign="top"
     style="border:none; padding-left:30px;">
 
+<h3 style="margin-bottom: 0.2em;">Topo-Photonics Group</h3>
+<h4 style="margin-top: 0;">At the frontier of topological photonics and laser-written devices</h4>
+
+
 <p>
 <strong>
-<!-- Welcome to our research group! We are part of the Department of Physics at IISc Bangalore. -->
-Welcome to our research group at the Department of Physics, IISc Bangalore. We explore how optical states propagate  in carefully engineered photonic networks.
-<!-- We are interested in how optical states propagate along intricately designed photonic networks. -->
-We create such devices in our lab using femtosecond laser pulses and investigate novel light-matter interactions with incredible precision and controllability. Find more details in the above tabs. 
+Welcome to our research group at the Department of Physics, IISc Bangalore. We explore how optical states propagate  in carefully engineered photonic networks. We create such devices in our lab using femtosecond laser pulses and investigate novel light-matter interactions with incredible precision and controllability. Find more details in the above tabs. 
 </strong>
 </p>
 
