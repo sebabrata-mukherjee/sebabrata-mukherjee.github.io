@@ -146,3 +146,29 @@ $grey-color-dark: #FFFFFF;  /* such as site title in header, visited */
 
 
 
+
+/* Default desktop behavior */
+.float-right {
+  float: right;
+  margin-left: 15px;
+  margin-bottom: 10px;
+}
+
+.float-left {
+  float: left;
+  margin-right: 15px;
+  margin-bottom: 10px;
+}
+
+/* Mobile override */
+@media (max-width: 768px) {
+  .float-right,
+  .float-left {
+    float: none;
+    display: block;
+    margin: 10px auto;
+    max-width: 90%;
+  }
+}
+
+
