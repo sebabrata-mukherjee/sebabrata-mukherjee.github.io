@@ -147,27 +147,39 @@ $grey-color-dark: #FFFFFF;  /* such as site title in header, visited */
 
 
 
-/* Default desktop behavior */
-.float-right {
-  float: right;
-  margin-left: 15px;
-  margin-bottom: 10px;
+
+
+
+/* ===== Research page row/column layout ===== */
+
+.section-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 24px;
+  margin: 2.5rem 0;
 }
 
-.float-left {
-  float: left;
-  margin-right: 15px;
-  margin-bottom: 10px;
+.section-text {
+  flex: 1;
 }
 
-/* Mobile override */
+.section-fig {
+  flex: 0 0 auto;
+}
+
+.section-fig img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Mobile: stack vertically */
 @media (max-width: 768px) {
-  .float-right,
-  .float-left {
-    float: none;
-    display: block;
-    margin: 10px auto;
-    max-width: 90%;
+  .section-row {
+    flex-direction: column;
+  }
+
+  .section-fig {
+    text-align: center;
   }
 }
 
