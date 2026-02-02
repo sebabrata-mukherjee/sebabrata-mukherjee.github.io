@@ -4,7 +4,7 @@
   <tr>
     <td align="center">
       <img src="imageN/Photo_Galary/KThyagarajan.jpeg" width="370"/><br/>
-      Visit by Prof. K. Thyagarajan, IIT Delhi
+      Visit by Prof. K. Thyagarajan, IIT Delhi (2026)
     </td>
     <td align="center">
       <img src="imageN/Photo_Galary/Bhoomija_poster2024.jpeg" width="310"/><br/>
