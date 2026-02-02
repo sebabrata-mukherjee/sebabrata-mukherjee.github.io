@@ -6,7 +6,7 @@
     </td>
     <td align="center">
       <img src="imageN/Photo_Galary/Bhoomija_poster2024.jpeg" width="310"/><br/>
-      Bhoomija receiving poster award at WOPI 2024, IIT Bombay
+      Bhoomija, WOPI 2024 poster award, IIT Bombay
     </td>
   </tr>
 
