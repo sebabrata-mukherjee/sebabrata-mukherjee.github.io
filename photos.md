@@ -4,7 +4,7 @@
 
 
 <img src="imageN/Photo_Galary/KThyagarajan.jpeg" width="500"/>  <br/>
-Probing stations
+Visit by Prof. K. Thyagarajan, IIT Delhi
 
 <img src="imageN/Photo_Galary/Char.jpg" width="400"/>  <br/>
 Probing stations
