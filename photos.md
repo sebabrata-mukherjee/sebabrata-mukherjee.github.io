@@ -1,4 +1,6 @@
-<table>
+### Photo gallery
+
+<table border="0">
   <tr>
     <td align="center">
       <img src="imageN/Photo_Galary/KThyagarajan.jpeg" width="370"/><br/>
@@ -6,14 +8,14 @@
     </td>
     <td align="center">
       <img src="imageN/Photo_Galary/Bhoomija_poster2024.jpeg" width="310"/><br/>
-      Bhoomija, WOPI 2024 poster award, IIT Bombay
+      Bhoomija – WOPI 2024 poster award
     </td>
   </tr>
 
   <tr>
     <td align="center">
       <img src="imageN/Photo_Galary/Char.jpg" width="210"/><br/>
-      Probing stations 
+      Probing stations
     </td>
     <td align="center">
       <img src="imageN/Photo_Galary/lab-avinash.jpg" width="350"/><br/>
@@ -39,6 +41,21 @@
     </td>
   </tr>
 </table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--
 ### Photo gallery
