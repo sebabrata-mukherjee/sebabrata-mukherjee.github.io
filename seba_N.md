@@ -76,14 +76,14 @@ TOP SINGLE-COLUMN INTRO
     Dr. Sebabrata Mukherjee
   </p>
 
-  <h4 style="margin-bottom:6px;">Education</h3>
+  <h4 style="margin-bottom:6px;">Education</h4>
   <ul style="margin-top:0; line-height:1.7;">
     <li>Ph.D. Physics, Heriot-Watt University, Edinburgh, UK (2016)</li>
     <li>M.Sc. Physics, IIT Delhi, New Delhi, India (2012)</li>
     <li>B.Sc. Physics (Hons), University of Calcutta, India (2010)</li>
   </ul>
 
-  <h4 style="margin-bottom:6px;">Employment</h3>
+  <h4 style="margin-bottom:6px;">Employment</h4>
   <ul style="margin-top:0; line-height:1.7;">
     <li>Assistant Professor, IISc Bangalore, India</li>
     <li>Postdoctoral Scholar, Pennsylvania State University, PA, USA</li>
