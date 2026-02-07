@@ -78,28 +78,26 @@ TOP SINGLE-COLUMN INTRO
 <!-- RIGHT COLUMN -->
 <td width="72%" valign="top" style="border:none; padding-left:30px;">
 
-  <!--<p style="font-size:24px; font-weight:bold; margin-top:0; margin-bottom:14px;"> -->
   <p style="font-size:24px; font-weight:bold; margin:0 0 8px 0;">
     Dr. Sebabrata Mukherjee
   </p>
 
-  <h4 style="margin-bottom:6px;">Education</h4>
-  <!--<ul style="margin-top:0; line-height:1.7;"> -->
+  <h4 style="margin:10px 0 4px 0;">Education</h4>
   <ul style="margin:4px 0 10px 18px; line-height:1.4;">
     <li>Ph.D. Physics, Heriot-Watt University, Edinburgh, UK (2016)</li>
     <li>M.Sc. Physics, IIT Delhi, New Delhi, India (2012)</li>
     <li>B.Sc. Physics (Hons), University of Calcutta, India (2010)</li>
   </ul>
 
-  <h4 style="margin-bottom:6px;">Employment</h4>
-  <ul style="margin-top:0; line-height:1.7;">
+  <h4 style="margin:10px 0 4px 0;">Employment</h4>
+  <ul style="margin:4px 0 10px 18px; line-height:1.4;">
     <li>Assistant Professor, IISc Bangalore, India</li>
     <li>Postdoctoral Scholar, Pennsylvania State University, PA, USA</li>
     <li>Research Associate, Heriot-Watt University, Edinburgh, UK</li>
     <li>Project Associate, IIT Delhi, India</li>
   </ul>
 
-  <p style="line-height:1.8; text-align:justify;">
+  <p style="line-height:1.55; margin-top:6px; text-align:justify;">
     Sebabrata Mukherjee completed his Ph.D. at Heriot-Watt University, Edinburgh,
     working on experimental simulation of solid-state phenomena in photonic
     structures. He was awarded
@@ -117,8 +115,9 @@ TOP SINGLE-COLUMN INTRO
     matter physics. In 2024, he received the Infosys Young Investigator Award.
   </p>
 
-
 </td>
+
+
 </tr>
 
 <!-- SINGLE-COLUMN LOGO AT THE END -->
