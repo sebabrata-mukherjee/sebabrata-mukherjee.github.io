@@ -4,11 +4,6 @@ TOP SINGLE-COLUMN INTRO
 </div>
 -->
 
-<!-- TWO-COLUMN SECTION -->
-<table width="100%" border="0" cellspacing="0" cellpadding="0"
-       style="border-collapse:collapse; border:none; background-color: transparent;">
-<tr style="border:none;">
-
 <style>
 /* ---------- Mobile-friendly layout ---------- */
 @media screen and (max-width: 768px) {
@@ -33,6 +28,17 @@ TOP SINGLE-COLUMN INTRO
   }
 }
 </style>
+
+
+
+
+
+
+<!-- TWO-COLUMN SECTION -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0"
+       style="border-collapse:collapse; border:none; background-color: transparent;">
+<tr style="border:none;">
+
 
 <!-- LEFT COLUMN -->
 <td width="28%" valign="top" style="border:none; padding-right:30px;">
