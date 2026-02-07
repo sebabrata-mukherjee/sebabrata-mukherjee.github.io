@@ -78,7 +78,7 @@ TOP SINGLE-COLUMN INTRO
 <!-- RIGHT COLUMN -->
 <td width="72%" valign="top" style="border:none; padding-left:30px;">
 
-  <p style="font-size:24px; font-weight:bold; margin:0 0 8px 0;">
+  <p style="font-size:22px; font-weight:bold; margin:0 0 8px 0;">
     Dr. Sebabrata Mukherjee
   </p>
 
