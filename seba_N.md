@@ -99,9 +99,6 @@ TOP SINGLE-COLUMN INTRO
       the 2016 MacFarlane Prize
     </a>
     for the most outstanding research contribution at the University.
-  </p>
-
-  <p style="line-height:1.8; text-align:justify;">
     He has previously worked as a Research Associate at Heriot-Watt University
     and as a Postdoctoral Scholar at Pennsylvania State University, USA.
     He is currently an Assistant Professor in the
