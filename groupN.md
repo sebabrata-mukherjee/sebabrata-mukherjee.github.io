@@ -9,7 +9,7 @@
 
 </div>
 
-PI: Sebabrata Mukherjee <a href="https://sebabrata-mukherjee.github.io/seba.html" target="_blank">(brief CV)</a> <br/>
+PI: Sebabrata Mukherjee <a href="https://sebabrata-mukherjee.github.io/seba_N.html" target="_blank">(brief CV)</a> <br/>
 Email: mukherjee@iisc.ac.in <br />
 Phone: +91 80 2293 2065 (office)
 
