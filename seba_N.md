@@ -112,14 +112,6 @@ TOP SINGLE-COLUMN INTRO
     matter physics. In 2024, he received the Infosys Young Investigator Award.
   </p>
 
-  <p style="margin-top:12px;">
-    <a href="https://scholar.google.co.uk/citations?hl=en&user=M29JjtAAAAAJ" target="_blank">
-      Google Scholar
-    </a> |
-    <a href="https://orcid.org/0000-0003-1942-2521" target="_blank">
-      ORCID
-    </a>
-  </p>
 
 </td>
 </tr>
