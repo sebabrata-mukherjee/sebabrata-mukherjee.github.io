@@ -120,7 +120,7 @@ Welcome to our research group at the Department of Physics, IISc Bangalore. We e
 
 <p>
 Contact
-<a href="https://sebabrata-mukherjee.github.io/seba.html" target="_blank">
+<a href="https://sebabrata-mukherjee.github.io/seba_N.html" target="_blank">
 Sebabrata Mukherjee
 </a>
 if you are interested in pursuing cutting-edge research in photonics,
