@@ -108,7 +108,7 @@ TOP SINGLE-COLUMN INTRO
     He has previously worked as a Research Associate at Heriot-Watt University
     and as a Postdoctoral Scholar at Pennsylvania State University, USA.
     He is currently an Assistant Professor in the
-    <a href="http://www.physics.iisc.ernet.in/people-faculty.php" target="_blank">
+    <a href="https://physics.iisc.ac.in/" target="_blank">
       Department of Physics
     </a>,
     IISc Bangalore. His research interests include photonics and condensed
