@@ -14,7 +14,7 @@
 
 .photo-item img {
   width: 100%;
-  height: 250px;          /* Set uniform height */
+  height: 300px;          /* Set uniform height */
   object-fit: cover;      /* Crop nicely without distortion */
   border-radius: 6px;     /* Optional: makes it look modern */
 }
