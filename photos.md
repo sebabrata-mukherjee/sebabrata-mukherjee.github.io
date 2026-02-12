@@ -84,7 +84,7 @@
 
   <tr>
     <td align="center">
-      <img src="imageN/Photo_Galary/Char.jpg" width="210"/><br/>
+      <img src="imageN/Photo_Galary/Char.jpg" width="140"/><br/>
       Probing stations
     </td>
     <td align="center">
