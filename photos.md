@@ -1,5 +1,75 @@
 ### Photo gallery
 
+
+### Photo gallery
+
+<style>
+.photo-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.photo-item {
+  flex: 1 1 calc(50% - 20px);
+  text-align: center;
+}
+
+.photo-item img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Mobile view */
+@media (max-width: 768px) {
+  .photo-item {
+    flex: 1 1 100%;
+  }
+}
+</style>
+
+<div class="photo-gallery">
+
+  <div class="photo-item">
+    <img src="imageN/Photo_Galary/KThyagarajan.jpeg">
+    <br/>Visit by Prof. K. Thyagarajan, IIT Delhi (2026)
+  </div>
+
+  <div class="photo-item">
+    <img src="imageN/Photo_Galary/Bhoomija_poster2024.jpeg">
+    <br/>Bhoomija – WOPI 2024 poster award
+  </div>
+
+  <div class="photo-item">
+    <img src="imageN/Photo_Galary/Char.jpg">
+    <br/>Probing stations
+  </div>
+
+  <div class="photo-item">
+    <img src="imageN/Photo_Galary/lab-avinash.jpg">
+    <br/>Avinash in the fabrication lab
+  </div>
+
+  <div class="photo-item">
+    <img src="imageN/Photo_Galary/School_outreach.jpeg">
+    <br/>SERB science outreach program 2024
+  </div>
+
+  <div class="photo-item">
+    <img src="imageN/Photo_Galary/group-Tday.jpeg">
+    <br/>Teachers’ Day 2024
+  </div>
+
+  <div class="photo-item">
+    <img src="imageN/Photo_Galary/dinner-orion.jpeg">
+    <br/>Dinner outing
+  </div>
+
+</div>
+
+
+
+<!--
 <table border="0">
   <tr>
     <td align="center">
@@ -42,7 +112,7 @@
   </tr>
 </table>
 
-
+-->
 
 
 
