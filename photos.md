@@ -38,7 +38,7 @@
   </div>
 
   <div class="photo-item">
-    <img src="imageN/Photo_Galary/Char.jpg">
+    <img src="imageN/Photo_Galary/characterization.jpg">
     <br/>Probing stations
   </div>
 
