@@ -3,8 +3,11 @@
 ### Conference presentations and research seminars
 
 
+**2026** <br/>
+- "Chiral Topological Edge States and Nonlinear Transport in s-p Orbital Photonic Devices," Faculty Seminar Series, School of Physics, University of Hyderabad, 04 March 2026
+
 **2025** <br/>
-- "Femtosecond Laser-Fabricated Photonic Topological Materials" Young Investigators' Meet on Quantum Condensed Matter Theory IISER Tirupati, 21-23 December 2025
+- "Femtosecond Laser-Fabricated Photonic Topological Materials," Young Investigators' Meet on Quantum Condensed Matter Theory IISER Tirupati, 21-23 December 2025
   
 - "Photonic Topological Materials," SPARC Short Term course on Optical, Infrared, and THz Detection Technology, IIT Kharagpur Research Park, New Town, Kolkata 20-21 December 2025
   
