@@ -14,7 +14,7 @@
 - Gayathry Rajeevan, and Sebabrata Mukherjee, "Observation of Unidirectional s-p Orbital Topological Edge States in Driven Photonic Lattices," <a href="https://arxiv.org/abs/2601.08914" target="_blank">arXiv:2601.08914 (2026)</a> 
 
 - Rishav Hui, Trideb Shit, Marco Di Liberto, Diptiman Sen, and Sebabrata Mukherjee, "Experimental Construction of NOON State Dynamics in Photonic Flat Band Lattices," <a href="https://arxiv.org/abs/2508.21700" target="_blank">arXiv:2508.21700 (2025)</a>,
-<a href="https://journals.aps.org/pra/accepted/10.1103/grwm-1kj3" target="_blank"> Accepted: Physical Review A (2026)</a>
+<a href="https://doi.org/10.1103/grwm-1kj3" target="_blank"> Physical Review A **113**, 053527 (2026)</a>
 
 
 - Avinash Tetarwal, Shailja Sharma, and Sebabrata Mukherjee, "Nonlinearity-induced Band Gap Transmission in Dispersive and Flat Band Photonic Lattices," <a href="https://arxiv.org/abs/2506.12586" target="_blank">arXiv:2506.12586 (2025)</a>, 
