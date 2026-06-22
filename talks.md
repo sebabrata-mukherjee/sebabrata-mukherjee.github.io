@@ -4,6 +4,8 @@
 
 
 **2026** <br/>
+- "The interplay of dissipation and nonlinearity in photonic topological insulators," MetaQuanta 2026, International Workshop on Metaoptics & Quantum Technology, IISc Bangalore, 15–18 June 2026
+  
 - "Chiral Topological Edge States and Nonlinear Transport in s-p Orbital Photonic Devices," Faculty Seminar Series, School of Physics, University of Hyderabad, 04 March 2026
 
 **2025** <br/>
