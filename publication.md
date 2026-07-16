@@ -11,7 +11,8 @@
   
 <!--**Recent** <br/> -->
 
-- Gayathry Rajeevan, and Sebabrata Mukherjee, "Observation of Unidirectional s-p Orbital Topological Edge States in Driven Photonic Lattices," <a href="https://arxiv.org/abs/2601.08914" target="_blank">arXiv:2601.08914 (2026)</a> 
+- Gayathry Rajeevan, and Sebabrata Mukherjee, "Observation of Unidirectional s-p Orbital Topological Edge States in Driven Photonic Lattices," <a href="https://arxiv.org/abs/2601.08914" target="_blank">arXiv:2601.08914 (2026)</a>,
+<a href="https://doi.org/10.1038/s42005-026-02756-8" target="_blank"> Communications Physics (2026)</a>
 
 - Rishav Hui, Trideb Shit, Marco Di Liberto, Diptiman Sen, and Sebabrata Mukherjee, "Phase- and photon-number-dependent NOON-state localization in flat-band lattices," <a href="https://arxiv.org/abs/2508.21700" target="_blank">arXiv:2508.21700 (2025)</a>,
 <a href="https://doi.org/10.1103/grwm-1kj3" target="_blank"> Physical Review A **113**, 053527 (2026)</a>
