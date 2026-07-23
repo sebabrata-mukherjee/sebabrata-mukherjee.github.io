@@ -5,6 +5,8 @@
 <!-- -->
 
 **2026** <br/>
+- "Photonic Topological Edge States and Solitons," research seminar at TIFR Hyderabad, 21 July 2026
+
 - "Topological Photonics: Interplay of Dissipation and Disorder," Collective effects in hot and cold atoms Indo-French workshop, Raman Research Institute, Bangalore, 13-18 July 2026
 
 - "The interplay of dissipation and nonlinearity in photonic topological insulators," MetaQuanta 2026, International Workshop on Metaoptics & Quantum Technology, IISc Bangalore, 15–18 June 2026
