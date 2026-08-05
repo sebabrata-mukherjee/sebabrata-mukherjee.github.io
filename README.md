@@ -137,6 +137,9 @@ condensed matter physics, quantum physics, and nonlinear dynamics.
 
 <div style="max-height:220px; overflow-y:scroll; padding-right:10px; scrollbar-width: thin;">
   <ul>
+    <li> Gayathry's paper on 
+          <a href="https://doi.org/10.1038/s42005-026-02756-8" target="_blank">s-p Orbital Topological Edge States</a> published in Communication Physics 
+     </li>
     <li>Check out our recent work on
       <a href="https://doi.org/10.1103/9jjd-vbp1" target="_blank">Topological Anderson Transition</a>
     </li>
