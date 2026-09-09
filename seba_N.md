@@ -98,21 +98,17 @@ TOP SINGLE-COLUMN INTRO
   </ul>
 
   <p style="line-height:1.55; margin-top:6px; text-align:justify;">
-    Sebabrata Mukherjee completed his Ph.D. at Heriot-Watt University, Edinburgh,
-    working on experimental simulation of solid-state phenomena in photonic
-    structures. He was awarded
+    Sebabrata Mukherjee completed his Ph.D. at Heriot-Watt University, Edinburgh, where his research focused on the experimental simulation of solid-state phenomena in photonic structures. He was awarded
     <a href="https://www.hw.ac.uk/students/manage-your-studies/your-student-record/prizes-and-medals" target="_blank">
       the 2016 MacFarlane Prize
     </a>
     for the most outstanding research contribution at the University.
-    He has previously worked as a Research Associate at Heriot-Watt University
-    and as a Postdoctoral Scholar at Pennsylvania State University, USA.
+    Following his doctorate, he worked as a Research Associate at Heriot-Watt University and subsequently as a Postdoctoral Scholar at Pennsylvania State University, USA.
     He is currently an Assistant Professor in the
     <a href="https://physics.iisc.ac.in/" target="_blank">
       Department of Physics
     </a>,
-    IISc Bangalore. His research interests include photonics and condensed
-    matter physics. In 2024, he received the Infosys Young Investigator Award, and in 2026, he was awarded the Prof. Priti Shankar Teaching Award.
+    IISc Bangalore, where his research interests span photonics and condensed matter physics. In 2024, he received the Infosys Young Investigator Award, and in 2026, he was awarded the Prof. Priti Shankar Teaching Award.
   </p>
 
 </td>
