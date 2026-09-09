@@ -112,7 +112,7 @@ TOP SINGLE-COLUMN INTRO
       Department of Physics
     </a>,
     IISc Bangalore. His research interests include photonics and condensed
-    matter physics. In 2024, he received the Infosys Young Investigator Award.
+    matter physics. In 2024, he received the Infosys Young Investigator Award, and in 2026, he was awarded the Prof. Priti Shankar Teaching Award.
   </p>
 
 </td>
