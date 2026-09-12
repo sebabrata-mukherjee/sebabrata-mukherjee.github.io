@@ -13,9 +13,6 @@
 
 
 
-
-
-
 ### Office address
 
 Department of Physics, F2-04 <br />
@@ -26,7 +23,7 @@ Email: mukherjee[at]iisc.ac.in ,  <br />
 mukherjeesebabrata[at]gmail.com <br />
 Phone: +91 80 2293 2065 (office)
 
-### IISc Bangalore address
+### IISc address
 
 IISc Main Campus <br />
 C V Raman Avenue, Bangalore <br />
