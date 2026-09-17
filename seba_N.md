@@ -108,7 +108,11 @@ TOP SINGLE-COLUMN INTRO
     <a href="https://physics.iisc.ac.in/" target="_blank">
       Department of Physics,
     </a>
-    IISc Bangalore, where his research interests span photonics and condensed matter physics. In 2024, he received the Infosys Young Investigator Award, and in 2026, he was awarded the 
+    IISc Bangalore, where his research interests span photonics and condensed matter physics. In 2024, he received the 
+    <a href="https://www.iisc.ac.in/young-investigators/#ffs-tabbed-12" target="_blank">
+    Infosys Young Investigator Award, 
+    </a>
+    and in 2026, he was awarded the 
     <a href="https://www.iisc.ac.in/institute-awards/prof-priti-shankar-teaching-award-for-assistant-professors/#ffs-tabbed-11" target="_blank">
     Prof. Priti Shankar Teaching Award
     </a>.
