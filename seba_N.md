@@ -106,8 +106,8 @@ TOP SINGLE-COLUMN INTRO
     Following his doctorate, he worked as a Research Associate at Heriot-Watt University and subsequently as a Postdoctoral Scholar at Pennsylvania State University, USA.
     He is currently an Assistant Professor in the
     <a href="https://physics.iisc.ac.in/" target="_blank">
-      Department of Physics
-    </a>,
+      Department of Physics,
+    </a>
     IISc Bangalore, where his research interests span photonics and condensed matter physics. In 2024, he received the Infosys Young Investigator Award, and in 2026, he was awarded the 
     <a href="https://www.iisc.ac.in/institute-awards/prof-priti-shankar-teaching-award-for-assistant-professors/#ffs-tabbed-11" target="_blank">
     Prof. Priti Shankar Teaching Award
