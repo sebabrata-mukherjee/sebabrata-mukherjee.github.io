@@ -114,8 +114,8 @@ TOP SINGLE-COLUMN INTRO
     </a>
     and in 2026, he was awarded the 
     <a href="https://www.iisc.ac.in/institute-awards/prof-priti-shankar-teaching-award-for-assistant-professors/#ffs-tabbed-11" target="_blank">
-    Prof. Priti Shankar Teaching Award
-    </a>.
+    Prof. Priti Shankar Teaching Award.
+    </a>
   </p>
 
 </td>
