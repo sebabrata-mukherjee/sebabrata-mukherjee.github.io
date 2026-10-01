@@ -5,6 +5,8 @@
 <!-- -->
 
 **2026** <br/>
+- Observation of Chiral s-p Orbital Topological Edge States in Femtosecond Laser-Written Photonic Floquet Lattices, XLIX OSI Symposium, Frontiers in Optics and Photonics (FOP) 2026, Delhi, September 25 - 28, 2026
+  
 - "Photonic Topological Edge States and Solitons," research seminar at TIFR Hyderabad, 21 July 2026
 
 - "Topological Photonics: Interplay of Dissipation and Disorder," Collective effects in hot and cold atoms Indo-French workshop, Raman Research Institute, Bangalore, 13-18 July 2026
