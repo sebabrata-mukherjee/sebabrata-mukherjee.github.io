@@ -2,7 +2,7 @@
 ## supplementary movies
 
 <p align="center">
-<img src="Videos/Dissipation_suppression_Topologyn/N_Supp_Movie_1_Fig_2_c_gP_0.00.mp4" width="700"/>
+<img src="Videos/Dissipation_suppression_Topologyn/N_Supp_Movie_1_Fig_2_c_gP_0.00.gif" width="400"/>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@ Supplementary Movie 1
 
 
 <p align="center">
-<img src="Videos/Dissipation_suppression_Topologyn/N_Supp_Movie_1_Fig_2_c_gP_0.30.mp4" width="700"/>
+<img src="Videos/Dissipation_suppression_Topologyn/N_Supp_Movie_1_Fig_2_c_gP_0.30.gif" width="400"/>
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@ Supplementary Movie 2
 
 
 <p align="center">
-<img src="Videos/Dissipation_suppression_Topologyn/N_Supp_Movie_1_Fig_2_c_gP_0.74.mp4" width="700"/>
+<img src="Videos/Dissipation_suppression_Topologyn/N_Supp_Movie_1_Fig_2_c_gP_0.74.gif" width="400"/>
 </p>
 
 <p align="center">
