@@ -11,6 +11,9 @@
   
 <!--**Recent** <br/> -->
 
+- Bhoomija Chaurasia, and Sebabrata Mukherjee, "Nonlinearity-Induced Suppression of Dissipation in Bath-Coupled Floquet Topological Insulators," <a href="https://arxiv.org/abs/2611.04752" target="_blank">arxiv.org:2611.04752 (2026)</a>
+
+
 - Gayathry Rajeevan, and Sebabrata Mukherjee, "Observation of Unidirectional s-p Orbital Topological Edge States in Driven Photonic Lattices," <a href="https://arxiv.org/abs/2601.08914" target="_blank">arXiv:2601.08914 (2026)</a>,
 <a href="https://doi.org/10.1038/s42005-026-02756-8" target="_blank"> Communications Physics (2026).</a> Selected as a <a href="https://www.nature.com/subjects/physics/commsphys?searchType=journalSearch&sort=PubDate&page=2" target="_blank">Featured Article</a> by Communications Physics.
 
